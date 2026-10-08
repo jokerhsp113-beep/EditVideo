@@ -1,0 +1,1640 @@
+{
+ "id": "06",
+ "title": "THE WINTER ENGINE - CPT1A",
+ "audio": "biy2/audio/Audio06.mp3",
+ "shots": [
+  {
+   "id": "6.1",
+   "title": "ABOVE THE ARCTIC CIRCLE",
+   "anchor": "Put a human population above the",
+   "hold": 1.4,
+   "vo": "Put a human population above the Arctic Circle and leave it there for thousands of years.",
+   "layers": [
+    {
+     "id": "6.1-0",
+     "label": "map Arctic",
+     "x": 1060,
+     "y": 364,
+     "to": [],
+     "h": 620,
+     "asset": "asset_map_arctic_v01",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.1-1",
+     "label": "crowd grid ×12",
+     "x": 960,
+     "y": 580,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 12,
+     "asset": "code_crowd_grid",
+     "at": "a human population",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.1-2",
+     "label": "timeline blurred",
+     "x": 1060,
+     "y": 880,
+     "to": [],
+     "w": 940,
+     "asset": "code_timeline_blurred",
+     "at": "thousands of years",
+     "enter": "DRAW",
+     "h": 38,
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.1-3",
+     "label": "Stick observer",
+     "x": 300,
+     "y": 620,
+     "to": [],
+     "h": 440,
+     "asset": "stick_observer_side_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "above the",
+    "and leave"
+   ],
+   "transition": "zoom"
+  },
+  {
+   "id": "6.2",
+   "title": "TAKE AWAY AGRICULTURE",
+   "anchor": "Take away agriculture. Make almost every",
+   "hold": 1.3,
+   "vo": "Take away agriculture. Make almost every calorie come from animals.",
+   "layers": [
+    {
+     "id": "6.2-0",
+     "label": "wheat icon",
+     "x": 366,
+     "y": 540,
+     "to": [],
+     "h": 300,
+     "asset": "asset_wheat_icon_v01",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.2-1",
+     "label": "red X",
+     "x": 366,
+     "y": 540,
+     "to": [],
+     "h": 220,
+     "asset": "code_mark_x",
+     "at": "agriculture",
+     "enter": "DRAW",
+     "z": 50
+    },
+    {
+     "id": "6.2-2",
+     "label": "calorie plate",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "w": 420,
+     "h": 420,
+     "asset": "code_calorie_plate",
+     "at": "every calorie",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.2-3",
+     "label": "fat block (90%)",
+     "x": 1553,
+     "y": 560,
+     "to": [],
+     "asset": "asset_fat_block_v01",
+     "at": "from animals",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "6.3",
+   "title": "SOMETHING HAS TO GIVE",
+   "anchor": "Something has to give in the",
+   "hold": 1.0,
+   "vo": "Something has to give in the machinery that burns fat.",
+   "layers": [
+    {
+     "id": "6.3-0",
+     "label": "calorie plate",
+     "x": 406,
+     "y": 560,
+     "to": [],
+     "w": 410,
+     "h": 410,
+     "asset": "code_calorie_plate",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.3-1",
+     "label": "`code_gear`",
+     "x": 1513,
+     "y": 560,
+     "to": [],
+     "h": 341,
+     "asset": "code_gear",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.3-2",
+     "label": "fat block (nhỏ)",
+     "x": 960,
+     "y": 560,
+     "to": [
+      [
+       1220,
+       560
+      ]
+     ],
+     "h": 136,
+     "asset": "asset_fat_block_v01",
+     "at": "burns fat",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.3-3",
+     "label": "question mark",
+     "x": 1300,
+     "y": 300,
+     "to": [],
+     "h": 227,
+     "asset": "asset_question_mark_v01",
+     "delay": 0.3,
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "6.4",
+   "title": "SOMETHING DID — SINGLE FOCAL ⚠ BUILD-LIMITED",
+   "anchor": "Something did.",
+   "hold": 0.8,
+   "vo": "Something did.",
+   "layers": [
+    {
+     "id": "6.4-0",
+     "label": "`code_gear`",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 593,
+     "asset": "code_gear",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "6.5",
+   "title": "THE WINTER ENGINE",
+   "anchor": "What emerged is a winter engine.",
+   "hold": 1.2,
+   "vo": "What emerged is a winter engine. The variant sits in a gene called CPT1A.",
+   "layers": [
+    {
+     "id": "6.5-0",
+     "label": "engine block",
+     "x": 960,
+     "y": 520,
+     "to": [],
+     "h": 440,
+     "asset": "asset_engine_block_v01",
+     "at": "a winter engine",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.5-1",
+     "label": "type \"CPT1A\"",
+     "x": 960,
+     "y": 880,
+     "to": [],
+     "size": 124,
+     "kind": "text",
+     "text": "CPT1A",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "variant sits",
+    "cpt1a cpt1a"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "6.6",
+   "title": "THE GATE",
+   "anchor": "CPT1A is the gate that lets",
+   "hold": 1.8,
+   "vo": "CPT1A is the gate that lets long-chain fat into the mitochondria to be burned.",
+   "layers": [
+    {
+     "id": "6.6-0",
+     "label": "body window",
+     "x": 1081,
+     "y": 540,
+     "to": [],
+     "w": 1000,
+     "h": 540,
+     "asset": "code_body_window",
+     "at": "CPT1A is the gate",
+     "enter": "FADE",
+     "z": 6
+    },
+    {
+     "id": "6.6-1",
+     "label": "mitochondrion plate",
+     "x": 1324,
+     "y": 540,
+     "to": [],
+     "h": 460,
+     "asset": "asset_mitochondrion_plate_v01",
+     "at": "CPT1A is the gate",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.6-2",
+     "label": "gate panel",
+     "x": 776,
+     "y": 740,
+     "to": [],
+     "h": 200,
+     "asset": "asset_gate_panel_v01",
+     "delay": 0.2,
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.6-3",
+     "label": "fat chain",
+     "x": 596,
+     "y": 540,
+     "to": [
+      [
+       1150,
+       540
+      ]
+     ],
+     "h": 140,
+     "asset": "asset_fat_chain_v01",
+     "at": "long-chain fat",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "into the",
+    "to be"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "6.7",
+   "title": "TWO WAYS AT ONCE",
+   "anchor": "The Arctic variant changes that gate",
+   "hold": 1.2,
+   "vo": "The Arctic variant changes that gate in two ways at once.",
+   "layers": [
+    {
+     "id": "6.7-0",
+     "label": "gate panel + dots",
+     "x": 880,
+     "y": 540,
+     "to": [],
+     "h": 390,
+     "asset": "asset_gate_panel_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.7-1",
+     "label": "divider line",
+     "x": 1377,
+     "y": 700,
+     "to": [],
+     "h": 625,
+     "asset": "code_divider_line",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.7-2",
+     "label": "slot box ×2",
+     "x": 960,
+     "y": 860,
+     "to": [
+      [
+       1472,
+       860
+      ]
+     ],
+     "w": 703,
+     "h": 312,
+     "count": 2,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "6.8",
+   "title": "NEVER CLOSES",
+   "anchor": "It stops responding to the signal",
+   "hold": 1.5,
+   "vo": "It stops responding to the signal that normally shuts the gate — so fat keeps moving through.",
+   "layers": [
+    {
+     "id": "6.8-0",
+     "label": "gate panel (nửa mở)",
+     "x": 780,
+     "y": 594,
+     "to": [],
+     "h": 263,
+     "asset": "asset_gate_panel_v01",
+     "z": 12,
+     "state": "ALIVE",
+     "exitOn": "6.8-4"
+    },
+    {
+     "id": "6.8-2",
+     "label": "stop signal",
+     "x": 500,
+     "y": 420,
+     "to": [
+      [
+       700,
+       480
+      ]
+     ],
+     "h": 236,
+     "asset": "asset_stop_signal_v01",
+     "at": "the signal",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.8-3",
+     "label": "red X",
+     "x": 500,
+     "y": 420,
+     "to": [],
+     "h": 184,
+     "asset": "code_mark_x",
+     "at": "stops responding",
+     "enter": "DRAW",
+     "z": 50
+    },
+    {
+     "id": "6.8-4",
+     "label": "fat chain ×3",
+     "x": 1060,
+     "y": 540,
+     "to": [],
+     "h": 184,
+     "count": 3,
+     "asset": "asset_fat_chain_v01",
+     "at": "keeps moving through",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.8-5",
+     "label": "slot box 1 + tick",
+     "x": 860,
+     "y": 860,
+     "to": [],
+     "w": 473,
+     "h": 210,
+     "count": 1,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "the gate"
+   ]
+  },
+  {
+   "id": "6.9",
+   "title": "NEVER OPENS ALL THE WAY",
+   "anchor": "But it also moves less fat",
+   "hold": 1.6,
+   "vo": "But it also moves less fat per second when the gate is open as wide as it goes.",
+   "layers": [
+    {
+     "id": "6.9-0",
+     "label": "gate panel (mở hết = thấp)",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 216,
+     "asset": "asset_gate_panel_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.9-1",
+     "label": "gate width ruler",
+     "x": 1096,
+     "y": 540,
+     "to": [],
+     "h": 226,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.9-2",
+     "label": "fat chain ×2 (thưa)",
+     "x": 1456,
+     "y": 540,
+     "to": [],
+     "h": 151,
+     "count": 2,
+     "asset": "asset_fat_chain_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.9-3",
+     "label": "slot box 2 + tick",
+     "x": 1220,
+     "y": 860,
+     "to": [],
+     "w": 389,
+     "h": 173,
+     "count": 2,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.9-c0",
+     "label": "code_gate_width_ruler",
+     "asset": "code_gate_width_ruler",
+     "x": 960,
+     "y": 720,
+     "to": [],
+     "delay": 0.2,
+     "enter": "DRAW",
+     "placed": "derived",
+     "w": 180,
+     "h": 92,
+     "z": 20,
+     "state": "ALIVE",
+     "props": {
+      "orientation": "horizontal"
+     }
+    }
+   ],
+   "push": null,
+   "beats": [
+    "fat per",
+    "when the",
+    "wide as"
+   ]
+  },
+  {
+   "id": "6.10",
+   "title": "NEVER CLOSES, NEVER FULLY OPENS — SINGLE FOCAL",
+   "anchor": "A gate that never closes, and",
+   "hold": 1.2,
+   "vo": "A gate that never closes, and never opens all the way.",
+   "layers": [
+    {
+     "id": "6.10-0",
+     "label": "gate panel",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 546,
+     "asset": "asset_gate_panel_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.10-1",
+     "label": "gate width ruler",
+     "x": 1204,
+     "y": 540,
+     "to": [],
+     "h": 440,
+     "asset": "code_ruler_marker",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 104
+    },
+    {
+     "id": "6.10-2",
+     "label": "red X ×2",
+     "x": 760,
+     "y": 540,
+     "to": [],
+     "h": 195,
+     "count": 2,
+     "asset": "code_mark_x",
+     "at": "never closes",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "never opens",
+    "all the"
+   ]
+  },
+  {
+   "id": "6.11",
+   "title": "TWO-THIRDS",
+   "anchor": "In some sampled Inuit, Yup'ik and",
+   "hold": 1.3,
+   "vo": "In some sampled Inuit, Yup'ik and Siberian populations the variant reaches above two-thirds.",
+   "layers": [
+    {
+     "id": "6.11-0",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "w": 1200,
+     "h": 720,
+     "asset": "code_dashed_outline",
+     "at": "some sampled",
+     "enter": "DRAW",
+     "z": 6
+    },
+    {
+     "id": "6.11-1",
+     "label": "map Arctic",
+     "x": 960,
+     "y": 264,
+     "to": [],
+     "h": 420,
+     "asset": "asset_map_arctic_v01",
+     "at": "populations",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.11-2",
+     "label": "crowd grid ×9",
+     "x": 960,
+     "y": 746,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 9,
+     "asset": "code_crowd_grid",
+     "at": "above two-thirds",
+     "enter": "POP",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.11-3",
+     "label": "evidence chip",
+     "x": 960,
+     "y": 114,
+     "to": [],
+     "h": 120,
+     "asset": "code_evidence_chip",
+     "delay": 0.3,
+     "enter": "FADE",
+     "text": ">2/3 · SAMPLED GROUPS",
+     "z": 20
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "inuit yup"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "6.12",
+   "title": "THE STATION CHANGES HANDS",
+   "anchor": "An engine tuned for one fuel",
+   "hold": 1.4,
+   "vo": "An engine tuned for one fuel is magnificent. Right up until the station changes hands.",
+   "layers": [
+    {
+     "id": "6.12-0",
+     "label": "engine block",
+     "x": 620,
+     "y": 560,
+     "to": [],
+     "h": 380,
+     "asset": "asset_engine_block_v01",
+     "at": "one fuel",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-1",
+     "label": "fuel station",
+     "x": 1340,
+     "y": 520,
+     "to": [],
+     "h": 520,
+     "asset": "asset_fuel_station_v01",
+     "at": "magnificent",
+     "enter": "DRAW",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-2",
+     "label": "new sign (trống)",
+     "x": 1340,
+     "y": 160,
+     "to": [],
+     "w": 420,
+     "h": 140,
+     "asset": "asset_plus_sign_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-3",
+     "label": "green check → red X",
+     "x": 620,
+     "y": 560,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "delay": 0.3,
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "6.12-c2",
+     "label": "code_mark_tick",
+     "asset": "code_mark_tick",
+     "x": 1340,
+     "y": 340,
+     "to": [],
+     "at": "magnificent",
+     "enter": "DRAW",
+     "placed": "derived",
+     "h": 170,
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "up until",
+    "changes hands"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "6.13",
+   "title": "ONLY THE FIRST MATTERS",
+   "anchor": "On a diet that is steadily,",
+   "hold": 1.5,
+   "vo": "On a diet that is steadily, relentlessly high in fat, only the first of those two changes matters.",
+   "layers": [
+    {
+     "id": "6.12-0~",
+     "label": "engine block",
+     "x": 1413,
+     "y": 560,
+     "h": 380,
+     "asset": "asset_engine_block_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-1~",
+     "label": "fuel station",
+     "x": 876,
+     "y": 520,
+     "h": 520,
+     "asset": "asset_fuel_station_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-2~",
+     "label": "new sign (trống)",
+     "x": 1340,
+     "y": 160,
+     "w": 420,
+     "h": 140,
+     "asset": "asset_plus_sign_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-0",
+     "label": "gate panel + ruler",
+     "x": 1049,
+     "y": 560,
+     "to": [],
+     "h": 399,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-1",
+     "label": "supply line (liền)",
+     "x": 506,
+     "y": 520,
+     "to": [],
+     "asset": "code_supply_line",
+     "at": "steadily, relentlessly",
+     "enter": "POP",
+     "w": 820,
+     "h": 33,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-2",
+     "label": "fat block ×5",
+     "x": 960,
+     "y": 520,
+     "to": [],
+     "h": 137,
+     "count": 5,
+     "asset": "asset_fat_block_v01",
+     "at": "high in fat",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.13-3",
+     "label": "slot box 1 (sáng) · 2 (30%)",
+     "x": 764,
+     "y": 880,
+     "to": [
+      [
+       1444,
+       880
+      ]
+     ],
+     "w": 439,
+     "h": 192,
+     "count": 1,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": null,
+   "beats": [
+    "only the",
+    "two changes"
+   ]
+  },
+  {
+   "id": "6.14",
+   "title": "NEVER HAS TO CATCH UP",
+   "anchor": "The gate never needs to open",
+   "hold": 1.3,
+   "vo": "The gate never needs to open all the way, because it never has to catch up.",
+   "layers": [
+    {
+     "id": "6.12-0~~",
+     "label": "engine block",
+     "x": 1526,
+     "y": 560,
+     "h": 380,
+     "asset": "asset_engine_block_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-1~~",
+     "label": "fuel station",
+     "x": 295,
+     "y": 520,
+     "h": 520,
+     "asset": "asset_fuel_station_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-2~~",
+     "label": "new sign (trống)",
+     "x": 1340,
+     "y": 160,
+     "w": 420,
+     "h": 140,
+     "asset": "asset_plus_sign_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-2~",
+     "label": "fat block ×5",
+     "x": 1565,
+     "y": 272,
+     "h": 137,
+     "count": 5,
+     "asset": "asset_fat_block_v01",
+     "enter": "NONE",
+     "placed": "derived",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-3~",
+     "label": "slot box 1 (sáng) · 2 (30%)",
+     "x": 764,
+     "y": 880,
+     "w": 439,
+     "h": 192,
+     "count": 1,
+     "asset": "code_window",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.14-0",
+     "label": "gate panel + ruler",
+     "x": 1296,
+     "y": 759,
+     "to": [],
+     "h": 150,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.14-1",
+     "label": "supply line (khớp nhịp)",
+     "x": 820,
+     "y": 759,
+     "to": [],
+     "asset": "code_supply_line",
+     "w": 820,
+     "h": 33,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.14-2",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 900,
+     "h": 420,
+     "asset": "code_dashed_outline",
+     "delay": 0.3,
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6
+    }
+   ],
+   "push": null,
+   "beats": [
+    "all the",
+    "never has"
+   ]
+  },
+  {
+   "id": "6.15",
+   "title": "HIGHER HDL",
+   "anchor": "It's also associated with higher HDL.",
+   "hold": 0.9,
+   "vo": "It's also associated with higher HDL.",
+   "layers": [
+    {
+     "id": "6.12-0~~~",
+     "label": "engine block",
+     "x": 1526,
+     "y": 560,
+     "h": 380,
+     "asset": "asset_engine_block_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-1~~~",
+     "label": "fuel station",
+     "x": 295,
+     "y": 520,
+     "h": 520,
+     "asset": "asset_fuel_station_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-2~~~",
+     "label": "new sign (trống)",
+     "x": 1340,
+     "y": 160,
+     "w": 420,
+     "h": 140,
+     "asset": "asset_plus_sign_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-2~~",
+     "label": "fat block ×5",
+     "x": 1565,
+     "y": 272,
+     "h": 137,
+     "count": 5,
+     "asset": "asset_fat_block_v01",
+     "enter": "NONE",
+     "placed": "derived",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-3~~",
+     "label": "slot box 1 (sáng) · 2 (30%)",
+     "x": 505,
+     "y": 880,
+     "w": 439,
+     "h": 192,
+     "count": 1,
+     "asset": "code_window",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.14-0~",
+     "label": "gate panel + ruler",
+     "x": 1584,
+     "y": 540,
+     "h": 440,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.14-1~",
+     "label": "supply line (khớp nhịp)",
+     "x": 506,
+     "y": 738,
+     "asset": "code_supply_line",
+     "w": 820,
+     "h": 33,
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.15-0",
+     "label": "hdl bar",
+     "x": 1440,
+     "y": 540,
+     "to": [],
+     "h": 548,
+     "asset": "code_hdl_bar",
+     "at": "higher HDL",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.15-1",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 392,
+     "h": 679,
+     "asset": "code_dashed_outline",
+     "at": "associated",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": null
+  },
+  {
+   "id": "6.16",
+   "title": "FASTING FLIPS IT",
+   "anchor": "Fasting flips which half counts.",
+   "hold": 1.0,
+   "vo": "Fasting flips which half counts.",
+   "layers": [
+    {
+     "id": "6.12-0~~~~",
+     "label": "engine block",
+     "x": 1526,
+     "y": 560,
+     "h": 380,
+     "asset": "asset_engine_block_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-1~~~~",
+     "label": "fuel station",
+     "x": 295,
+     "y": 520,
+     "h": 520,
+     "asset": "asset_fuel_station_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.12-2~~~~",
+     "label": "new sign (trống)",
+     "x": 1340,
+     "y": 160,
+     "w": 420,
+     "h": 140,
+     "asset": "asset_plus_sign_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.13-2~~~",
+     "label": "fat block ×5",
+     "x": 1565,
+     "y": 272,
+     "h": 137,
+     "count": 5,
+     "asset": "asset_fat_block_v01",
+     "enter": "NONE",
+     "placed": "derived",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.14-0~~",
+     "label": "gate panel + ruler",
+     "x": 1162,
+     "y": 560,
+     "h": 399,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.15-0~",
+     "label": "hdl bar",
+     "x": 960,
+     "y": 540,
+     "h": 548,
+     "asset": "code_hdl_bar",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.15-1~",
+     "label": "dashed outline",
+     "x": 393,
+     "y": 540,
+     "w": 392,
+     "h": 679,
+     "asset": "code_dashed_outline",
+     "enter": "NONE",
+     "placed": "derived",
+     "z": 4
+    },
+    {
+     "id": "6.16-0",
+     "label": "supply line (đứt)",
+     "x": 1160,
+     "y": 520,
+     "to": [],
+     "asset": "code_supply_line",
+     "at": "Fasting",
+     "enter": "POP",
+     "w": 820,
+     "h": 33,
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.16-1",
+     "label": "slot box 1 (30%) · 2 (sáng)",
+     "x": 960,
+     "y": 880,
+     "to": [
+      [
+       1576,
+       880
+      ]
+     ],
+     "w": 495,
+     "h": 216,
+     "count": 1,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": null
+  },
+  {
+   "id": "6.17",
+   "title": "WIDE OPEN IS NOW LOWER",
+   "anchor": "Making ketones needs that gate wide",
+   "hold": 1.6,
+   "vo": "Making ketones needs that gate wide open — and wide open is now lower than it used to be.",
+   "layers": [
+    {
+     "id": "6.17-0",
+     "label": "gate panel + ruler",
+     "x": 1436,
+     "y": 832,
+     "to": [],
+     "h": 150,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.17-1",
+     "label": "ketone factory",
+     "x": 1414,
+     "y": 540,
+     "to": [],
+     "h": 492,
+     "asset": "asset_ketone_factory_v01",
+     "at": "Making ketones",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.17-2",
+     "label": "supply line (rộng → hẹp)",
+     "x": 960,
+     "y": 832,
+     "to": [],
+     "w": 820,
+     "asset": "code_supply_line",
+     "h": 33,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.17-3",
+     "label": "red X",
+     "x": 1054,
+     "y": 540,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "delay": 0.3,
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "wide open",
+    "open is",
+    "than it"
+   ]
+  },
+  {
+   "id": "6.18",
+   "title": "IN ADULTS",
+   "anchor": "In adults eating the ancestral diet",
+   "hold": 1.3,
+   "vo": "In adults eating the ancestral diet this matters far less under the conditions the variant evolved in.",
+   "layers": [
+    {
+     "id": "6.17-0~",
+     "label": "gate panel + ruler",
+     "x": 1099,
+     "y": 560,
+     "h": 294,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.17-1~",
+     "label": "ketone factory",
+     "x": 1496,
+     "y": 540,
+     "h": 492,
+     "asset": "asset_ketone_factory_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.18-0",
+     "label": "small figure (người lớn)",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "h": 280,
+     "asset": "asset_small_figure_v01",
+     "at": "In adults",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.18-1",
+     "label": "supply line (liền)",
+     "x": 506,
+     "y": 560,
+     "to": [],
+     "asset": "code_supply_line",
+     "at": "the ancestral diet",
+     "enter": "POP",
+     "w": 820,
+     "h": 33,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.18-2",
+     "label": "grey tick",
+     "x": 1105,
+     "y": 560,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick_grey",
+     "at": "far less",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "6.18-3",
+     "label": "dashed outline",
+     "x": 1414,
+     "y": 540,
+     "to": [],
+     "w": 800,
+     "h": 480,
+     "asset": "code_dashed_outline",
+     "at": "the conditions",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "6.19",
+   "title": "IN INFANTS",
+   "anchor": "In infants, studies in Alaska and",
+   "hold": 1.6,
+   "vo": "In infants, studies in Alaska and northern Canada have linked it to dangerous drops in blood sugar during illness or a missed feed.",
+   "layers": [
+    {
+     "id": "6.19-0",
+     "label": "small figure (người lớn, 40%)",
+     "x": 560,
+     "y": 520,
+     "to": [],
+     "h": 280,
+     "asset": "asset_small_figure_v01",
+     "at": "In infants",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.19-1",
+     "label": "small figure (trẻ)",
+     "x": 1414,
+     "y": 666,
+     "to": [],
+     "h": 120,
+     "asset": "asset_small_figure_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.19-2",
+     "label": "supply line (đứt)",
+     "x": 1083,
+     "y": 560,
+     "to": [],
+     "asset": "code_supply_line",
+     "at": "a missed feed",
+     "enter": "POP",
+     "w": 820,
+     "h": 33,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.19-3",
+     "label": "glucose line",
+     "x": 1060,
+     "y": 820,
+     "to": [],
+     "w": 420,
+     "asset": "code_glucose_line",
+     "at": "blood sugar",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.19-4",
+     "label": "dashed outline",
+     "x": 506,
+     "y": 540,
+     "to": [],
+     "w": 640,
+     "h": 520,
+     "asset": "code_dashed_outline",
+     "at": "studies",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "canada have",
+    "to dangerous"
+   ]
+  },
+  {
+   "id": "6.20",
+   "title": "STILL BEING WORKED OUT",
+   "anchor": "Reported as an association in specific",
+   "hold": 1.2,
+   "vo": "Reported as an association in specific populations; the size of the effect is still being worked out.",
+   "layers": [
+    {
+     "id": "6.20-0",
+     "label": "dashed outline (dày)",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 640,
+     "h": 520,
+     "asset": "code_dashed_outline",
+     "placed": "derived",
+     "z": 6
+    },
+    {
+     "id": "6.20-1",
+     "label": "crowd grid nhỏ",
+     "x": 1060,
+     "y": 746,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "asset": "code_crowd_grid",
+     "at": "specific populations",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.20-2",
+     "label": "ruler marker (hai đầu trống)",
+     "x": 1543,
+     "y": 508,
+     "to": [],
+     "h": 189,
+     "asset": "code_ruler_marker",
+     "at": "the size of the effect",
+     "enter": "DRAW",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.20-3",
+     "label": "question mark",
+     "x": 1671,
+     "y": 508,
+     "to": [],
+     "h": 180,
+     "asset": "asset_question_mark_v01",
+     "at": "still being worked out",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "6.21",
+   "title": "NOT FAULTY — SINGLE FOCAL",
+   "anchor": "The engine isn't faulty. It was",
+   "hold": 1.4,
+   "vo": "The engine isn't faulty. It was built for a winter the rest of us never had to survive.",
+   "layers": [
+    {
+     "id": "6.21-0",
+     "label": "engine block",
+     "x": 724,
+     "y": 786,
+     "to": [],
+     "h": 480,
+     "asset": "asset_engine_block_v01",
+     "at": "The engine",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE",
+     "exitOn": "6.21-1"
+    },
+    {
+     "id": "6.21-1",
+     "label": "map Arctic (35%)",
+     "x": 724,
+     "y": 520,
+     "to": [],
+     "h": 700,
+     "asset": "asset_map_arctic_v01",
+     "at": "a winter",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.21-2",
+     "label": "Stick observer",
+     "x": 1444,
+     "y": 620,
+     "to": [],
+     "h": 420,
+     "asset": "stick_observer_side_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "never had"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "6.T",
+   "title": "BRIDGE → SECTION 7",
+   "anchor": "Every upgrade so far, you could",
+   "hold": 1.8,
+   "vo": "Every upgrade so far, you could point at the benefit and point somewhere else at the cost. Not this last one.",
+   "layers": [
+    {
+     "id": "6.T-0",
+     "label": "slot ×6",
+     "x": 960,
+     "y": 828,
+     "to": [],
+     "w": 396,
+     "h": 396,
+     "count": 6,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.T-1",
+     "label": "tag pair ×6",
+     "x": 960,
+     "y": 239,
+     "to": [],
+     "h": 146,
+     "count": 6,
+     "asset": "code_tag_pair",
+     "placed": "derived",
+     "w": 560,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.T-2",
+     "label": "gap marker ×6",
+     "x": 960,
+     "y": 600,
+     "to": [],
+     "h": 140,
+     "count": 6,
+     "asset": "code_gap_marker",
+     "at": "the cost",
+     "enter": "DRAW",
+     "placed": "derived",
+     "w": 34,
+     "z": 50,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "6.T-3",
+     "label": "slot 7 (trống)",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 396,
+     "h": 396,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "6.T-c1",
+     "label": "code_chapter_reset",
+     "asset": "code_chapter_reset",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "POP",
+     "placed": "derived",
+     "h": 2141,
+     "z": 6
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  }
+ ]
+}

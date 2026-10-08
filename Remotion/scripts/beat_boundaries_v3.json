@@ -1,0 +1,69 @@
+{
+  "B01": {
+    "file": "Audio001.mp3",
+    "startSeconds": 0.0,
+    "endSeconds": 9.64
+  },
+  "B02": {
+    "file": "Audio001.mp3",
+    "startSeconds": 9.64,
+    "endSeconds": 21.72
+  },
+  "B03": {
+    "file": "Audio001.mp3",
+    "startSeconds": 21.72,
+    "endSeconds": 30.76
+  },
+  "B04": {
+    "file": "Audio001.mp3",
+    "startSeconds": 30.3
+  },
+  "B05": {
+    "file": "Audio001.mp3",
+    "startSeconds": 51.0
+  },
+  "B06": {
+    "file": "Audio001.mp3",
+    "startSeconds": 76.84
+  },
+  "B07": {
+    "file": "Audio001.mp3",
+    "startSeconds": 107.24
+  },
+  "B08": {
+    "file": "Audio001.mp3",
+    "startSeconds": 133.82
+  },
+  "B09": {
+    "file": "Audio002.mp3",
+    "startSeconds": 36.94
+  },
+  "B10": {
+    "file": "Audio002.mp3",
+    "startSeconds": 69.38
+  },
+  "B11": {
+    "file": "Audio002.mp3",
+    "startSeconds": 108.6
+  },
+  "B12": {
+    "file": "Audio002.mp3",
+    "startSeconds": 141.68,
+    "endSeconds": 168.82
+  },
+  "B13": {
+    "file": "Audio002.mp3",
+    "startSeconds": 168.98,
+    "endSeconds": 186.56
+  },
+  "B14": {
+    "file": "Audio002.mp3",
+    "startSeconds": 187.02,
+    "endSeconds": 5.6
+  },
+  "B15": {
+    "file": "Audio003.mp3",
+    "startSeconds": 5.6,
+    "endSeconds": 23.38
+  }
+}

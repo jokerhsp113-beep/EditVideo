@@ -1,0 +1,1951 @@
+[
+ {
+  "text": "Imagine",
+  "startMs": 0,
+  "endMs": 339,
+  "timestampMs": 170,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 339,
+  "endMs": 571,
+  "timestampMs": 455,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 571,
+  "endMs": 750,
+  "timestampMs": 660,
+  "confidence": null
+ },
+ {
+  "text": " you.",
+  "startMs": 750,
+  "endMs": 1036,
+  "timestampMs": 893,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " You",
+  "startMs": 1221,
+  "endMs": 1436,
+  "timestampMs": 1328,
+  "confidence": null
+ },
+ {
+  "text": " burn",
+  "startMs": 1436,
+  "endMs": 1650,
+  "timestampMs": 1543,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 1650,
+  "endMs": 1864,
+  "timestampMs": 1757,
+  "confidence": null
+ },
+ {
+  "text": " twenty",
+  "startMs": 1864,
+  "endMs": 2132,
+  "timestampMs": 1998,
+  "confidence": null
+ },
+ {
+  "text": " minutes",
+  "startMs": 2132,
+  "endMs": 2471,
+  "timestampMs": 2302,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 2471,
+  "endMs": 2954,
+  "timestampMs": 2713,
+  "confidence": null
+ },
+ {
+  "text": " English",
+  "startMs": 2954,
+  "endMs": 3239,
+  "timestampMs": 3096,
+  "confidence": null
+ },
+ {
+  "text": " drizzle.",
+  "startMs": 3239,
+  "endMs": 3650,
+  "timestampMs": 3444,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " You've",
+  "startMs": 4079,
+  "endMs": 4329,
+  "timestampMs": 4204,
+  "confidence": null
+ },
+ {
+  "text": " had",
+  "startMs": 4329,
+  "endMs": 4454,
+  "timestampMs": 4392,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 4454,
+  "endMs": 4614,
+  "timestampMs": 4534,
+  "confidence": null
+ },
+ {
+  "text": " same",
+  "startMs": 4614,
+  "endMs": 4936,
+  "timestampMs": 4775,
+  "confidence": null
+ },
+ {
+  "text": " sunscreen",
+  "startMs": 4936,
+  "endMs": 5436,
+  "timestampMs": 5186,
+  "confidence": null
+ },
+ {
+  "text": " argument",
+  "startMs": 5436,
+  "endMs": 5900,
+  "timestampMs": 5668,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 5900,
+  "endMs": 6336,
+  "timestampMs": 6118,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 6336,
+  "endMs": 6461,
+  "timestampMs": 6398,
+  "confidence": null
+ },
+ {
+  "text": " same",
+  "startMs": 6461,
+  "endMs": 6711,
+  "timestampMs": 6586,
+  "confidence": null
+ },
+ {
+  "text": " friend",
+  "startMs": 6711,
+  "endMs": 7032,
+  "timestampMs": 6872,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 7032,
+  "endMs": 7282,
+  "timestampMs": 7157,
+  "confidence": null
+ },
+ {
+  "text": " summer",
+  "startMs": 7282,
+  "endMs": 7639,
+  "timestampMs": 7460,
+  "confidence": null
+ },
+ {
+  "text": " since",
+  "startMs": 7639,
+  "endMs": 8050,
+  "timestampMs": 7844,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 8050,
+  "endMs": 8246,
+  "timestampMs": 8148,
+  "confidence": null
+ },
+ {
+  "text": " were",
+  "startMs": 8246,
+  "endMs": 8354,
+  "timestampMs": 8300,
+  "confidence": null
+ },
+ {
+  "text": " nine.",
+  "startMs": 8354,
+  "endMs": 8675,
+  "timestampMs": 8514,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " And",
+  "startMs": 8871,
+  "endMs": 9336,
+  "timestampMs": 9104,
+  "confidence": null
+ },
+ {
+  "text": " nobody",
+  "startMs": 9336,
+  "endMs": 9693,
+  "timestampMs": 9514,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 9693,
+  "endMs": 10354,
+  "timestampMs": 10023,
+  "confidence": null
+ },
+ {
+  "text": " ever",
+  "startMs": 10354,
+  "endMs": 10550,
+  "timestampMs": 10452,
+  "confidence": null
+ },
+ {
+  "text": " once",
+  "startMs": 10550,
+  "endMs": 10871,
+  "timestampMs": 10710,
+  "confidence": null
+ },
+ {
+  "text": " described",
+  "startMs": 10871,
+  "endMs": 11300,
+  "timestampMs": 11086,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 11300,
+  "endMs": 11621,
+  "timestampMs": 11460,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 11621,
+  "endMs": 12157,
+  "timestampMs": 11889,
+  "confidence": null
+ },
+ {
+  "text": " tanned.",
+  "startMs": 12157,
+  "endMs": 12693,
+  "timestampMs": 12425,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " That",
+  "startMs": 12932,
+  "endMs": 13146,
+  "timestampMs": 13039,
+  "confidence": null
+ },
+ {
+  "text": " pattern",
+  "startMs": 13146,
+  "endMs": 13539,
+  "timestampMs": 13343,
+  "confidence": null
+ },
+ {
+  "text": " isn't",
+  "startMs": 13539,
+  "endMs": 14021,
+  "timestampMs": 13780,
+  "confidence": null
+ },
+ {
+  "text": " random.",
+  "startMs": 14021,
+  "endMs": 14432,
+  "timestampMs": 14227,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " It's",
+  "startMs": 14564,
+  "endMs": 14868,
+  "timestampMs": 14716,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 14868,
+  "endMs": 14975,
+  "timestampMs": 14922,
+  "confidence": null
+ },
+ {
+  "text": " cloud",
+  "startMs": 14975,
+  "endMs": 15279,
+  "timestampMs": 15127,
+  "confidence": null
+ },
+ {
+  "text": " setting.",
+  "startMs": 15279,
+  "endMs": 15654,
+  "timestampMs": 15466,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 16154,
+  "endMs": 16350,
+  "timestampMs": 16252,
+  "confidence": null
+ },
+ {
+  "text": " gene",
+  "startMs": 16350,
+  "endMs": 16689,
+  "timestampMs": 16520,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 16689,
+  "endMs": 17232,
+  "timestampMs": 16960,
+  "confidence": null
+ },
+ {
+  "text": " MC1R.",
+  "startMs": 17232,
+  "endMs": 18232,
+  "timestampMs": 17732,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " MC1R",
+  "startMs": 18721,
+  "endMs": 19364,
+  "timestampMs": 19042,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 19364,
+  "endMs": 19739,
+  "timestampMs": 19552,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 19739,
+  "endMs": 19864,
+  "timestampMs": 19802,
+  "confidence": null
+ },
+ {
+  "text": " receiver",
+  "startMs": 19864,
+  "endMs": 20168,
+  "timestampMs": 20016,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 20168,
+  "endMs": 20418,
+  "timestampMs": 20293,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 20418,
+  "endMs": 20543,
+  "timestampMs": 20480,
+  "confidence": null
+ },
+ {
+  "text": " cells",
+  "startMs": 20543,
+  "endMs": 20811,
+  "timestampMs": 20677,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 20811,
+  "endMs": 21079,
+  "timestampMs": 20945,
+  "confidence": null
+ },
+ {
+  "text": " make",
+  "startMs": 21079,
+  "endMs": 21329,
+  "timestampMs": 21204,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 21329,
+  "endMs": 21525,
+  "timestampMs": 21427,
+  "confidence": null
+ },
+ {
+  "text": " pigment.",
+  "startMs": 21525,
+  "endMs": 21829,
+  "timestampMs": 21677,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " At",
+  "startMs": 22193,
+  "endMs": 22354,
+  "timestampMs": 22274,
+  "confidence": null
+ },
+ {
+  "text": " full",
+  "startMs": 22354,
+  "endMs": 22586,
+  "timestampMs": 22470,
+  "confidence": null
+ },
+ {
+  "text": " signal",
+  "startMs": 22586,
+  "endMs": 22961,
+  "timestampMs": 22774,
+  "confidence": null
+ },
+ {
+  "text": " they",
+  "startMs": 23264,
+  "endMs": 23443,
+  "timestampMs": 23354,
+  "confidence": null
+ },
+ {
+  "text": " build",
+  "startMs": 23443,
+  "endMs": 23746,
+  "timestampMs": 23594,
+  "confidence": null
+ },
+ {
+  "text": " dark",
+  "startMs": 23746,
+  "endMs": 24318,
+  "timestampMs": 24032,
+  "confidence": null
+ },
+ {
+  "text": " eumelanin",
+  "startMs": 24318,
+  "endMs": 25068,
+  "timestampMs": 24693,
+  "confidence": null
+ },
+ {
+  "text": " \u2014",
+  "startMs": 25068,
+  "endMs": 25371,
+  "timestampMs": 25220,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 25371,
+  "endMs": 25479,
+  "timestampMs": 25425,
+  "confidence": null
+ },
+ {
+  "text": " shield.",
+  "startMs": 25479,
+  "endMs": 25711,
+  "timestampMs": 25595,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Certain",
+  "startMs": 26057,
+  "endMs": 26361,
+  "timestampMs": 26209,
+  "confidence": null
+ },
+ {
+  "text": " variants",
+  "startMs": 26361,
+  "endMs": 26807,
+  "timestampMs": 26584,
+  "confidence": null
+ },
+ {
+  "text": " blunt",
+  "startMs": 26807,
+  "endMs": 27111,
+  "timestampMs": 26959,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 27111,
+  "endMs": 27361,
+  "timestampMs": 27236,
+  "confidence": null
+ },
+ {
+  "text": " signal,",
+  "startMs": 27361,
+  "endMs": 27718,
+  "timestampMs": 27540,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 27879,
+  "endMs": 28182,
+  "timestampMs": 28030,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 28182,
+  "endMs": 28343,
+  "timestampMs": 28262,
+  "confidence": null
+ },
+ {
+  "text": " cells",
+  "startMs": 28343,
+  "endMs": 28646,
+  "timestampMs": 28495,
+  "confidence": null
+ },
+ {
+  "text": " switch",
+  "startMs": 28646,
+  "endMs": 29200,
+  "timestampMs": 28923,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 29200,
+  "endMs": 29432,
+  "timestampMs": 29316,
+  "confidence": null
+ },
+ {
+  "text": " pheomelanin",
+  "startMs": 29432,
+  "endMs": 30182,
+  "timestampMs": 29807,
+  "confidence": null
+ },
+ {
+  "text": " instead,",
+  "startMs": 30182,
+  "endMs": 30557,
+  "timestampMs": 30370,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 30950,
+  "endMs": 31093,
+  "timestampMs": 31022,
+  "confidence": null
+ },
+ {
+  "text": " red-gold",
+  "startMs": 31093,
+  "endMs": 31504,
+  "timestampMs": 31298,
+  "confidence": null
+ },
+ {
+  "text": " one.",
+  "startMs": 31504,
+  "endMs": 31807,
+  "timestampMs": 31656,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Less",
+  "startMs": 32182,
+  "endMs": 32396,
+  "timestampMs": 32289,
+  "confidence": null
+ },
+ {
+  "text": " shield.",
+  "startMs": 32396,
+  "endMs": 32718,
+  "timestampMs": 32557,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " More",
+  "startMs": 33029,
+  "endMs": 33261,
+  "timestampMs": 33145,
+  "confidence": null
+ },
+ {
+  "text": " window.",
+  "startMs": 33261,
+  "endMs": 33618,
+  "timestampMs": 33440,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " A",
+  "startMs": 34046,
+  "endMs": 34243,
+  "timestampMs": 34144,
+  "confidence": null
+ },
+ {
+  "text": " dimmer",
+  "startMs": 34243,
+  "endMs": 34743,
+  "timestampMs": 34493,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 34743,
+  "endMs": 35189,
+  "timestampMs": 34966,
+  "confidence": null
+ },
+ {
+  "text": " got",
+  "startMs": 35189,
+  "endMs": 35404,
+  "timestampMs": 35296,
+  "confidence": null
+ },
+ {
+  "text": " turned",
+  "startMs": 35404,
+  "endMs": 35689,
+  "timestampMs": 35546,
+  "confidence": null
+ },
+ {
+  "text": " down",
+  "startMs": 35689,
+  "endMs": 36064,
+  "timestampMs": 35876,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 36064,
+  "endMs": 36529,
+  "timestampMs": 36296,
+  "confidence": null
+ },
+ {
+  "text": " then",
+  "startMs": 36529,
+  "endMs": 36689,
+  "timestampMs": 36609,
+  "confidence": null
+ },
+ {
+  "text": " left",
+  "startMs": 36689,
+  "endMs": 36921,
+  "timestampMs": 36805,
+  "confidence": null
+ },
+ {
+  "text": " there.",
+  "startMs": 36921,
+  "endMs": 37314,
+  "timestampMs": 37118,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Ireland",
+  "startMs": 37518,
+  "endMs": 37893,
+  "timestampMs": 37706,
+  "confidence": null
+ },
+ {
+  "text": " runs",
+  "startMs": 37893,
+  "endMs": 38268,
+  "timestampMs": 38080,
+  "confidence": null
+ },
+ {
+  "text": " near",
+  "startMs": 38268,
+  "endMs": 38518,
+  "timestampMs": 38393,
+  "confidence": null
+ },
+ {
+  "text": " ten",
+  "startMs": 38518,
+  "endMs": 38839,
+  "timestampMs": 38678,
+  "confidence": null
+ },
+ {
+  "text": " percent",
+  "startMs": 38839,
+  "endMs": 39214,
+  "timestampMs": 39026,
+  "confidence": null
+ },
+ {
+  "text": " red",
+  "startMs": 39214,
+  "endMs": 39554,
+  "timestampMs": 39384,
+  "confidence": null
+ },
+ {
+  "text": " hair,",
+  "startMs": 39554,
+  "endMs": 39857,
+  "timestampMs": 39706,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 40268,
+  "endMs": 40464,
+  "timestampMs": 40366,
+  "confidence": null
+ },
+ {
+  "text": " roughly",
+  "startMs": 40464,
+  "endMs": 40911,
+  "timestampMs": 40688,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 40911,
+  "endMs": 41107,
+  "timestampMs": 41009,
+  "confidence": null
+ },
+ {
+  "text": " third",
+  "startMs": 41107,
+  "endMs": 41357,
+  "timestampMs": 41232,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 41357,
+  "endMs": 41571,
+  "timestampMs": 41464,
+  "confidence": null
+ },
+ {
+  "text": " people",
+  "startMs": 41571,
+  "endMs": 41821,
+  "timestampMs": 41696,
+  "confidence": null
+ },
+ {
+  "text": " carry",
+  "startMs": 41821,
+  "endMs": 42089,
+  "timestampMs": 41955,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 42089,
+  "endMs": 42286,
+  "timestampMs": 42188,
+  "confidence": null
+ },
+ {
+  "text": " variant",
+  "startMs": 42286,
+  "endMs": 42661,
+  "timestampMs": 42474,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 42661,
+  "endMs": 43125,
+  "timestampMs": 42893,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 43125,
+  "endMs": 43446,
+  "timestampMs": 43286,
+  "confidence": null
+ },
+ {
+  "text": " show",
+  "startMs": 43446,
+  "endMs": 43696,
+  "timestampMs": 43571,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 43696,
+  "endMs": 43911,
+  "timestampMs": 43804,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Red",
+  "startMs": 44114,
+  "endMs": 44311,
+  "timestampMs": 44212,
+  "confidence": null
+ },
+ {
+  "text": " hair",
+  "startMs": 44311,
+  "endMs": 44561,
+  "timestampMs": 44436,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 44561,
+  "endMs": 44864,
+  "timestampMs": 44712,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 44864,
+  "endMs": 45221,
+  "timestampMs": 45042,
+  "confidence": null
+ },
+ {
+  "text": " clue",
+  "startMs": 45221,
+  "endMs": 45579,
+  "timestampMs": 45400,
+  "confidence": null
+ },
+ {
+  "text": " associated",
+  "startMs": 45579,
+  "endMs": 46443,
+  "timestampMs": 46011,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 46443,
+  "endMs": 46711,
+  "timestampMs": 46577,
+  "confidence": null
+ },
+ {
+  "text": " these",
+  "startMs": 46711,
+  "endMs": 46925,
+  "timestampMs": 46818,
+  "confidence": null
+ },
+ {
+  "text": " variants",
+  "startMs": 46925,
+  "endMs": 47336,
+  "timestampMs": 47130,
+  "confidence": null
+ },
+ {
+  "text": " \u2014",
+  "startMs": 47336,
+  "endMs": 47711,
+  "timestampMs": 47524,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 47711,
+  "endMs": 47979,
+  "timestampMs": 47845,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 47979,
+  "endMs": 48086,
+  "timestampMs": 48032,
+  "confidence": null
+ },
+ {
+  "text": " test",
+  "startMs": 48086,
+  "endMs": 48264,
+  "timestampMs": 48175,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 48264,
+  "endMs": 48496,
+  "timestampMs": 48380,
+  "confidence": null
+ },
+ {
+  "text": " them.",
+  "startMs": 48496,
+  "endMs": 48746,
+  "timestampMs": 48621,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Plenty",
+  "startMs": 48888,
+  "endMs": 49030,
+  "timestampMs": 48959,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 49030,
+  "endMs": 49245,
+  "timestampMs": 49138,
+  "confidence": null
+ },
+ {
+  "text": " carriers",
+  "startMs": 49245,
+  "endMs": 49584,
+  "timestampMs": 49415,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 49584,
+  "endMs": 49905,
+  "timestampMs": 49744,
+  "confidence": null
+ },
+ {
+  "text": " brunette.",
+  "startMs": 49905,
+  "endMs": 50548,
+  "timestampMs": 50226,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " One",
+  "startMs": 50977,
+  "endMs": 51334,
+  "timestampMs": 51156,
+  "confidence": null
+ },
+ {
+  "text": " odd",
+  "startMs": 51334,
+  "endMs": 51727,
+  "timestampMs": 51530,
+  "confidence": null
+ },
+ {
+  "text": " side",
+  "startMs": 51727,
+  "endMs": 52048,
+  "timestampMs": 51888,
+  "confidence": null
+ },
+ {
+  "text": " effect:",
+  "startMs": 52048,
+  "endMs": 52423,
+  "timestampMs": 52236,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 52727,
+  "endMs": 52888,
+  "timestampMs": 52808,
+  "confidence": null
+ },
+ {
+  "text": " small",
+  "startMs": 52888,
+  "endMs": 53138,
+  "timestampMs": 53013,
+  "confidence": null
+ },
+ {
+  "text": " study",
+  "startMs": 53138,
+  "endMs": 53459,
+  "timestampMs": 53299,
+  "confidence": null
+ },
+ {
+  "text": " found",
+  "startMs": 53459,
+  "endMs": 53834,
+  "timestampMs": 53646,
+  "confidence": null
+ },
+ {
+  "text": " red-haired",
+  "startMs": 53834,
+  "endMs": 54566,
+  "timestampMs": 54200,
+  "confidence": null
+ },
+ {
+  "text": " patients",
+  "startMs": 54566,
+  "endMs": 55120,
+  "timestampMs": 54843,
+  "confidence": null
+ },
+ {
+  "text": " needed",
+  "startMs": 55120,
+  "endMs": 55423,
+  "timestampMs": 55272,
+  "confidence": null
+ },
+ {
+  "text": " more",
+  "startMs": 55423,
+  "endMs": 55780,
+  "timestampMs": 55602,
+  "confidence": null
+ },
+ {
+  "text": " anesthetic",
+  "startMs": 55780,
+  "endMs": 56566,
+  "timestampMs": 56173,
+  "confidence": null
+ },
+ {
+  "text": " than",
+  "startMs": 56566,
+  "endMs": 56870,
+  "timestampMs": 56718,
+  "confidence": null
+ },
+ {
+  "text": " everyone",
+  "startMs": 56870,
+  "endMs": 57263,
+  "timestampMs": 57066,
+  "confidence": null
+ },
+ {
+  "text": " else.",
+  "startMs": 57263,
+  "endMs": 57530,
+  "timestampMs": 57396,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Small",
+  "startMs": 57913,
+  "endMs": 58109,
+  "timestampMs": 58011,
+  "confidence": null
+ },
+ {
+  "text": " study.",
+  "startMs": 58109,
+  "endMs": 58502,
+  "timestampMs": 58306,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Twenty",
+  "startMs": 58714,
+  "endMs": 58964,
+  "timestampMs": 58839,
+  "confidence": null
+ },
+ {
+  "text": " people.",
+  "startMs": 58964,
+  "endMs": 59286,
+  "timestampMs": 59125,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Don't",
+  "startMs": 59605,
+  "endMs": 59963,
+  "timestampMs": 59784,
+  "confidence": null
+ },
+ {
+  "text": " build",
+  "startMs": 59963,
+  "endMs": 60123,
+  "timestampMs": 60043,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 60123,
+  "endMs": 60302,
+  "timestampMs": 60212,
+  "confidence": null
+ },
+ {
+  "text": " personality",
+  "startMs": 60302,
+  "endMs": 60695,
+  "timestampMs": 60498,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 60695,
+  "endMs": 61052,
+  "timestampMs": 60874,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 61052,
+  "endMs": 61195,
+  "timestampMs": 61124,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " At",
+  "startMs": 61302,
+  "endMs": 61523,
+  "timestampMs": 61412,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 61523,
+  "endMs": 61702,
+  "timestampMs": 61612,
+  "confidence": null
+ },
+ {
+  "text": " latitude",
+  "startMs": 61702,
+  "endMs": 62166,
+  "timestampMs": 61934,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 62666,
+  "endMs": 62755,
+  "timestampMs": 62710,
+  "confidence": null
+ },
+ {
+  "text": " sun",
+  "startMs": 62755,
+  "endMs": 62988,
+  "timestampMs": 62872,
+  "confidence": null
+ },
+ {
+  "text": " clears",
+  "startMs": 62988,
+  "endMs": 63345,
+  "timestampMs": 63166,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 63345,
+  "endMs": 63595,
+  "timestampMs": 63470,
+  "confidence": null
+ },
+ {
+  "text": " cloud",
+  "startMs": 63595,
+  "endMs": 63845,
+  "timestampMs": 63720,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 63845,
+  "endMs": 64059,
+  "timestampMs": 63952,
+  "confidence": null
+ },
+ {
+  "text": " few",
+  "startMs": 64059,
+  "endMs": 64220,
+  "timestampMs": 64140,
+  "confidence": null
+ },
+ {
+  "text": " weeks",
+  "startMs": 64220,
+  "endMs": 64434,
+  "timestampMs": 64327,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 64434,
+  "endMs": 64595,
+  "timestampMs": 64514,
+  "confidence": null
+ },
+ {
+  "text": " year.",
+  "startMs": 64595,
+  "endMs": 64827,
+  "timestampMs": 64711,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Skin",
+  "startMs": 65405,
+  "endMs": 65566,
+  "timestampMs": 65486,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 65566,
+  "endMs": 65798,
+  "timestampMs": 65682,
+  "confidence": null
+ },
+ {
+  "text": " lets",
+  "startMs": 65798,
+  "endMs": 66102,
+  "timestampMs": 65950,
+  "confidence": null
+ },
+ {
+  "text": " light",
+  "startMs": 66102,
+  "endMs": 66370,
+  "timestampMs": 66236,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 66370,
+  "endMs": 66798,
+  "timestampMs": 66584,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 66798,
+  "endMs": 67298,
+  "timestampMs": 67048,
+  "confidence": null
+ },
+ {
+  "text": " makes",
+  "startMs": 67298,
+  "endMs": 67620,
+  "timestampMs": 67459,
+  "confidence": null
+ },
+ {
+  "text": " vitamin",
+  "startMs": 67620,
+  "endMs": 67941,
+  "timestampMs": 67780,
+  "confidence": null
+ },
+ {
+  "text": " D",
+  "startMs": 67941,
+  "endMs": 68227,
+  "timestampMs": 68084,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 68227,
+  "endMs": 68513,
+  "timestampMs": 68370,
+  "confidence": null
+ },
+ {
+  "text": " days",
+  "startMs": 68513,
+  "endMs": 68852,
+  "timestampMs": 68682,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 68852,
+  "endMs": 69191,
+  "timestampMs": 69022,
+  "confidence": null
+ },
+ {
+  "text": " darker",
+  "startMs": 69191,
+  "endMs": 69530,
+  "timestampMs": 69360,
+  "confidence": null
+ },
+ {
+  "text": " skin",
+  "startMs": 69530,
+  "endMs": 70048,
+  "timestampMs": 69789,
+  "confidence": null
+ },
+ {
+  "text": " produces",
+  "startMs": 70048,
+  "endMs": 70727,
+  "timestampMs": 70388,
+  "confidence": null
+ },
+ {
+  "text": " far",
+  "startMs": 70727,
+  "endMs": 71209,
+  "timestampMs": 70968,
+  "confidence": null
+ },
+ {
+  "text": " less",
+  "startMs": 71209,
+  "endMs": 71638,
+  "timestampMs": 71424,
+  "confidence": null
+ },
+ {
+  "text": " under",
+  "startMs": 71638,
+  "endMs": 71959,
+  "timestampMs": 71798,
+  "confidence": null
+ },
+ {
+  "text": " very",
+  "startMs": 71959,
+  "endMs": 72370,
+  "timestampMs": 72164,
+  "confidence": null
+ },
+ {
+  "text": " weak",
+  "startMs": 72370,
+  "endMs": 72620,
+  "timestampMs": 72495,
+  "confidence": null
+ },
+ {
+  "text": " UV.",
+  "startMs": 72620,
+  "endMs": 73066,
+  "timestampMs": 72843,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Move",
+  "startMs": 73386,
+  "endMs": 73672,
+  "timestampMs": 73529,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 73672,
+  "endMs": 73904,
+  "timestampMs": 73788,
+  "confidence": null
+ },
+ {
+  "text": " setting",
+  "startMs": 73904,
+  "endMs": 74279,
+  "timestampMs": 74092,
+  "confidence": null
+ },
+ {
+  "text": " somewhere",
+  "startMs": 74279,
+  "endMs": 74922,
+  "timestampMs": 74600,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 74922,
+  "endMs": 75475,
+  "timestampMs": 75198,
+  "confidence": null
+ },
+ {
+  "text": " real",
+  "startMs": 75475,
+  "endMs": 75814,
+  "timestampMs": 75644,
+  "confidence": null
+ },
+ {
+  "text": " sun",
+  "startMs": 75814,
+  "endMs": 76118,
+  "timestampMs": 75966,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 76350,
+  "endMs": 76563,
+  "timestampMs": 76456,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 76563,
+  "endMs": 76670,
+  "timestampMs": 76616,
+  "confidence": null
+ },
+ {
+  "text": " window",
+  "startMs": 76670,
+  "endMs": 76973,
+  "timestampMs": 76822,
+  "confidence": null
+ },
+ {
+  "text": " does",
+  "startMs": 76973,
+  "endMs": 77473,
+  "timestampMs": 77223,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 77473,
+  "endMs": 77723,
+  "timestampMs": 77598,
+  "confidence": null
+ },
+ {
+  "text": " windows",
+  "startMs": 77723,
+  "endMs": 78009,
+  "timestampMs": 77866,
+  "confidence": null
+ },
+ {
+  "text": " do.",
+  "startMs": 78009,
+  "endMs": 78384,
+  "timestampMs": 78196,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " These",
+  "startMs": 78686,
+  "endMs": 78989,
+  "timestampMs": 78838,
+  "confidence": null
+ },
+ {
+  "text": " variants",
+  "startMs": 78989,
+  "endMs": 79347,
+  "timestampMs": 79168,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 79347,
+  "endMs": 79704,
+  "timestampMs": 79526,
+  "confidence": null
+ },
+ {
+  "text": " associated",
+  "startMs": 79704,
+  "endMs": 80097,
+  "timestampMs": 79900,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 80097,
+  "endMs": 80400,
+  "timestampMs": 80248,
+  "confidence": null
+ },
+ {
+  "text": " sharply",
+  "startMs": 80400,
+  "endMs": 80686,
+  "timestampMs": 80543,
+  "confidence": null
+ },
+ {
+  "text": " higher",
+  "startMs": 80686,
+  "endMs": 81132,
+  "timestampMs": 80909,
+  "confidence": null
+ },
+ {
+  "text": " melanoma",
+  "startMs": 81132,
+  "endMs": 81632,
+  "timestampMs": 81382,
+  "confidence": null
+ },
+ {
+  "text": " risk.",
+  "startMs": 81632,
+  "endMs": 82007,
+  "timestampMs": 81820,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Same",
+  "startMs": 82318,
+  "endMs": 82711,
+  "timestampMs": 82514,
+  "confidence": null
+ },
+ {
+  "text": " open",
+  "startMs": 82711,
+  "endMs": 83211,
+  "timestampMs": 82961,
+  "confidence": null
+ },
+ {
+  "text": " door,",
+  "startMs": 83211,
+  "endMs": 83532,
+  "timestampMs": 83372,
+  "confidence": null
+ },
+ {
+  "text": " different",
+  "startMs": 83825,
+  "endMs": 84039,
+  "timestampMs": 83932,
+  "confidence": null
+ },
+ {
+  "text": " visitor.",
+  "startMs": 84039,
+  "endMs": 84611,
+  "timestampMs": 84325,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 84825,
+  "endMs": 85038,
+  "timestampMs": 84932,
+  "confidence": null
+ },
+ {
+  "text": " dimmer",
+  "startMs": 85038,
+  "endMs": 85377,
+  "timestampMs": 85208,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 85377,
+  "endMs": 85714,
+  "timestampMs": 85546,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 85714,
+  "endMs": 85964,
+  "timestampMs": 85839,
+  "confidence": null
+ },
+ {
+  "text": " broken.",
+  "startMs": 85964,
+  "endMs": 86268,
+  "timestampMs": 86116,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 86509,
+  "endMs": 86677,
+  "timestampMs": 86593,
+  "confidence": null
+ },
+ {
+  "text": " room",
+  "startMs": 86677,
+  "endMs": 86945,
+  "timestampMs": 86811,
+  "confidence": null
+ },
+ {
+  "text": " changed.",
+  "startMs": 86945,
+  "endMs": 87641,
+  "timestampMs": 87293,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 87979,
+  "endMs": 88104,
+  "timestampMs": 88042,
+  "confidence": null
+ },
+ {
+  "text": " sunscreen",
+  "startMs": 88104,
+  "endMs": 88497,
+  "timestampMs": 88300,
+  "confidence": null
+ },
+ {
+  "text": " argument,",
+  "startMs": 88497,
+  "endMs": 89139,
+  "timestampMs": 88818,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 89425,
+  "endMs": 89764,
+  "timestampMs": 89594,
+  "confidence": null
+ },
+ {
+  "text": " summer",
+  "startMs": 89764,
+  "endMs": 90139,
+  "timestampMs": 89952,
+  "confidence": null
+ },
+ {
+  "text": " since",
+  "startMs": 90139,
+  "endMs": 90639,
+  "timestampMs": 90389,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 90639,
+  "endMs": 90872,
+  "timestampMs": 90756,
+  "confidence": null
+ },
+ {
+  "text": " were",
+  "startMs": 90872,
+  "endMs": 90997,
+  "timestampMs": 90934,
+  "confidence": null
+ },
+ {
+  "text": " nine.",
+  "startMs": 90997,
+  "endMs": 91318,
+  "timestampMs": 91158,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 91613,
+  "endMs": 91798,
+  "timestampMs": 91706,
+  "confidence": null
+ },
+ {
+  "text": " friend",
+  "startMs": 91798,
+  "endMs": 92138,
+  "timestampMs": 91968,
+  "confidence": null
+ },
+ {
+  "text": " wasn't",
+  "startMs": 92138,
+  "endMs": 92548,
+  "timestampMs": 92343,
+  "confidence": null
+ },
+ {
+  "text": " wrong.",
+  "startMs": 92548,
+  "endMs": 92834,
+  "timestampMs": 92691,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 93198,
+  "endMs": 93377,
+  "timestampMs": 93288,
+  "confidence": null
+ },
+ {
+  "text": " skin",
+  "startMs": 93377,
+  "endMs": 93788,
+  "timestampMs": 93582,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 93788,
+  "endMs": 94304,
+  "timestampMs": 94046,
+  "confidence": null
+ },
+ {
+  "text": " built",
+  "startMs": 94304,
+  "endMs": 94536,
+  "timestampMs": 94420,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 94536,
+  "endMs": 94750,
+  "timestampMs": 94643,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 94750,
+  "endMs": 94893,
+  "timestampMs": 94822,
+  "confidence": null
+ },
+ {
+  "text": " different",
+  "startMs": 94893,
+  "endMs": 95125,
+  "timestampMs": 95009,
+  "confidence": null
+ },
+ {
+  "text": " sky.",
+  "startMs": 95125,
+  "endMs": 95572,
+  "timestampMs": 95348,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " That",
+  "startMs": 95900,
+  "endMs": 96079,
+  "timestampMs": 95989,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 96079,
+  "endMs": 96347,
+  "timestampMs": 96213,
+  "confidence": null
+ },
+ {
+  "text": " decides",
+  "startMs": 96347,
+  "endMs": 97043,
+  "timestampMs": 96695,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 97043,
+  "endMs": 97418,
+  "timestampMs": 97230,
+  "confidence": null
+ },
+ {
+  "text": " light",
+  "startMs": 97418,
+  "endMs": 97775,
+  "timestampMs": 97596,
+  "confidence": null
+ },
+ {
+  "text": " does",
+  "startMs": 97775,
+  "endMs": 98079,
+  "timestampMs": 97927,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 98079,
+  "endMs": 98347,
+  "timestampMs": 98213,
+  "confidence": null
+ },
+ {
+  "text": " you.",
+  "startMs": 98347,
+  "endMs": 98597,
+  "timestampMs": 98472,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " The",
+  "startMs": 98818,
+  "endMs": 98925,
+  "timestampMs": 98872,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 98925,
+  "endMs": 99282,
+  "timestampMs": 99104,
+  "confidence": null
+ },
+ {
+  "text": " starts",
+  "startMs": 99282,
+  "endMs": 99889,
+  "timestampMs": 99586,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 99889,
+  "endMs": 100157,
+  "timestampMs": 100023,
+  "confidence": null
+ },
+ {
+  "text": " chemistry",
+  "startMs": 100157,
+  "endMs": 100622,
+  "timestampMs": 100390,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 100622,
+  "endMs": 101229,
+  "timestampMs": 100926,
+  "confidence": null
+ },
+ {
+  "text": " ends",
+  "startMs": 101229,
+  "endMs": 101568,
+  "timestampMs": 101398,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 101568,
+  "endMs": 101836,
+  "timestampMs": 101702,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 101836,
+  "endMs": 101979,
+  "timestampMs": 101908,
+  "confidence": null
+ },
+ {
+  "text": " face.",
+  "startMs": 101979,
+  "endMs": 102264,
+  "timestampMs": 102122,
+  "confidence": null
+ }
+]

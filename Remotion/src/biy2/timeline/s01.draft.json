@@ -1,0 +1,1295 @@
+{
+ "id": "01",
+ "title": "THE CLOUD SETTING - MC1R",
+ "audio": "biy2/audio/Audio01.mp3",
+ "shots": [
+  {
+   "id": "1.1",
+   "title": "ITEM ENTRY",
+   "anchor": "Imagine this is you.",
+   "hold": 0.5,
+   "vo": "Imagine this is you.",
+   "layers": [
+    {
+     "id": "1.1-0",
+     "label": "Stick wince",
+     "x": 960,
+     "y": 580,
+     "to": [],
+     "h": 700,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "zoom"
+  },
+  {
+   "id": "1.2",
+   "title": "THE BURN",
+   "anchor": "You burn in twenty minutes of",
+   "hold": 1.1,
+   "vo": "You burn in twenty minutes of English drizzle.",
+   "layers": [
+    {
+     "id": "1.2-0",
+     "label": "Stick wince",
+     "x": 960,
+     "y": 580,
+     "to": [],
+     "h": 700,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.2-1",
+     "label": "rain cloud",
+     "x": 700,
+     "y": 165,
+     "to": [],
+     "h": 260,
+     "asset": "asset_rain_cloud_v01",
+     "at": "English",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.2-3",
+     "label": "red patch",
+     "x": 1098,
+     "y": 520,
+     "to": [],
+     "w": 92,
+     "h": 92,
+     "asset": "code_patch_red",
+     "at": "burn",
+     "enter": "FADE",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "1.3",
+   "title": "THE ARGUMENT",
+   "anchor": "You've had the same sunscreen argument",
+   "hold": 1.5,
+   "vo": "You've had the same sunscreen argument with the same friend every summer since you were nine.",
+   "layers": [
+    {
+     "id": "1.3-0",
+     "label": "Stick wince",
+     "x": 700,
+     "y": 580,
+     "to": [],
+     "h": 700,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.3-1",
+     "label": "Stick offering",
+     "x": 1300,
+     "y": 580,
+     "to": [],
+     "h": 700,
+     "asset": "stick_offer_bottle_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.3-2",
+     "label": "repeat ticks ×5",
+     "x": 1000,
+     "y": 956,
+     "to": [],
+     "w": 560,
+     "h": 140,
+     "count": 5,
+     "asset": "code_repeat_ticks",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "with the",
+    "summer since"
+   ]
+  },
+  {
+   "id": "1.4",
+   "title": "NEVER TANNED",
+   "anchor": "And nobody has ever once described",
+   "hold": 1.1,
+   "vo": "And nobody has ever once described you as tanned.",
+   "layers": [
+    {
+     "id": "1.4-0",
+     "label": "Stick wince",
+     "x": 700,
+     "y": 580,
+     "to": [],
+     "h": 700,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.4-1",
+     "label": "Stick offering",
+     "x": 1300,
+     "y": 580,
+     "to": [],
+     "h": 700,
+     "asset": "stick_offer_bottle_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.4-2",
+     "label": "tan swatch row",
+     "x": 960,
+     "y": 956,
+     "to": [],
+     "h": 140,
+     "asset": "code_tan_row",
+     "at": "described",
+     "enter": "POP",
+     "w": 560,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.4-3",
+     "label": "red X ×5",
+     "x": 960,
+     "y": 930,
+     "to": [],
+     "h": 170,
+     "count": 5,
+     "asset": "code_mark_x",
+     "at": "tanned",
+     "enter": "DRAW",
+     "placed": "derived",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "1.5",
+   "title": "NOT RANDOM — SINGLE FOCAL",
+   "anchor": "That pattern isn't random.",
+   "hold": 1.0,
+   "vo": "That pattern isn't random.",
+   "layers": [
+    {
+     "id": "1.5-0",
+     "label": "Stick wince",
+     "x": 960,
+     "y": 600,
+     "to": [],
+     "h": 677,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "1.6",
+   "title": "THE REVEAL",
+   "anchor": "It's a cloud setting. The gene",
+   "hold": 1.0,
+   "vo": "It's a cloud setting. The gene is MC1R.",
+   "layers": [
+    {
+     "id": "1.6-0",
+     "label": "dimmer (knob ở dưới)",
+     "x": 800,
+     "y": 540,
+     "to": [],
+     "h": 568,
+     "asset": "asset_dimmer_down_v01",
+     "at": "setting",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.6-1",
+     "label": "rain cloud",
+     "x": 1180,
+     "y": 420,
+     "to": [],
+     "h": 247,
+     "asset": "asset_rain_cloud_v01",
+     "at": "cloud",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "1.6-2",
+     "label": "type \"MC1R\"",
+     "x": 960,
+     "y": 880,
+     "to": [],
+     "size": 153,
+     "kind": "text",
+     "text": "MC1R",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "gene is",
+    "mc1r mc1r"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.7",
+   "title": "THE RECEIVER",
+   "anchor": "MC1R is a receiver on the",
+   "hold": 1.7,
+   "vo": "MC1R is a receiver on the cells that make your pigment.",
+   "layers": [
+    {
+     "id": "1.7-0",
+     "label": "Stick wince",
+     "x": 540,
+     "y": 580,
+     "to": [],
+     "h": 660,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.7-1",
+     "label": "tether line",
+     "x": 740,
+     "y": 540,
+     "to": [
+      [
+       990,
+       520
+      ]
+     ],
+     "asset": "code_body_window",
+     "at": "MC1R",
+     "enter": "DRAW",
+     "z": 6
+    },
+    {
+     "id": "1.7-2",
+     "label": "body window",
+     "x": 1300,
+     "y": 520,
+     "to": [],
+     "w": 620,
+     "h": 480,
+     "asset": "code_body_window",
+     "z": 6
+    },
+    {
+     "id": "1.7-3",
+     "label": "skin plate",
+     "x": 1300,
+     "y": 520,
+     "to": [],
+     "h": 440,
+     "asset": "asset_skin_plate_v01",
+     "at": "a",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.7-4",
+     "label": "receptor",
+     "x": 1200,
+     "y": 215,
+     "to": [],
+     "h": 110,
+     "asset": "asset_receptor_v01",
+     "at": "receiver",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "make your"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.8",
+   "title": "FULL SIGNAL ⚠ BUILD-LIMITED",
+   "anchor": "At full signal they build dark",
+   "hold": 2.4,
+   "vo": "At full signal they build dark eumelanin — the shield.",
+   "layers": [
+    {
+     "id": "1.8-0",
+     "label": "signal pulse ×3",
+     "x": 810,
+     "y": 260,
+     "to": [],
+     "w": 460,
+     "h": 138,
+     "count": 3,
+     "asset": "code_signal_pulse",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.8-2",
+     "label": "pigment dark",
+     "x": 960,
+     "y": 620,
+     "to": [],
+     "h": 523,
+     "asset": "asset_pigment_dark_v01",
+     "at": "build",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "1.8-3",
+     "label": "shield ring",
+     "x": 960,
+     "y": 620,
+     "to": [],
+     "w": 756,
+     "h": 756,
+     "asset": "code_shield_ring",
+     "z": 50
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "eumelanin the"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.9",
+   "title": "BLUNTED",
+   "anchor": "Certain variants blunt that signal, so",
+   "hold": 2.0,
+   "vo": "Certain variants blunt that signal, so the cells switch to pheomelanin instead, the red-gold one.",
+   "layers": [
+    {
+     "id": "1.9-0",
+     "label": "red X on receptor",
+     "x": 1080,
+     "y": 430,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "at": "blunt",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "1.9-1",
+     "label": "signal pulse blunted ×2",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 460,
+     "h": 138,
+     "count": 2,
+     "asset": "code_signal_pulse",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.9-2",
+     "label": "glow ring (yếu)",
+     "x": 1080,
+     "y": 430,
+     "to": [],
+     "w": 128,
+     "h": 128,
+     "opacity": 0.35,
+     "asset": "code_fuel_glow",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.9-3",
+     "label": "pigment amber",
+     "x": 1230,
+     "y": 898,
+     "to": [],
+     "h": 256,
+     "asset": "asset_pigment_amber_v01",
+     "at": "switch",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.9-c1",
+     "label": "asset_pigment_dark_v01",
+     "asset": "asset_pigment_dark_v01",
+     "x": 1230,
+     "y": 620,
+     "to": [],
+     "at": "switch",
+     "enter": "FADE",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "instead the",
+    "the red"
+   ]
+  },
+  {
+   "id": "1.10",
+   "title": "LESS SHIELD — SINGLE FOCAL ⚠ BUILD-LIMITED",
+   "anchor": "Less shield. More window.",
+   "hold": 1.4,
+   "vo": "Less shield. More window.",
+   "layers": [
+    {
+     "id": "1.10-1",
+     "label": "type \"LESS SHIELD\"",
+     "x": 960,
+     "y": 570,
+     "to": [],
+     "size": 207,
+     "kind": "text",
+     "text": "LESS SHIELD",
+     "asset": null,
+     "props": {
+      "size": 190
+     },
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "1.11",
+   "title": "THE DIMMER",
+   "anchor": "A dimmer that got turned down",
+   "hold": 1.2,
+   "vo": "A dimmer that got turned down and then left there.",
+   "layers": [
+    {
+     "id": "1.11-0",
+     "label": "dimmer",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 520,
+     "asset": "asset_dimmer_down_v01",
+     "at": "dimmer",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.11-1",
+     "label": "green check",
+     "x": 960,
+     "y": 860,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "left",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "1.11-c0",
+     "label": "code_body_window",
+     "asset": "code_body_window",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "FADE",
+     "placed": "derived",
+     "h": 620,
+     "z": 6
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "turned down"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.12",
+   "title": "IRELAND",
+   "anchor": "Ireland runs near ten percent red",
+   "hold": 2.2,
+   "vo": "Ireland runs near ten percent red hair, and roughly a third of people carry a variant and never show it.",
+   "layers": [
+    {
+     "id": "1.12-0",
+     "label": "evidence chip",
+     "x": 960,
+     "y": 240,
+     "to": [],
+     "h": 110,
+     "asset": "code_evidence_chip",
+     "at": "Ireland",
+     "enter": "FADE",
+     "text": "~10% · IRELAND",
+     "w": 700,
+     "z": 20
+    },
+    {
+     "id": "1.12-1",
+     "label": "crowd grid ×10",
+     "x": 960,
+     "y": 640,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 10,
+     "asset": "code_crowd_grid",
+     "at": "ten",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE",
+     "props": {
+      "carrierDots": [
+       3,
+       8,
+       14
+      ]
+     }
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "and roughly",
+    "of people",
+    "and never"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.13",
+   "title": "CLUE, NOT TEST",
+   "anchor": "Red hair is a clue associated",
+   "hold": 0.8,
+   "vo": "Red hair is a clue associated with these variants — not a test for them.",
+   "layers": [
+    {
+     "id": "1.13-0",
+     "label": "crowd grid (giữ)",
+     "x": 960,
+     "y": 580,
+     "to": [],
+     "asset": "code_crowd_grid",
+     "w": 1020,
+     "h": 560,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.13-1",
+     "label": "type \"CLUE ≠ TEST\"",
+     "x": 960,
+     "y": 955,
+     "to": [],
+     "size": 118,
+     "kind": "text",
+     "text": "CLUE ≠ TEST",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "id": "1.13-2",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "asset": "code_dashed_outline",
+     "at": "not",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "1.14",
+   "title": "BRUNETTE",
+   "anchor": "Plenty of carriers are brunette.",
+   "hold": 0.6,
+   "vo": "Plenty of carriers are brunette.",
+   "layers": [
+    {
+     "id": "1.14-0",
+     "label": "grid fill ô 4,7,9",
+     "x": 960,
+     "y": 580,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "asset": "code_crowd_grid",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "1.15",
+   "title": "THE ANESTHETIC",
+   "anchor": "One odd side effect: a small",
+   "hold": 1.2,
+   "vo": "One odd side effect: a small study found red-haired patients needed more anesthetic than everyone else.",
+   "layers": [
+    {
+     "id": "1.15-0",
+     "label": "anesthesia mask",
+     "x": 960,
+     "y": 335,
+     "to": [],
+     "h": 562,
+     "asset": "asset_anesthesia_mask_v01",
+     "at": "effect",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.15-1",
+     "label": "crowd grid ×20",
+     "x": 960,
+     "y": 700,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 20,
+     "asset": "code_crowd_grid",
+     "at": "small",
+     "enter": "POP",
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "red haired",
+    "more anesthetic",
+    "than everyone"
+   ]
+  },
+  {
+   "id": "1.16",
+   "title": "TWENTY PEOPLE",
+   "anchor": "Small study. Twenty people. Don't build",
+   "hold": 1.1,
+   "vo": "Small study. Twenty people. Don't build a personality on it.",
+   "layers": [
+    {
+     "id": "1.16-0",
+     "label": "room outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 560,
+     "h": 420,
+     "asset": "code_room_outline",
+     "at": "Small",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6
+    },
+    {
+     "id": "1.16-1",
+     "label": "world map shape",
+     "x": 1340,
+     "y": 560,
+     "to": [],
+     "h": 300,
+     "asset": "asset_world_map_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.16-2",
+     "label": "red X on map",
+     "x": 1340,
+     "y": 560,
+     "to": [],
+     "h": 200,
+     "asset": "code_mark_x",
+     "at": "it",
+     "enter": "DRAW",
+     "z": 50,
+     "state": "ACTIVE"
+    },
+    {
+     "to": [],
+     "id": "1.16-a",
+     "asset": "code_crowd_grid",
+     "x": 960,
+     "y": 560,
+     "w": 1000,
+     "h": 520,
+     "enter": "POP",
+     "props": {
+      "total": 20,
+      "columns": 5
+     },
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "1.17",
+   "title": "THE LATITUDE",
+   "anchor": "At that latitude the sun clears",
+   "hold": 1.0,
+   "vo": "At that latitude the sun clears the cloud a few weeks a year.",
+   "layers": [
+    {
+     "id": "1.17-0",
+     "label": "low sun + horizon",
+     "x": 960,
+     "y": 300,
+     "to": [],
+     "h": 367,
+     "asset": "asset_sun_low_v01",
+     "at": "sun",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.17-1",
+     "label": "rain cloud",
+     "x": 1120,
+     "y": 172,
+     "to": [],
+     "h": 236,
+     "asset": "asset_rain_cloud_v01",
+     "at": "clears",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "weeks a"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.18",
+   "title": "THE COMPARISON",
+   "anchor": "Skin that lets light through still",
+   "hold": 1.9,
+   "vo": "Skin that lets light through still makes vitamin D on days when darker skin produces far less under very weak UV.",
+   "layers": [
+    {
+     "id": "1.18-0",
+     "label": "Stick wince (giữa)",
+     "x": 960,
+     "y": 640,
+     "to": [],
+     "h": 520,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.18-1",
+     "label": "swatch pale",
+     "x": 560,
+     "y": 860,
+     "to": [],
+     "h": 220,
+     "asset": "asset_swatch_pale_v01",
+     "at": "Skin",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.18-2",
+     "label": "swatch dark",
+     "x": 1360,
+     "y": 916,
+     "to": [],
+     "h": 220,
+     "asset": "asset_swatch_dark_v01",
+     "at": "darker",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.18-3",
+     "label": "vitD arrow dài",
+     "x": 621,
+     "y": 680,
+     "to": [],
+     "asset": "code_vitd_arrow",
+     "at": "vitamin",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ACTIVE",
+     "h": 200,
+     "w": 110
+    },
+    {
+     "id": "1.18-4",
+     "label": "vitD arrow ngắn",
+     "x": 1421,
+     "y": 736,
+     "to": [],
+     "asset": "code_vitd_arrow",
+     "z": 20,
+     "state": "ALIVE",
+     "h": 200,
+     "w": 110
+    }
+   ],
+   "push": null,
+   "beats": [
+    "through still",
+    "far less",
+    "very weak"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.19",
+   "title": "MOVE THE SETTING",
+   "anchor": "Move that setting somewhere with real",
+   "hold": 1.5,
+   "vo": "Move that setting somewhere with real sun and the window does what windows do.",
+   "layers": [
+    {
+     "id": "1.19-0",
+     "label": "strong sun",
+     "x": 960,
+     "y": 254,
+     "to": [],
+     "h": 400,
+     "asset": "asset_sun_strong_v01",
+     "at": "real",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.19-1",
+     "label": "Stick wince",
+     "x": 960,
+     "y": 660,
+     "to": [],
+     "h": 660,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.19-2",
+     "label": "UV arrow ×5",
+     "x": 960,
+     "y": 109,
+     "to": [],
+     "count": 5,
+     "asset": "code_uv_arrow",
+     "at": "windows",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ACTIVE",
+     "h": 110,
+     "w": 60
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "the window"
+   ]
+  },
+  {
+   "id": "1.20",
+   "title": "THE MARK",
+   "anchor": "These variants are associated with sharply",
+   "hold": 1.1,
+   "vo": "These variants are associated with sharply higher melanoma risk.",
+   "layers": [
+    {
+     "id": "1.20-0",
+     "label": "red patch",
+     "x": 960,
+     "y": 600,
+     "to": [
+      [
+       234,
+       600
+      ]
+     ],
+     "w": 276,
+     "h": 276,
+     "asset": "code_patch_red",
+     "at": "These variants",
+     "enter": "FADE",
+     "z": 50
+    },
+    {
+     "id": "1.20-1",
+     "label": "melanoma mark",
+     "x": 960,
+     "y": 600,
+     "to": [],
+     "h": 330,
+     "asset": "asset_melanoma_mark_v01",
+     "at": "melanoma",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "1.20-link",
+     "asset": "code_dashed_link",
+     "x": 980,
+     "y": 600,
+     "w": 720,
+     "h": 90,
+     "enter": "DRAW",
+     "at": "risk",
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "with sharply"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.21",
+   "title": "SAME DOOR",
+   "anchor": "Same open door, different visitor.",
+   "hold": 0.5,
+   "vo": "Same open door, different visitor.",
+   "layers": [
+    {
+     "id": "1.21-0",
+     "label": "Stick wince",
+     "x": 960,
+     "y": 660,
+     "to": [],
+     "h": 660,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.21-1",
+     "label": "vitD arrow xanh",
+     "x": 1101,
+     "y": 260,
+     "to": [],
+     "asset": "code_vitd_arrow",
+     "at": "Same",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE",
+     "h": 200,
+     "w": 110
+    },
+    {
+     "id": "1.21-2",
+     "label": "UV arrow đỏ",
+     "x": 960,
+     "y": 220,
+     "to": [],
+     "asset": "code_uv_arrow",
+     "at": "different",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ACTIVE",
+     "h": 200,
+     "w": 110
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "1.22",
+   "title": "THE ROOM CHANGED",
+   "anchor": "The dimmer was never broken. The",
+   "hold": 1.6,
+   "vo": "The dimmer was never broken. The room changed.",
+   "layers": [
+    {
+     "id": "1.22-0",
+     "label": "dimmer",
+     "x": 460,
+     "y": 620,
+     "to": [],
+     "h": 380,
+     "asset": "asset_dimmer_down_v01",
+     "at": "dimmer",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.22-1",
+     "label": "green check",
+     "x": 460,
+     "y": 880,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "broken",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "1.22-2",
+     "label": "room outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 1600,
+     "h": 860,
+     "asset": "code_room_outline",
+     "at": "room",
+     "enter": "DRAW",
+     "z": 6
+    },
+    {
+     "id": "1.22-3",
+     "label": "red X on room",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "at": "changed",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "1.23",
+   "title": "THE ARGUMENT, AGAIN",
+   "anchor": "The sunscreen argument, every summer since",
+   "hold": 1.4,
+   "vo": "The sunscreen argument, every summer since you were nine.",
+   "layers": [
+    {
+     "id": "1.23-0",
+     "label": "Stick wince",
+     "x": 700,
+     "y": 600,
+     "to": [],
+     "h": 660,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.23-1",
+     "label": "Stick offering",
+     "x": 1220,
+     "y": 600,
+     "to": [],
+     "h": 660,
+     "asset": "stick_offer_bottle_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.23-2",
+     "label": "repeat ticks ×5",
+     "x": 960,
+     "y": 956,
+     "to": [],
+     "w": 560,
+     "h": 140,
+     "count": 5,
+     "asset": "code_repeat_ticks",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "every summer",
+    "you were"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "1.24",
+   "title": "FRIEND WAS RIGHT",
+   "anchor": "Your friend wasn't wrong.",
+   "hold": 0.3,
+   "vo": "Your friend wasn't wrong.",
+   "layers": [
+    {
+     "to": [],
+     "id": "1.24-a",
+     "asset": "stick_offer_bottle_v01",
+     "x": 860,
+     "y": 600,
+     "h": 620,
+     "enter": "NONE",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "1.25",
+   "title": "A DIFFERENT SKY — SINGLE FOCAL",
+   "anchor": "Your skin was built for a",
+   "hold": 1.1,
+   "vo": "Your skin was built for a different sky.",
+   "layers": [
+    {
+     "id": "1.25-0",
+     "label": "sky split",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 1728,
+     "h": 972,
+     "asset": "code_sky_split",
+     "at": "different",
+     "enter": "DRAW",
+     "z": 6
+    },
+    {
+     "id": "1.25-1",
+     "label": "Stick wince",
+     "x": 560,
+     "y": 620,
+     "to": [],
+     "h": 560,
+     "asset": "stick_wince_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.25-2",
+     "label": "green check",
+     "x": 480,
+     "y": 180,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "sky",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "1.T",
+   "title": "BRIDGE → SECTION 2",
+   "anchor": "That one decides what light does",
+   "hold": 1.9,
+   "vo": "That one decides what light does to you. The next starts as chemistry and ends on your face.",
+   "layers": [
+    {
+     "id": "1.T-0",
+     "label": "light beam",
+     "x": 960,
+     "y": 620,
+     "to": [],
+     "h": 432,
+     "asset": "asset_light_beam_v01",
+     "at": "light",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "1.T-1",
+     "label": "glass",
+     "x": 1407,
+     "y": 620,
+     "to": [],
+     "h": 432,
+     "asset": "asset_glass_v01",
+     "at": "chemistry",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "1.T-c2",
+     "label": "code_chapter_reset",
+     "asset": "code_chapter_reset",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "POP",
+     "placed": "derived",
+     "h": 2333,
+     "z": 6
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "the next",
+    "ends on"
+   ],
+   "transition": "whip"
+  }
+ ]
+}

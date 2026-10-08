@@ -1,0 +1,439 @@
+[
+ {
+  "text": "So",
+  "startMs": 0,
+  "endMs": 200,
+  "timestampMs": 100,
+  "confidence": null
+ },
+ {
+  "text": " maybe",
+  "startMs": 200,
+  "endMs": 460,
+  "timestampMs": 330,
+  "confidence": null
+ },
+ {
+  "text": " broken",
+  "startMs": 460,
+  "endMs": 780,
+  "timestampMs": 620,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 780,
+  "endMs": 1020,
+  "timestampMs": 900,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 1020,
+  "endMs": 1180,
+  "timestampMs": 1100,
+  "confidence": null
+ },
+ {
+  "text": " wrong",
+  "startMs": 1180,
+  "endMs": 1400,
+  "timestampMs": 1290,
+  "confidence": null
+ },
+ {
+  "text": " word.",
+  "startMs": 1400,
+  "endMs": 1660,
+  "timestampMs": 1530,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " There's",
+  "startMs": 2200,
+  "endMs": 2420,
+  "timestampMs": 2310,
+  "confidence": null
+ },
+ {
+  "text": " no",
+  "startMs": 2420,
+  "endMs": 2580,
+  "timestampMs": 2500,
+  "confidence": null
+ },
+ {
+  "text": " perfect",
+  "startMs": 2580,
+  "endMs": 2980,
+  "timestampMs": 2780,
+  "confidence": null
+ },
+ {
+  "text": " version",
+  "startMs": 2980,
+  "endMs": 3340,
+  "timestampMs": 3160,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 3340,
+  "endMs": 3580,
+  "timestampMs": 3460,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 3580,
+  "endMs": 3840,
+  "timestampMs": 3710,
+  "confidence": null
+ },
+ {
+  "text": " sitting",
+  "startMs": 3840,
+  "endMs": 4160,
+  "timestampMs": 4000,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 4160,
+  "endMs": 4380,
+  "timestampMs": 4270,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 4380,
+  "endMs": 4500,
+  "timestampMs": 4440,
+  "confidence": null
+ },
+ {
+  "text": " drawer",
+  "startMs": 4500,
+  "endMs": 4860,
+  "timestampMs": 4680,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 4860,
+  "endMs": 5420,
+  "timestampMs": 5140,
+  "confidence": null
+ },
+ {
+  "text": " biology",
+  "startMs": 5420,
+  "endMs": 5960,
+  "timestampMs": 5690,
+  "confidence": null
+ },
+ {
+  "text": " failed",
+  "startMs": 5960,
+  "endMs": 6380,
+  "timestampMs": 6170,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 6380,
+  "endMs": 6680,
+  "timestampMs": 6530,
+  "confidence": null
+ },
+ {
+  "text": " print.",
+  "startMs": 6680,
+  "endMs": 6960,
+  "timestampMs": 6820,
+  "confidence": null
+ },
+ {
+  "text": " There",
+  "startMs": 7440,
+  "endMs": 7580,
+  "timestampMs": 7510,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 7580,
+  "endMs": 7720,
+  "timestampMs": 7650,
+  "confidence": null
+ },
+ {
+  "text": " only",
+  "startMs": 7720,
+  "endMs": 8000,
+  "timestampMs": 7860,
+  "confidence": null
+ },
+ {
+  "text": " trades,",
+  "startMs": 8000,
+  "endMs": 8580,
+  "timestampMs": 8290,
+  "confidence": null
+ },
+ {
+  "text": " kept",
+  "startMs": 8580,
+  "endMs": 9260,
+  "timestampMs": 8920,
+  "confidence": null
+ },
+ {
+  "text": " because",
+  "startMs": 9260,
+  "endMs": 10060,
+  "timestampMs": 9660,
+  "confidence": null
+ },
+ {
+  "text": " whoever",
+  "startMs": 10060,
+  "endMs": 10320,
+  "timestampMs": 10190,
+  "confidence": null
+ },
+ {
+  "text": " carried",
+  "startMs": 10320,
+  "endMs": 10800,
+  "timestampMs": 10560,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 10800,
+  "endMs": 11180,
+  "timestampMs": 10990,
+  "confidence": null
+ },
+ {
+  "text": " lived",
+  "startMs": 11180,
+  "endMs": 11720,
+  "timestampMs": 11450,
+  "confidence": null
+ },
+ {
+  "text": " long",
+  "startMs": 11720,
+  "endMs": 12040,
+  "timestampMs": 11880,
+  "confidence": null
+ },
+ {
+  "text": " enough",
+  "startMs": 12040,
+  "endMs": 12300,
+  "timestampMs": 12170,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 12300,
+  "endMs": 12540,
+  "timestampMs": 12420,
+  "confidence": null
+ },
+ {
+  "text": " pass",
+  "startMs": 12540,
+  "endMs": 12780,
+  "timestampMs": 12660,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 12780,
+  "endMs": 13040,
+  "timestampMs": 12910,
+  "confidence": null
+ },
+ {
+  "text": " on.",
+  "startMs": 13040,
+  "endMs": 13340,
+  "timestampMs": 13190,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 13880,
+  "endMs": 14080,
+  "timestampMs": 13980,
+  "confidence": null
+ },
+ {
+  "text": " body",
+  "startMs": 14080,
+  "endMs": 14500,
+  "timestampMs": 14290,
+  "confidence": null
+ },
+ {
+  "text": " isn't",
+  "startMs": 14500,
+  "endMs": 15000,
+  "timestampMs": 14750,
+  "confidence": null
+ },
+ {
+  "text": " optimized.",
+  "startMs": 15000,
+  "endMs": 15660,
+  "timestampMs": 15330,
+  "confidence": null
+ },
+ {
+  "text": " It's",
+  "startMs": 16120,
+  "endMs": 16440,
+  "timestampMs": 16280,
+  "confidence": null
+ },
+ {
+  "text": " negotiated.",
+  "startMs": 16440,
+  "endMs": 17100,
+  "timestampMs": 16770,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Next",
+  "startMs": 17940,
+  "endMs": 18200,
+  "timestampMs": 18070,
+  "confidence": null
+ },
+ {
+  "text": " time:",
+  "startMs": 18200,
+  "endMs": 18600,
+  "timestampMs": 18400,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 19480,
+  "endMs": 19520,
+  "timestampMs": 19480,
+  "confidence": null
+ },
+ {
+  "text": " traits",
+  "startMs": 19480,
+  "endMs": 19720,
+  "timestampMs": 19600,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 19720,
+  "endMs": 20000,
+  "timestampMs": 19860,
+  "confidence": null
+ },
+ {
+  "text": " ancestors",
+  "startMs": 20000,
+  "endMs": 20460,
+  "timestampMs": 20230,
+  "confidence": null
+ },
+ {
+  "text": " passed",
+  "startMs": 20460,
+  "endMs": 20980,
+  "timestampMs": 20720,
+  "confidence": null
+ },
+ {
+  "text": " down,",
+  "startMs": 20980,
+  "endMs": 21540,
+  "timestampMs": 21260,
+  "confidence": null
+ },
+ {
+  "text": " including",
+  "startMs": 21980,
+  "endMs": 22320,
+  "timestampMs": 22150,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 22320,
+  "endMs": 22540,
+  "timestampMs": 22430,
+  "confidence": null
+ },
+ {
+  "text": " few",
+  "startMs": 22540,
+  "endMs": 22720,
+  "timestampMs": 22630,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 22720,
+  "endMs": 22900,
+  "timestampMs": 22810,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 22900,
+  "endMs": 23060,
+  "timestampMs": 22980,
+  "confidence": null
+ },
+ {
+  "text": " check",
+  "startMs": 23060,
+  "endMs": 23340,
+  "timestampMs": 23200,
+  "confidence": null
+ },
+ {
+  "text": " without",
+  "startMs": 23340,
+  "endMs": 23700,
+  "timestampMs": 23520,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 23700,
+  "endMs": 23980,
+  "timestampMs": 23840,
+  "confidence": null
+ },
+ {
+  "text": " DNA",
+  "startMs": 23980,
+  "endMs": 24400,
+  "timestampMs": 24190,
+  "confidence": null
+ },
+ {
+  "text": " test.",
+  "startMs": 24400,
+  "endMs": 24880,
+  "timestampMs": 24640,
+  "confidence": null
+ }
+]

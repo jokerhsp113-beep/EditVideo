@@ -1,0 +1,1717 @@
+{
+ "id": "07",
+ "title": "THE BLADE WITH NO HANDLE - APOL1",
+ "audio": "biy2/audio/Audio07.mp3",
+ "shots": [
+  {
+   "id": "7.1",
+   "title": "THE PROMISE COMES DUE",
+   "anchor": "At the start, I said the",
+   "hold": 1.2,
+   "vo": "At the start, I said the last one was different. This is it.",
+   "layers": [
+    {
+     "id": "7.1-0",
+     "label": "window ×6 (state `open`)",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 396,
+     "h": 396,
+     "count": 6,
+     "asset": "code_window",
+     "at": "At the start",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.1-1",
+     "label": "window #7 (state `lit`)",
+     "x": 1246,
+     "y": 500,
+     "to": [],
+     "w": 396,
+     "h": 396,
+     "asset": "code_window",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "the last",
+    "this is"
+   ],
+   "transition": "zoom"
+  },
+  {
+   "id": "7.2",
+   "title": "SIX UPGRADES ⛔ CẦN S04·05·06",
+   "anchor": "Six upgrades so far, and in",
+   "hold": 2.0,
+   "vo": "Six upgrades so far, and in every one you could pull them apart.",
+   "layers": [
+    {
+     "id": "7.2-0",
+     "label": "icon 1 dimmer",
+     "x": 300,
+     "y": 540,
+     "to": [],
+     "h": 261,
+     "asset": "asset_dimmer_down_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-1",
+     "label": "icon 2 brake pedal",
+     "x": 564,
+     "y": 540,
+     "to": [],
+     "h": 261,
+     "asset": "asset_brake_pedal_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-2",
+     "label": "icon 3 door frame",
+     "x": 828,
+     "y": 540,
+     "to": [],
+     "h": 261,
+     "asset": "asset_door_frame_empty_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-3",
+     "label": "icon 4 tripwire ⛔",
+     "x": 1091,
+     "y": 540,
+     "to": [],
+     "h": 261,
+     "asset": "asset_wheat_icon_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-4",
+     "label": "icon 5 coat rack ⛔",
+     "x": 1355,
+     "y": 540,
+     "to": [],
+     "h": 261,
+     "asset": "asset_coat_rack_bare_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-5",
+     "label": "icon 6 engine ⛔",
+     "x": 1619,
+     "y": 540,
+     "to": [],
+     "h": 261,
+     "asset": "asset_engine_block_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-6",
+     "label": "`code_tag_pair` ×6 (gap 40)",
+     "x": 1544,
+     "y": 790,
+     "to": [],
+     "h": 146,
+     "count": 6,
+     "asset": "code_tag_pair",
+     "at": "pull them apart",
+     "enter": "POP",
+     "placed": "derived",
+     "w": 560,
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": null,
+   "beats": [
+    "and in"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "7.3",
+   "title": "BENEFIT HERE, COST THERE",
+   "anchor": "The benefit here, the cost over",
+   "hold": 1.8,
+   "vo": "The benefit here, the cost over there — a different tissue, a different decade, a different climate.",
+   "layers": [
+    {
+     "id": "7.2-0~",
+     "label": "icon 1 dimmer",
+     "x": 300,
+     "y": 540,
+     "h": 261,
+     "asset": "asset_dimmer_down_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-1~",
+     "label": "icon 2 brake pedal",
+     "x": 828,
+     "y": 540,
+     "h": 261,
+     "asset": "asset_brake_pedal_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-2~",
+     "label": "icon 3 door frame",
+     "x": 564,
+     "y": 540,
+     "h": 261,
+     "asset": "asset_door_frame_empty_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-3~",
+     "label": "icon 4 tripwire ⛔",
+     "x": 1355,
+     "y": 540,
+     "h": 261,
+     "asset": "asset_wheat_icon_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-4~",
+     "label": "icon 5 coat rack ⛔",
+     "x": 1091,
+     "y": 540,
+     "h": 261,
+     "asset": "asset_coat_rack_bare_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.2-5~",
+     "label": "icon 6 engine ⛔",
+     "x": 1619,
+     "y": 540,
+     "h": 261,
+     "asset": "asset_engine_block_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.3-0",
+     "label": "tag pair ×6",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 180,
+     "count": 6,
+     "asset": "code_tag_pair",
+     "at": "The benefit",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.3-1",
+     "label": "gap marker ×6",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 150,
+     "count": 6,
+     "asset": "code_gap_marker",
+     "at": "over there",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": null,
+   "beats": [
+    "different tissue",
+    "different decade",
+    "different climate"
+   ]
+  },
+  {
+   "id": "7.4",
+   "title": "NOT THIS TIME",
+   "anchor": "Not this time.",
+   "hold": 0.6,
+   "vo": "Not this time.",
+   "layers": [
+    {
+     "id": "7.4-0",
+     "label": "blade no handle",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 583,
+     "asset": "asset_blade_no_handle_v01",
+     "at": "this time",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "7.5",
+   "title": "THE SAME EVENT — SINGLE FOCAL",
+   "anchor": "Here they are the same event.",
+   "hold": 1.0,
+   "vo": "Here they are the same event.",
+   "layers": [
+    {
+     "id": "7.5-0",
+     "label": "blade no handle",
+     "x": 960,
+     "y": 500,
+     "to": [],
+     "h": 546,
+     "asset": "asset_blade_no_handle_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.5-1",
+     "label": "tag pair (gap 40 → 0)",
+     "x": 960,
+     "y": 820,
+     "to": [],
+     "h": 146,
+     "asset": "code_tag_pair",
+     "at": "they are",
+     "enter": "POP",
+     "w": 560,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.5-2",
+     "label": "gap marker + red X",
+     "x": 960,
+     "y": 820,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "at": "event",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "7.5-c1",
+     "label": "code_gap_marker",
+     "asset": "code_gap_marker",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "at": "event",
+     "enter": "DRAW",
+     "placed": "derived",
+     "w": 34,
+     "h": 140,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "7.6",
+   "title": "PARASITE KILLER",
+   "anchor": "What some people carry is a",
+   "hold": 0.9,
+   "vo": "What some people carry is a parasite killer on permanent duty.",
+   "layers": [
+    {
+     "id": "7.6-0",
+     "label": "crowd grid ×8",
+     "x": 960,
+     "y": 746,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 8,
+     "asset": "code_crowd_grid",
+     "at": "some people",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.6-1",
+     "label": "blade no handle",
+     "x": 960,
+     "y": 338,
+     "to": [],
+     "h": 568,
+     "asset": "asset_blade_no_handle_v01",
+     "at": "parasite killer",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "permanent duty"
+   ]
+  },
+  {
+   "id": "7.7",
+   "title": "APOL1",
+   "anchor": "The gene is APOL1.",
+   "hold": 0.6,
+   "vo": "The gene is APOL1.",
+   "layers": [
+    {
+     "id": "7.7-0",
+     "label": "type \"APOL1\"",
+     "x": 960,
+     "y": 640,
+     "to": [],
+     "size": 307,
+     "kind": "text",
+     "text": "APOL1",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "7.8",
+   "title": "RIDING HDL",
+   "anchor": "APOL1 rides around the bloodstream attached",
+   "hold": 1.3,
+   "vo": "APOL1 rides around the bloodstream attached to HDL particles.",
+   "layers": [
+    {
+     "id": "7.8-0",
+     "label": "body window",
+     "x": 1098,
+     "y": 540,
+     "to": [],
+     "w": 900,
+     "h": 560,
+     "asset": "code_body_window",
+     "at": "rides",
+     "enter": "POP",
+     "z": 6
+    },
+    {
+     "id": "7.8-1",
+     "label": "flow lines",
+     "x": 1374,
+     "y": 540,
+     "to": [],
+     "asset": "code_heat_lines",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.8-2",
+     "label": "hdl sphere",
+     "x": 546,
+     "y": 540,
+     "to": [
+      [
+       1025,
+       540
+      ]
+     ],
+     "h": 280,
+     "asset": "asset_hdl_sphere_v01",
+     "at": "HDL particles",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.8-3",
+     "label": "apol1 protein",
+     "x": 822,
+     "y": 540,
+     "to": [],
+     "h": 140,
+     "asset": "asset_apol1_protein_v01",
+     "at": "attached",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "7.9",
+   "title": "THE BURST",
+   "anchor": "When a trypanosome — the parasite",
+   "hold": 2.2,
+   "vo": "When a trypanosome — the parasite behind sleeping sickness — swallows one, APOL1 punches holes in it from the inside, and it bursts.",
+   "layers": [
+    {
+     "id": "7.9-0",
+     "label": "trypanosome",
+     "x": 960,
+     "y": 540,
+     "to": [
+      [
+       390,
+       540
+      ]
+     ],
+     "h": 395,
+     "asset": "asset_trypanosome_v01",
+     "at": "trypanosome",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.9-1",
+     "label": "hdl sphere + apol1",
+     "x": 360,
+     "y": 540,
+     "to": [],
+     "h": 346,
+     "asset": "asset_hdl_sphere_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.9-2",
+     "label": "pore holes ×6",
+     "x": 360,
+     "y": 540,
+     "to": [],
+     "w": 34,
+     "h": 34,
+     "count": 6,
+     "asset": "code_pore_holes",
+     "at": "punches holes",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 50
+    },
+    {
+     "id": "7.9-c2",
+     "label": "code_mark_x",
+     "asset": "code_mark_x",
+     "x": 360,
+     "y": 540,
+     "to": [],
+     "at": "bursts",
+     "enter": "DRAW",
+     "placed": "derived",
+     "h": 185,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "parasite behind",
+    "sickness swallows",
+    "one apol1",
+    "the inside"
+   ]
+  },
+  {
+   "id": "7.10",
+   "title": "THE JAM",
+   "anchor": "One subspecies evolved a protein that",
+   "hold": 1.0,
+   "vo": "One subspecies evolved a protein that jams APOL1 shut.",
+   "layers": [
+    {
+     "id": "7.10-0",
+     "label": "apol1 protein",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 383,
+     "asset": "asset_apol1_protein_v01",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.10-1",
+     "label": "jammer protein",
+     "x": 1600,
+     "y": 540,
+     "to": [
+      [
+       1260,
+       540
+      ]
+     ],
+     "h": 302,
+     "asset": "asset_jammer_protein_v01",
+     "at": "a protein",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.10-2",
+     "label": "red X",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 241,
+     "asset": "code_mark_x",
+     "at": "shut",
+     "enter": "DRAW",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "apol1 shut"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "7.11",
+   "title": "THE SHAPE CHANGED",
+   "anchor": "Two variants, G1 and G2, changed",
+   "hold": 1.4,
+   "vo": "Two variants, G1 and G2, changed the shape just enough that the jam no longer fits.",
+   "layers": [
+    {
+     "id": "7.11-0",
+     "label": "apol1 variant",
+     "x": 377,
+     "y": 540,
+     "to": [],
+     "h": 380,
+     "asset": "asset_apol1_variant_v01",
+     "at": "changed the shape",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.11-1",
+     "label": "jammer protein",
+     "x": 960,
+     "y": 540,
+     "to": [
+      [
+       1260,
+       540
+      ]
+     ],
+     "h": 300,
+     "asset": "asset_jammer_protein_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.11-2",
+     "label": "red X",
+     "x": 1542,
+     "y": 540,
+     "to": [],
+     "h": 200,
+     "asset": "code_mark_x",
+     "at": "no longer fits",
+     "enter": "DRAW",
+     "z": 50
+    },
+    {
+     "id": "7.11-c0",
+     "label": "asset_apol1_protein_v01",
+     "asset": "asset_apol1_protein_v01",
+     "x": 1542,
+     "y": 540,
+     "to": [],
+     "at": "changed the shape",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "and g2",
+    "enough that"
+   ]
+  },
+  {
+   "id": "7.12",
+   "title": "THE BLADE — SINGLE FOCAL",
+   "anchor": "A blade with no handle.",
+   "hold": 0.8,
+   "vo": "A blade with no handle.",
+   "layers": [
+    {
+     "id": "7.12-0",
+     "label": "blade no handle",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 620,
+     "asset": "asset_blade_no_handle_v01",
+     "at": "blade",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.12-c0",
+     "label": "code_body_window",
+     "asset": "code_body_window",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "FADE",
+     "placed": "derived",
+     "h": 620,
+     "z": 6
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "7.13",
+   "title": "NO SAFE END",
+   "anchor": "There is no safe end to",
+   "hold": 1.0,
+   "vo": "There is no safe end to pick it up by.",
+   "layers": [
+    {
+     "id": "7.13-0",
+     "label": "blade no handle",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 620,
+     "asset": "asset_blade_no_handle_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.13-1",
+     "label": "dashed circle ×2",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 140,
+     "h": 140,
+     "count": 2,
+     "asset": "code_dashed_outline",
+     "placed": "derived",
+     "z": 6
+    },
+    {
+     "id": "7.13-2",
+     "label": "red X ×2",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 170,
+     "count": 2,
+     "asset": "code_mark_x",
+     "at": "pick it up",
+     "enter": "DRAW",
+     "placed": "derived",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "7.14",
+   "title": "ONE IN EIGHT",
+   "anchor": "Roughly one in eight people of",
+   "hold": 1.4,
+   "vo": "Roughly one in eight people of West African ancestry carry two copies — a frequency that points to powerful selection in the past.",
+   "layers": [
+    {
+     "id": "7.14-0",
+     "label": "evidence chip",
+     "x": 960,
+     "y": 240,
+     "to": [],
+     "h": 120,
+     "asset": "code_evidence_chip",
+     "at": "a frequency",
+     "enter": "FADE",
+     "text": "~1 IN 8",
+     "z": 20
+    },
+    {
+     "id": "7.14-1",
+     "label": "crowd grid ×8",
+     "x": 760,
+     "y": 620,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 8,
+     "asset": "code_crowd_grid",
+     "at": "one in eight",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.14-2",
+     "label": "selection arrow",
+     "x": 1045,
+     "y": 270,
+     "to": [],
+     "h": 200,
+     "asset": "code_selection_arrow",
+     "at": "powerful selection",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 110
+    },
+    {
+     "id": "7.14-3",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 320,
+     "h": 420,
+     "asset": "code_dashed_outline",
+     "at": "in the past",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "west african",
+    "carry two"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "7.15",
+   "title": "PUT THEM DOWN",
+   "anchor": "Most upgrades let you put them",
+   "hold": 0.9,
+   "vo": "Most upgrades let you put them down.",
+   "layers": [
+    {
+     "id": "7.14-0~",
+     "label": "evidence chip",
+     "x": 960,
+     "y": 240,
+     "h": 120,
+     "asset": "code_evidence_chip",
+     "enter": "NONE",
+     "text": "~1 IN 8",
+     "z": 4
+    },
+    {
+     "id": "7.14-1~",
+     "label": "crowd grid ×8",
+     "x": 606,
+     "y": 620,
+     "w": 1020,
+     "h": 560,
+     "count": 8,
+     "asset": "code_crowd_grid",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.14-2~",
+     "label": "selection arrow",
+     "x": 998,
+     "y": 475,
+     "h": 200,
+     "asset": "code_selection_arrow",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE",
+     "w": 110
+    },
+    {
+     "id": "7.14-3~",
+     "label": "dashed outline",
+     "x": 1664,
+     "y": 264,
+     "w": 320,
+     "h": 420,
+     "asset": "code_dashed_outline",
+     "enter": "NONE",
+     "placed": "derived",
+     "z": 4
+    },
+    {
+     "id": "7.15-0",
+     "label": "shelf line",
+     "x": 960,
+     "y": 700,
+     "to": [],
+     "w": 1728,
+     "asset": "code_shelf_line",
+     "at": "Most upgrades",
+     "enter": "DRAW",
+     "z": 6,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.15-1",
+     "label": "icon ×6",
+     "x": 960,
+     "y": 700,
+     "to": [],
+     "h": 310,
+     "count": 6,
+     "asset": "asset_wheat_icon_v01",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "you put"
+   ]
+  },
+  {
+   "id": "7.16",
+   "title": "BLADE-OUT",
+   "anchor": "This one you carry blade-out.",
+   "hold": 0.7,
+   "vo": "This one you carry blade-out.",
+   "layers": [
+    {
+     "id": "7.16-0",
+     "label": "shelf line",
+     "x": 960,
+     "y": 700,
+     "to": [],
+     "w": 1200,
+     "asset": "code_shelf_line",
+     "z": 6
+    },
+    {
+     "id": "7.16-1",
+     "label": "icon ×6 (đứng trên kệ)",
+     "x": 960,
+     "y": 700,
+     "to": [],
+     "h": 150,
+     "count": 6,
+     "asset": "asset_wheat_icon_v01",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.16-2",
+     "label": "blade no handle",
+     "x": 1560,
+     "y": 500,
+     "to": [
+      [
+       1560,
+       480
+      ]
+     ],
+     "h": 280,
+     "asset": "asset_blade_no_handle_v01",
+     "at": "This one",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.16-3",
+     "label": "Stick hands open",
+     "x": 1560,
+     "y": 816,
+     "to": [],
+     "h": 420,
+     "asset": "stick_hands_open_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "7.17",
+   "title": "THE TSETSE BELT",
+   "anchor": "West and Central Africa, across the",
+   "hold": 1.5,
+   "vo": "West and Central Africa, across the tsetse belt, and recently — the selection signature points to the last several thousand years.",
+   "layers": [
+    {
+     "id": "7.17-0",
+     "label": "map Africa",
+     "x": 860,
+     "y": 520,
+     "to": [],
+     "h": 620,
+     "asset": "asset_map_africa_tsetse_v01",
+     "at": "West and Central Africa",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.17-1",
+     "label": "tsetse belt",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "asset": "code_tsetse_belt",
+     "at": "tsetse belt",
+     "enter": "FADE",
+     "placed": "derived",
+     "z": 6
+    },
+    {
+     "id": "7.17-2",
+     "label": "timeline blurred",
+     "x": 960,
+     "y": 900,
+     "to": [],
+     "w": 1000,
+     "asset": "code_timeline_blurred",
+     "at": "recently",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.17-3",
+     "label": "marker",
+     "x": 960,
+     "y": 966,
+     "to": [],
+     "w": 120,
+     "h": 120,
+     "asset": "code_step_marker",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "africa across",
+    "signature points",
+    "several thousand"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "7.18",
+   "title": "FAST",
+   "anchor": "Fast, as these things go.",
+   "hold": 0.6,
+   "vo": "Fast, as these things go.",
+   "layers": [
+    {
+     "id": "7.17-0~",
+     "label": "map Africa",
+     "x": 399,
+     "y": 520,
+     "h": 620,
+     "asset": "asset_map_africa_tsetse_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.17-1~",
+     "label": "tsetse belt",
+     "x": 1434,
+     "y": 540,
+     "asset": "code_tsetse_belt",
+     "enter": "NONE",
+     "placed": "derived",
+     "z": 4
+    },
+    {
+     "id": "7.17-2~",
+     "label": "timeline blurred",
+     "x": 596,
+     "y": 900,
+     "w": 1000,
+     "asset": "code_timeline_blurred",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.17-3~",
+     "label": "marker",
+     "x": 960,
+     "y": 966,
+     "w": 120,
+     "h": 120,
+     "asset": "code_step_marker",
+     "placed": "derived",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.18-0",
+     "label": "selection arrow (dốc)",
+     "x": 993,
+     "y": 836,
+     "to": [],
+     "h": 200,
+     "asset": "code_selection_arrow",
+     "at": "Fast",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 110
+    },
+    {
+     "id": "7.18-1",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 548,
+     "h": 443,
+     "asset": "code_dashed_outline",
+     "at": "these things",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "7.19",
+   "title": "DOESN'T STOP THERE",
+   "anchor": "The hole-punching doesn't stop at the",
+   "hold": 0.9,
+   "vo": "The hole-punching doesn't stop at the parasite.",
+   "layers": [
+    {
+     "id": "7.19-0",
+     "label": "trypanosome + pores",
+     "x": 344,
+     "y": 540,
+     "to": [],
+     "h": 334,
+     "asset": "asset_trypanosome_v01",
+     "at": "hole-punching",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.19-1",
+     "label": "arrow",
+     "x": 1043,
+     "y": 540,
+     "to": [],
+     "asset": "code_arrow",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 840,
+     "h": 90,
+     "props": {
+      "span": 840
+     }
+    },
+    {
+     "id": "7.19-2",
+     "label": "question mark",
+     "x": 1575,
+     "y": 540,
+     "to": [],
+     "h": 239,
+     "asset": "asset_question_mark_v01",
+     "at": "the parasite",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.19-c1",
+     "label": "code_pore_holes",
+     "asset": "code_pore_holes",
+     "x": 1575,
+     "y": 540,
+     "to": [],
+     "at": "hole-punching",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "7.20",
+   "title": "PODOCYTES",
+   "anchor": "Podocytes — the filter cells in",
+   "hold": 1.5,
+   "vo": "Podocytes — the filter cells in the kidney — can take the same damage.",
+   "layers": [
+    {
+     "id": "7.20-0",
+     "label": "trypanosome + pores (giữ, 40%)",
+     "x": 476,
+     "y": 540,
+     "to": [],
+     "h": 240,
+     "asset": "asset_trypanosome_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.20-1",
+     "label": "body window",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 760,
+     "h": 520,
+     "asset": "code_body_window",
+     "at": "Podocytes",
+     "enter": "FADE",
+     "z": 6
+    },
+    {
+     "id": "7.20-2",
+     "label": "kidney plate",
+     "x": 1444,
+     "y": 540,
+     "to": [],
+     "h": 440,
+     "asset": "asset_kidney_plate_v01",
+     "at": "Podocytes",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.20-3",
+     "label": "pore holes ×6",
+     "x": 1200,
+     "y": 540,
+     "to": [],
+     "w": 28,
+     "h": 28,
+     "count": 6,
+     "asset": "code_pore_holes",
+     "at": "the same damage",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 50,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.20-4",
+     "label": "red X",
+     "x": 1200,
+     "y": 640,
+     "to": [],
+     "h": 180,
+     "asset": "code_mark_x",
+     "delay": 0.3,
+     "enter": "DRAW",
+     "z": 50
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "in the"
+   ]
+  },
+  {
+   "id": "7.21",
+   "title": "RAISED RISK",
+   "anchor": "Two copies is associated with substantially",
+   "hold": 1.2,
+   "vo": "Two copies is associated with substantially raised risk of several kidney diseases.",
+   "layers": [
+    {
+     "id": "7.20-0~",
+     "label": "trypanosome + pores (giữ, 40%)",
+     "x": 476,
+     "y": 540,
+     "h": 240,
+     "asset": "asset_trypanosome_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.20-1~",
+     "label": "body window",
+     "x": 1444,
+     "y": 540,
+     "w": 760,
+     "h": 520,
+     "asset": "code_body_window",
+     "enter": "NONE",
+     "z": 4
+    },
+    {
+     "id": "7.20-2~",
+     "label": "kidney plate",
+     "x": 960,
+     "y": 540,
+     "h": 440,
+     "asset": "asset_kidney_plate_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.21-0",
+     "label": "copy card",
+     "x": 400,
+     "y": 280,
+     "to": [],
+     "w": 300,
+     "h": 220,
+     "asset": "code_copy_cards",
+     "at": "Two copies",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.21-1",
+     "label": "price tag",
+     "x": 1200,
+     "y": 880,
+     "to": [],
+     "h": 142,
+     "asset": "code_price_tag",
+     "at": "raised risk",
+     "enter": "POP",
+     "w": 250,
+     "z": 50
+    },
+    {
+     "id": "7.21-2",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 900,
+     "h": 720,
+     "asset": "code_dashed_outline",
+     "at": "associated",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "several kidney"
+   ]
+  },
+  {
+   "id": "7.22",
+   "title": "MOST NEVER DEVELOP — SINGLE FOCAL",
+   "anchor": "And most people with two copies",
+   "hold": 1.4,
+   "vo": "And most people with two copies never develop any of them.",
+   "layers": [
+    {
+     "id": "7.22-0",
+     "label": "crowd grid ×8 (lớp ngoài)",
+     "x": 842,
+     "y": 334,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 8,
+     "asset": "code_crowd_grid",
+     "at": "most people",
+     "enter": "POP",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.22-1",
+     "label": "crowd texture (không đếm được)",
+     "x": 606,
+     "y": 560,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "asset": "code_crowd_grid",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.22-2",
+     "label": "branch path (mảnh)",
+     "x": 1316,
+     "y": 560,
+     "to": [
+      [
+       1440,
+       560
+      ]
+     ],
+     "asset": "code_bounce_path",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.22-3",
+     "label": "kidney icon (mép phải)",
+     "x": 1056,
+     "y": 560,
+     "to": [],
+     "h": 271,
+     "asset": "asset_wheat_icon_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "copies never",
+    "any of"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "7.23",
+   "title": "THE SECOND TRIGGER",
+   "anchor": "A second trigger seems to be",
+   "hold": 1.2,
+   "vo": "A second trigger seems to be needed, often an infection, and what that trigger is remains an open question.",
+   "layers": [
+    {
+     "id": "7.23-0",
+     "label": "sub-grid ×8",
+     "x": 606,
+     "y": 540,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 8,
+     "asset": "code_crowd_grid",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.23-1",
+     "label": "trigger box",
+     "x": 842,
+     "y": 540,
+     "to": [],
+     "w": 449,
+     "h": 449,
+     "asset": "code_trigger_box",
+     "at": "A second trigger",
+     "enter": "DRAW",
+     "z": 6
+    },
+    {
+     "id": "7.23-2",
+     "label": "virus particle (50%)",
+     "x": 1064,
+     "y": 540,
+     "to": [],
+     "h": 224,
+     "asset": "asset_virus_particle_v01",
+     "at": "an infection",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.23-3",
+     "label": "question mark",
+     "x": 1314,
+     "y": 540,
+     "to": [],
+     "h": 288,
+     "asset": "asset_question_mark_v01",
+     "at": "open question",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "what that",
+    "is remains"
+   ]
+  },
+  {
+   "id": "7.24",
+   "title": "ONE OBJECT — THESIS PAYOFF",
+   "anchor": "You cannot take the blade and",
+   "hold": 1.2,
+   "vo": "You cannot take the blade and leave the edge. It is one object.",
+   "layers": [
+    {
+     "id": "7.24-0",
+     "label": "blade no handle",
+     "x": 960,
+     "y": 500,
+     "to": [],
+     "h": 520,
+     "asset": "asset_blade_no_handle_v01",
+     "at": "the blade",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.24-1",
+     "label": "Stick hands open ×1",
+     "x": 511,
+     "y": 816,
+     "to": [],
+     "h": 420,
+     "count": 1,
+     "asset": "stick_hands_open_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.24-2",
+     "label": "open grab hand ×2",
+     "x": 588,
+     "y": 500,
+     "to": [
+      [
+       1220,
+       500
+      ]
+     ],
+     "h": 150,
+     "count": 2,
+     "asset": "asset_open_grab_hand_v01",
+     "at": "leave the edge",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.24-3",
+     "label": "red X",
+     "x": 960,
+     "y": 500,
+     "to": [],
+     "h": 200,
+     "asset": "code_mark_x",
+     "delay": 0.3,
+     "enter": "DRAW",
+     "z": 50
+    },
+    {
+     "id": "7.24-4",
+     "label": "type \"ONE OBJECT\"",
+     "x": 1201,
+     "y": 880,
+     "to": [],
+     "size": 134,
+     "kind": "text",
+     "text": "ONE OBJECT",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "id": "7.24-5",
+     "label": "tag pair (gap 0)",
+     "x": 1408,
+     "y": 953,
+     "to": [],
+     "h": 146,
+     "asset": "code_tag_pair",
+     "at": "one object",
+     "enter": "POP",
+     "w": 560,
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "7.25",
+   "title": "NEVER SEEING ONE",
+   "anchor": "Someone can carry this their whole",
+   "hold": 1.0,
+   "vo": "Someone can carry this their whole life without ever seeing a tsetse fly.",
+   "layers": [
+    {
+     "id": "7.25-0",
+     "label": "crowd grid ×8",
+     "x": 606,
+     "y": 480,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 8,
+     "asset": "code_crowd_grid",
+     "at": "Someone",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.25-1",
+     "label": "timeline blurred",
+     "x": 636,
+     "y": 811,
+     "to": [],
+     "w": 1080,
+     "asset": "code_timeline_blurred",
+     "at": "whole life",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.25-2",
+     "label": "tsetse fly (35%)",
+     "x": 1420,
+     "y": 540,
+     "to": [],
+     "h": 581,
+     "asset": "asset_tsetse_fly_v01",
+     "at": "a tsetse fly",
+     "enter": "DRAW",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.25-3",
+     "label": "red X",
+     "x": 1420,
+     "y": 540,
+     "to": [],
+     "h": 456,
+     "asset": "code_mark_x",
+     "at": "a tsetse fly",
+     "enter": "DRAW",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "7.26",
+   "title": "THE BLOOD DOESN'T KNOW — SINGLE FOCAL",
+   "anchor": "Their blood has no way of",
+   "hold": 1.2,
+   "vo": "Their blood has no way of knowing the old threat is gone.",
+   "layers": [
+    {
+     "id": "7.26-0",
+     "label": "blood drop plain",
+     "x": 1179,
+     "y": 520,
+     "to": [],
+     "h": 560,
+     "asset": "asset_blood_drop_plain_v01",
+     "at": "Their blood",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.26-1",
+     "label": "blade no handle (nhỏ)",
+     "x": 1566,
+     "y": 520,
+     "to": [],
+     "h": 280,
+     "asset": "asset_blade_no_handle_v01",
+     "at": "no way of knowing",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "7.26-2",
+     "label": "tsetse fly (15% → 0)",
+     "x": 639,
+     "y": 540,
+     "to": [],
+     "h": 240,
+     "asset": "asset_tsetse_fly_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "7.26-c2",
+     "label": "code_chapter_reset",
+     "asset": "code_chapter_reset",
+     "x": 1179,
+     "y": 540,
+     "to": [],
+     "enter": "POP",
+     "placed": "derived",
+     "h": 1080,
+     "z": 6
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "old threat"
+   ]
+  }
+ ]
+}

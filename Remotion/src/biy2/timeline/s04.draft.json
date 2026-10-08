@@ -1,0 +1,1294 @@
+{
+ "id": "04",
+ "title": "THE LOW TRIPWIRE - MEFV",
+ "audio": "biy2/audio/Audio04.mp3",
+ "shots": [
+  {
+   "id": "4.1",
+   "title": "EARLIER THAN OTHERS",
+   "anchor": "Some immune systems commit to a",
+   "hold": 1.2,
+   "vo": "Some immune systems commit to a fight earlier than others.",
+   "layers": [
+    {
+     "id": "4.1-0",
+     "label": "threshold bar A",
+     "x": 1221,
+     "y": 540,
+     "to": [],
+     "h": 455,
+     "asset": "code_threshold_bar",
+     "w": 130,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.1-1",
+     "label": "threshold bar B",
+     "x": 1407,
+     "y": 540,
+     "to": [],
+     "h": 455,
+     "asset": "code_threshold_bar",
+     "w": 130,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.1-2",
+     "label": "green check",
+     "x": 956,
+     "y": 620,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "earlier",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "4.1-3",
+     "label": "Stick observer",
+     "x": 607,
+     "y": 620,
+     "to": [],
+     "h": 485,
+     "asset": "stick_observer_side_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.1-c0",
+     "label": "code_two_bars_race",
+     "asset": "code_two_bars_race",
+     "x": 956,
+     "y": 620,
+     "to": [],
+     "at": "Some immune systems",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "zoom"
+  },
+  {
+   "id": "4.2",
+   "title": "NOT HARDER",
+   "anchor": "Not harder. Earlier.",
+   "hold": 0.8,
+   "vo": "Not harder. Earlier.",
+   "layers": [
+    {
+     "id": "4.2-0",
+     "label": "type \"HARDER\" → \"EARLIER\"",
+     "x": 960,
+     "y": 260,
+     "to": [],
+     "size": 281,
+     "kind": "text",
+     "text": "HARDER",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "id": "4.2-1",
+     "label": "red X → green check",
+     "x": 960,
+     "y": 260,
+     "to": [],
+     "h": 244,
+     "asset": "code_mark_x",
+     "at": "Not harder",
+     "enter": "DRAW",
+     "z": 50
+    },
+    {
+     "id": "4.2-c3",
+     "label": "code_mark_tick",
+     "asset": "code_mark_tick",
+     "x": 960,
+     "y": 260,
+     "to": [],
+     "at": "Earlier",
+     "enter": "DRAW",
+     "placed": "derived",
+     "h": 366,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "4.3",
+   "title": "A FRACTION OF IT",
+   "anchor": "Where most wait for the evidence",
+   "hold": 1.4,
+   "vo": "Where most wait for the evidence to stack up, these move on a fraction of it.",
+   "layers": [
+    {
+     "id": "4.3-0",
+     "label": "threshold bar A (vạch 1/3)",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 785,
+     "asset": "code_threshold_bar",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.3-1",
+     "label": "threshold bar B (vạch đầy)",
+     "x": 1280,
+     "y": 540,
+     "to": [],
+     "h": 785,
+     "asset": "code_threshold_bar",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "to stack",
+    "on a"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.4",
+   "title": "MEASURABLE — SINGLE FOCAL",
+   "anchor": "That part isn't a theory. It's",
+   "hold": 1.0,
+   "vo": "That part isn't a theory. It's measurable.",
+   "layers": [
+    {
+     "id": "4.4-0",
+     "label": "threshold bar A · B",
+     "x": 960,
+     "y": 540,
+     "to": [
+      [
+       1280,
+       540
+      ]
+     ],
+     "h": 972,
+     "asset": "code_threshold_bar",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.4-1",
+     "label": "ruler marker",
+     "x": 1164,
+     "y": 540,
+     "to": [],
+     "h": 440,
+     "asset": "code_ruler_marker",
+     "at": "measurable",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ACTIVE",
+     "w": 104
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "4.5",
+   "title": "WORTH HAVING?",
+   "anchor": "What nobody can tell you is",
+   "hold": 1.0,
+   "vo": "What nobody can tell you is whether that head start was ever worth having.",
+   "layers": [
+    {
+     "id": "4.5-0",
+     "label": "ruler marker (nét liền)",
+     "x": 1427,
+     "y": 500,
+     "to": [],
+     "h": 376,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.5-1",
+     "label": "question mark",
+     "x": 1239,
+     "y": 500,
+     "to": [],
+     "h": 359,
+     "asset": "asset_question_mark_v01",
+     "at": "nobody can tell you",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.5-2",
+     "label": "dashed outline",
+     "x": 799,
+     "y": 540,
+     "to": [],
+     "w": 478,
+     "h": 508,
+     "asset": "code_dashed_outline",
+     "at": "worth having",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "that head"
+   ]
+  },
+  {
+   "id": "4.6",
+   "title": "MEFV",
+   "anchor": "The gene is MEFV.",
+   "hold": 0.6,
+   "vo": "The gene is MEFV.",
+   "layers": [
+    {
+     "id": "4.6-0",
+     "label": "type \"MEFV\"",
+     "x": 960,
+     "y": 819,
+     "to": [],
+     "size": 344,
+     "kind": "text",
+     "text": "MEFV",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "4.7",
+   "title": "PYRIN",
+   "anchor": "MEFV builds a protein called pyrin,",
+   "hold": 1.8,
+   "vo": "MEFV builds a protein called pyrin, part of the machinery watching for bacteria sabotaging your own cells.",
+   "layers": [
+    {
+     "id": "4.7-0",
+     "label": "body window",
+     "x": 526,
+     "y": 540,
+     "to": [],
+     "w": 860,
+     "h": 560,
+     "asset": "code_body_window",
+     "at": "builds a protein",
+     "enter": "POP",
+     "z": 6
+    },
+    {
+     "id": "4.7-1",
+     "label": "immune cell plate",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 480,
+     "asset": "asset_immune_cell_plate_v01",
+     "delay": 0.2,
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.7-2",
+     "label": "pyrin protein",
+     "x": 1394,
+     "y": 560,
+     "to": [],
+     "h": 160,
+     "asset": "asset_pyrin_protein_v01",
+     "at": "pyrin",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.7-3",
+     "label": "bacteria",
+     "x": 1380,
+     "y": 440,
+     "to": [
+      [
+       1160,
+       480
+      ]
+     ],
+     "h": 140,
+     "asset": "asset_bacteria_v01",
+     "at": "watching for bacteria",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "sabotaging your"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.8",
+   "title": "HOLDS STILL",
+   "anchor": "Normally pyrin holds still until the",
+   "hold": 1.3,
+   "vo": "Normally pyrin holds still until the evidence is solid.",
+   "layers": [
+    {
+     "id": "4.8-0",
+     "label": "pyrin protein",
+     "x": 450,
+     "y": 560,
+     "to": [],
+     "h": 319,
+     "asset": "asset_pyrin_protein_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.8-1",
+     "label": "clamp tight",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "h": 359,
+     "asset": "asset_clamp_tight_v01",
+     "at": "Normally",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.8-2",
+     "label": "threshold bar (vạch cao)",
+     "x": 1469,
+     "y": 540,
+     "to": [],
+     "h": 599,
+     "asset": "code_threshold_bar",
+     "at": "the evidence",
+     "enter": "POP",
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "pyrin holds"
+   ]
+  },
+  {
+   "id": "4.9",
+   "title": "LOOSENED",
+   "anchor": "Certain variants loosen that restraint, so",
+   "hold": 1.4,
+   "vo": "Certain variants loosen that restraint, so pyrin commits on far less.",
+   "layers": [
+    {
+     "id": "4.9-0",
+     "label": "clamp loose",
+     "x": 308,
+     "y": 560,
+     "to": [],
+     "h": 182,
+     "asset": "asset_clamp_loose_v02",
+     "at": "loosen",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.9-1",
+     "label": "threshold bar (vạch 1/3)",
+     "x": 1611,
+     "y": 540,
+     "to": [],
+     "h": 455,
+     "asset": "code_threshold_bar",
+     "w": 130,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.9-2",
+     "label": "inflammation burst",
+     "x": 742,
+     "y": 560,
+     "to": [],
+     "w": 425,
+     "h": 425,
+     "asset": "code_inflammation_burst",
+     "delay": 0.3,
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.9-c0",
+     "label": "asset_clamp_tight_v01",
+     "asset": "asset_clamp_tight_v01",
+     "x": 1177,
+     "y": 560,
+     "to": [],
+     "at": "loosen",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "so pyrin",
+    "on far"
+   ]
+  },
+  {
+   "id": "4.10",
+   "title": "THE TRIPWIRE — SINGLE FOCAL",
+   "anchor": "A tripwire set two inches lower",
+   "hold": 1.0,
+   "vo": "A tripwire set two inches lower than everybody else's.",
+   "layers": [
+    {
+     "id": "4.10-0",
+     "label": "tripwire low",
+     "x": 960,
+     "y": 600,
+     "to": [],
+     "w": 900,
+     "asset": "asset_tripwire_low_v01",
+     "at": "tripwire",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.10-2",
+     "label": "ruler marker",
+     "x": 1476,
+     "y": 600,
+     "to": [],
+     "h": 344,
+     "asset": "code_ruler_marker",
+     "at": "two inches lower",
+     "enter": "DRAW",
+     "w": 104,
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.10-c0",
+     "label": "code_body_window",
+     "asset": "code_body_window",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "FADE",
+     "placed": "derived",
+     "h": 620,
+     "z": 6
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "everybody else"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.11",
+   "title": "ONE IN FIVE",
+   "anchor": "Carrier rates have been reported as",
+   "hold": 1.6,
+   "vo": "Carrier rates have been reported as high as one in five in some Armenian, Sephardic Jewish, Turkish and Arab populations — among the highest recorded anywhere, for any variant.",
+   "layers": [
+    {
+     "id": "4.11-0",
+     "label": "evidence chip",
+     "x": 960,
+     "y": 114,
+     "to": [],
+     "h": 120,
+     "asset": "code_evidence_chip",
+     "at": "the highest recorded",
+     "enter": "FADE",
+     "text": "~1 IN 5",
+     "z": 20
+    },
+    {
+     "id": "4.11-1",
+     "label": "crowd grid ×5",
+     "x": 606,
+     "y": 334,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 5,
+     "asset": "code_crowd_grid",
+     "at": "one in five",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.11-2",
+     "label": "map Levant",
+     "x": 1314,
+     "y": 560,
+     "to": [],
+     "h": 420,
+     "asset": "asset_map_levant_v01",
+     "at": "populations",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.11-3",
+     "label": "reference band (mờ, không đếm được)",
+     "x": 660,
+     "y": 746,
+     "to": [],
+     "h": 560,
+     "w": 1020,
+     "asset": "code_crowd_grid",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.11-4",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 480,
+     "h": 120,
+     "asset": "code_dashed_outline",
+     "at": "any variant",
+     "enter": "FADE",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "some armenian",
+    "sephardic jewish",
+    "turkish and",
+    "anywhere for"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.12",
+   "title": "CATCHES THE INTRUDER",
+   "anchor": "A wire set that low catches",
+   "hold": 1.0,
+   "vo": "A wire set that low catches the intruder.",
+   "layers": [
+    {
+     "id": "4.12-0",
+     "label": "tripwire low",
+     "x": 1085,
+     "y": 620,
+     "to": [],
+     "w": 900,
+     "asset": "asset_tripwire_low_v01",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.12-1",
+     "label": "intruder silhouette",
+     "x": 264,
+     "y": 560,
+     "to": [
+      [
+       885,
+       560
+      ]
+     ],
+     "h": 360,
+     "asset": "asset_intruder_silhouette_v01",
+     "at": "catches",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.12-2",
+     "label": "green check",
+     "x": 1085,
+     "y": 620,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "the intruder",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "4.12-c2",
+     "label": "code_inflammation_burst",
+     "asset": "code_inflammation_burst",
+     "x": 545,
+     "y": 560,
+     "to": [],
+     "at": "the intruder",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "4.13",
+   "title": "ALSO THE CAT",
+   "anchor": "It also catches the cat.",
+   "hold": 0.8,
+   "vo": "It also catches the cat.",
+   "layers": [
+    {
+     "id": "4.13-0",
+     "label": "tripwire low",
+     "x": 1374,
+     "y": 620,
+     "to": [],
+     "w": 900,
+     "asset": "asset_tripwire_low_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.13-1",
+     "label": "cat shape",
+     "x": 359,
+     "y": 640,
+     "to": [
+      [
+       907,
+       640
+      ]
+     ],
+     "h": 220,
+     "asset": "asset_cat_shape_v01",
+     "at": "the cat",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.13-2",
+     "label": "red X (đè tick)",
+     "x": 1447,
+     "y": 440,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "delay": 0.3,
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "4.13-c1",
+     "label": "code_inflammation_burst",
+     "asset": "code_inflammation_burst",
+     "x": 724,
+     "y": 640,
+     "to": [],
+     "delay": 0.15,
+     "enter": "POP",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "4.14",
+   "title": "IT IS A STORY",
+   "anchor": "Here's the story people tell about",
+   "hold": 1.0,
+   "vo": "Here's the story people tell about it, and it is a story.",
+   "layers": [
+    {
+     "id": "4.14-0",
+     "label": "dashed outline (lớn)",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "w": 1560,
+     "h": 760,
+     "asset": "code_dashed_outline",
+     "at": "the story",
+     "enter": "DRAW",
+     "z": 6,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.14-1",
+     "label": "type \"A STORY\"",
+     "x": 380,
+     "y": 260,
+     "to": [],
+     "size": 100,
+     "kind": "text",
+     "text": "A STORY",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "and it"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.15",
+   "title": "BEFORE ANTIBIOTICS",
+   "anchor": "Before antibiotics, in a city packed",
+   "hold": 1.8,
+   "vo": "Before antibiotics, in a city packed tight enough that a cut could kill you, an immune system that moved early might have been the one that survived.",
+   "layers": [
+    {
+     "id": "4.15-0",
+     "label": "dashed outline (giữ)",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "w": 1560,
+     "h": 760,
+     "asset": "code_dashed_outline",
+     "z": 6
+    },
+    {
+     "id": "4.15-1",
+     "label": "city blocks",
+     "x": 900,
+     "y": 480,
+     "to": [],
+     "h": 380,
+     "asset": "asset_city_blocks_v01",
+     "at": "a city",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.15-2",
+     "label": "small figure",
+     "x": 900,
+     "y": 936,
+     "to": [],
+     "h": 180,
+     "asset": "asset_small_figure_v01",
+     "at": "a city",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.15-3",
+     "label": "cut mark (trên cánh tay)",
+     "x": 940,
+     "y": 600,
+     "to": [],
+     "w": 170,
+     "asset": "code_mark_x",
+     "h": 170,
+     "z": 50
+    },
+    {
+     "id": "4.15-4",
+     "label": "bacteria ×4",
+     "x": 900,
+     "y": 612,
+     "to": [],
+     "h": 70,
+     "count": 4,
+     "asset": "asset_bacteria_v01",
+     "at": "could kill you",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.15-5",
+     "label": "tripwire low (nhỏ)",
+     "x": 900,
+     "y": 760,
+     "to": [],
+     "w": 460,
+     "asset": "asset_tripwire_low_v01",
+     "at": "moved early",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.15-6",
+     "label": "Stick observer",
+     "x": 1700,
+     "y": 620,
+     "to": [],
+     "h": 380,
+     "asset": "stick_observer_side_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": null,
+   "beats": [
+    "an immune",
+    "been the"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.16",
+   "title": "PLAUSIBLE, NOT ESTABLISHED",
+   "anchor": "That's plausible. It is not established.",
+   "hold": 0.8,
+   "vo": "That's plausible. It is not established.",
+   "layers": [
+    {
+     "id": "4.16-0",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "w": 1560,
+     "h": 760,
+     "asset": "code_dashed_outline",
+     "z": 6
+    },
+    {
+     "id": "4.16-1",
+     "label": "grey tick",
+     "x": 960,
+     "y": 220,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick_grey",
+     "at": "plausible",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.16-2",
+     "label": "type \"NOT ESTABLISHED\"",
+     "x": 960,
+     "y": 963,
+     "to": [],
+     "size": 105,
+     "kind": "text",
+     "text": "NOT ESTABLISHED",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "established a"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.17",
+   "title": "NOBODY CLOSED THE CASE",
+   "anchor": "A frequency that high needs explaining,",
+   "hold": 1.0,
+   "vo": "A frequency that high needs explaining, and nobody has closed the case.",
+   "layers": [
+    {
+     "id": "4.17-0",
+     "label": "crowd grid ×5 (nhỏ)",
+     "x": 606,
+     "y": 746,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 5,
+     "asset": "code_crowd_grid",
+     "at": "frequency that high",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.17-1",
+     "label": "arrow",
+     "x": 735,
+     "y": 410,
+     "to": [],
+     "asset": "code_arrow",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.17-2",
+     "label": "dashed outline",
+     "x": 1044,
+     "y": 560,
+     "to": [],
+     "w": 1560,
+     "h": 760,
+     "asset": "code_dashed_outline",
+     "z": 6
+    },
+    {
+     "id": "4.17-3",
+     "label": "question mark",
+     "x": 1135,
+     "y": 560,
+     "to": [],
+     "h": 300,
+     "asset": "asset_question_mark_v01",
+     "at": "nobody has closed",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "needs explaining"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.18",
+   "title": "THE SAME WIRE, LOWER STILL",
+   "anchor": "What is not in doubt is",
+   "hold": 1.2,
+   "vo": "What is not in doubt is the cost, because it's the same wire, lower still.",
+   "layers": [
+    {
+     "id": "4.18-0",
+     "label": "tripwire low",
+     "x": 960,
+     "y": 600,
+     "to": [
+      [
+       960,
+       700
+      ]
+     ],
+     "w": 983,
+     "asset": "asset_tripwire_low_v01",
+     "at": "the cost",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "it s",
+    "lower still"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.19",
+   "title": "TWO COPIES",
+   "anchor": "Two copies is familial Mediterranean fever",
+   "hold": 1.4,
+   "vo": "Two copies is familial Mediterranean fever — inflammation that recurs and needs managing for life.",
+   "layers": [
+    {
+     "id": "4.19-0",
+     "label": "copy card (2 bản sao)",
+     "x": 380,
+     "y": 300,
+     "to": [],
+     "w": 440,
+     "h": 322,
+     "asset": "code_copy_cards",
+     "at": "Two copies",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.19-1",
+     "label": "timeline",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "w": 1728,
+     "asset": "code_timeline_blurred",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.19-2",
+     "label": "inflammation burst ×3",
+     "x": 1060,
+     "y": 771,
+     "to": [],
+     "w": 293,
+     "h": 293,
+     "count": 3,
+     "asset": "code_inflammation_burst",
+     "at": "recurs",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.19-3",
+     "label": "price tag",
+     "x": 1060,
+     "y": 800,
+     "to": [],
+     "h": 142,
+     "asset": "code_price_tag",
+     "delay": 0.3,
+     "enter": "POP",
+     "w": 250,
+     "z": 50
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "mediterranean fever",
+    "inflammation that",
+    "managing for"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "4.20",
+   "title": "THE SPEED IS REAL",
+   "anchor": "The speed is real.",
+   "hold": 0.7,
+   "vo": "The speed is real.",
+   "layers": [
+    {
+     "id": "4.20-0",
+     "label": "ruler marker",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 720,
+     "asset": "code_ruler_marker",
+     "at": "The speed",
+     "enter": "DRAW",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.20-1",
+     "label": "green check",
+     "x": 960,
+     "y": 800,
+     "to": [],
+     "h": 240,
+     "asset": "code_mark_tick",
+     "at": "real",
+     "enter": "DRAW",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "4.21",
+   "title": "THE REASON IS A GUESS",
+   "anchor": "The reason is a guess.",
+   "hold": 0.7,
+   "vo": "The reason is a guess.",
+   "layers": [
+    {
+     "id": "4.21-0",
+     "label": "ruler marker (nét liền)",
+     "x": 1400,
+     "y": 540,
+     "to": [],
+     "h": 375,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.21-1",
+     "label": "question mark",
+     "x": 1589,
+     "y": 540,
+     "to": [],
+     "h": 358,
+     "asset": "asset_question_mark_v01",
+     "at": "The reason",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.21-2",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 469,
+     "h": 496,
+     "asset": "code_dashed_outline",
+     "at": "a guess",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "4.22",
+   "title": "THE BILL — SINGLE FOCAL",
+   "anchor": "The bill arrives either way.",
+   "hold": 0.9,
+   "vo": "The bill arrives either way.",
+   "layers": [
+    {
+     "id": "4.22-0",
+     "label": "ruler marker (25%)",
+     "x": 1508,
+     "y": 620,
+     "to": [],
+     "h": 368,
+     "asset": "code_ruler_marker",
+     "w": 104,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.22-1",
+     "label": "question mark (25%)",
+     "x": 960,
+     "y": 620,
+     "to": [],
+     "h": 235,
+     "asset": "code_mark_x",
+     "z": 50
+    },
+    {
+     "id": "4.22-2",
+     "label": "tripwire low",
+     "x": 960,
+     "y": 620,
+     "to": [],
+     "w": 964,
+     "asset": "asset_tripwire_low_v01",
+     "at": "The bill",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.22-3",
+     "label": "price tag (treo trên dây)",
+     "x": 960,
+     "y": 700,
+     "to": [],
+     "h": 142,
+     "asset": "code_price_tag",
+     "at": "either way",
+     "enter": "POP",
+     "w": 250,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4
+  },
+  {
+   "id": "4.T",
+   "title": "BRIDGE → SECTION 5",
+   "anchor": "That one defends by reacting early.",
+   "hold": 1.4,
+   "vo": "That one defends by reacting early. Here's the opposite — being nothing worth grabbing.",
+   "layers": [
+    {
+     "id": "4.T-0",
+     "label": "tripwire low",
+     "x": 960,
+     "y": 600,
+     "to": [],
+     "w": 900,
+     "asset": "asset_tripwire_low_v01",
+     "at": "reacting early",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "4.T-1",
+     "label": "open grab hand",
+     "x": 960,
+     "y": 266,
+     "to": [],
+     "h": 280,
+     "asset": "asset_open_grab_hand_v01",
+     "at": "nothing worth grabbing",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "4.T-c2",
+     "label": "code_chapter_reset",
+     "asset": "code_chapter_reset",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "POP",
+     "placed": "derived",
+     "h": 1080,
+     "z": 6
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "here s"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1685 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 160,
+  "timestampMs": 80,
+  "confidence": null
+ },
+ {
+  "text": " brake",
+  "startMs": 160,
+  "endMs": 380,
+  "timestampMs": 270,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 380,
+  "endMs": 580,
+  "timestampMs": 480,
+  "confidence": null
+ },
+ {
+  "text": " didn't",
+  "startMs": 580,
+  "endMs": 800,
+  "timestampMs": 690,
+  "confidence": null
+ },
+ {
+  "text": " ask",
+  "startMs": 800,
+  "endMs": 1040,
+  "timestampMs": 920,
+  "confidence": null
+ },
+ {
+  "text": " for.",
+  "startMs": 1040,
+  "endMs": 1440,
+  "timestampMs": 1240,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Some",
+  "startMs": 1740,
+  "endMs": 1960,
+  "timestampMs": 1850,
+  "confidence": null
+ },
+ {
+  "text": " people",
+  "startMs": 1960,
+  "endMs": 2220,
+  "timestampMs": 2090,
+  "confidence": null
+ },
+ {
+  "text": " take",
+  "startMs": 2220,
+  "endMs": 2480,
+  "timestampMs": 2350,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 2480,
+  "endMs": 2800,
+  "timestampMs": 2640,
+  "confidence": null
+ },
+ {
+  "text": " sips",
+  "startMs": 2800,
+  "endMs": 3040,
+  "timestampMs": 2920,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 3040,
+  "endMs": 3240,
+  "timestampMs": 3140,
+  "confidence": null
+ },
+ {
+  "text": " beer",
+  "startMs": 3240,
+  "endMs": 3540,
+  "timestampMs": 3390,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 3540,
+  "endMs": 4080,
+  "timestampMs": 3810,
+  "confidence": null
+ },
+ {
+  "text": " turn",
+  "startMs": 4080,
+  "endMs": 4380,
+  "timestampMs": 4230,
+  "confidence": null
+ },
+ {
+  "text": " bright",
+  "startMs": 4380,
+  "endMs": 4680,
+  "timestampMs": 4530,
+  "confidence": null
+ },
+ {
+  "text": " red.",
+  "startMs": 4680,
+  "endMs": 5080,
+  "timestampMs": 4880,
+  "confidence": null
+ },
+ {
+  "text": " Face,",
+  "startMs": 5760,
+  "endMs": 6020,
+  "timestampMs": 5890,
+  "confidence": null
+ },
+ {
+  "text": " neck,",
+  "startMs": 6340,
+  "endMs": 6680,
+  "timestampMs": 6510,
+  "confidence": null
+ },
+ {
+  "text": " sometimes",
+  "startMs": 7680,
+  "endMs": 7720,
+  "timestampMs": 7680,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 7680,
+  "endMs": 8140,
+  "timestampMs": 7910,
+  "confidence": null
+ },
+ {
+  "text": " whole",
+  "startMs": 8140,
+  "endMs": 8320,
+  "timestampMs": 8230,
+  "confidence": null
+ },
+ {
+  "text": " chest.",
+  "startMs": 8320,
+  "endMs": 8700,
+  "timestampMs": 8510,
+  "confidence": null
+ },
+ {
+  "text": " Heart",
+  "startMs": 9360,
+  "endMs": 9600,
+  "timestampMs": 9480,
+  "confidence": null
+ },
+ {
+  "text": " rate",
+  "startMs": 9600,
+  "endMs": 9860,
+  "timestampMs": 9730,
+  "confidence": null
+ },
+ {
+  "text": " up.",
+  "startMs": 9860,
+  "endMs": 10140,
+  "timestampMs": 10000,
+  "confidence": null
+ },
+ {
+  "text": " Slightly",
+  "startMs": 10680,
+  "endMs": 10900,
+  "timestampMs": 10790,
+  "confidence": null
+ },
+ {
+  "text": " miserable.",
+  "startMs": 10900,
+  "endMs": 11420,
+  "timestampMs": 11160,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " That's",
+  "startMs": 12080,
+  "endMs": 12440,
+  "timestampMs": 12260,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 12440,
+  "endMs": 12600,
+  "timestampMs": 12520,
+  "confidence": null
+ },
+ {
+  "text": " simply",
+  "startMs": 12600,
+  "endMs": 12980,
+  "timestampMs": 12790,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 12980,
+  "endMs": 13140,
+  "timestampMs": 13060,
+  "confidence": null
+ },
+ {
+  "text": " low",
+  "startMs": 13140,
+  "endMs": 13320,
+  "timestampMs": 13230,
+  "confidence": null
+ },
+ {
+  "text": " tolerance.",
+  "startMs": 13320,
+  "endMs": 13780,
+  "timestampMs": 13550,
+  "confidence": null
+ },
+ {
+  "text": " That's",
+  "startMs": 14260,
+  "endMs": 14540,
+  "timestampMs": 14400,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 14540,
+  "endMs": 14660,
+  "timestampMs": 14600,
+  "confidence": null
+ },
+ {
+  "text": " gene",
+  "startMs": 14660,
+  "endMs": 14860,
+  "timestampMs": 14760,
+  "confidence": null
+ },
+ {
+  "text": " called",
+  "startMs": 14860,
+  "endMs": 15420,
+  "timestampMs": 15140,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 15420,
+  "endMs": 15880,
+  "timestampMs": 15650,
+  "confidence": null
+ },
+ {
+  "text": " L",
+  "startMs": 15880,
+  "endMs": 16220,
+  "timestampMs": 16050,
+  "confidence": null
+ },
+ {
+  "text": " D",
+  "startMs": 16220,
+  "endMs": 16680,
+  "timestampMs": 16450,
+  "confidence": null
+ },
+ {
+  "text": " H",
+  "startMs": 16680,
+  "endMs": 17140,
+  "timestampMs": 16910,
+  "confidence": null
+ },
+ {
+  "text": " two,",
+  "startMs": 17140,
+  "endMs": 17540,
+  "timestampMs": 17340,
+  "confidence": null
+ },
+ {
+  "text": " missing",
+  "startMs": 18100,
+  "endMs": 18260,
+  "timestampMs": 18180,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 18260,
+  "endMs": 18480,
+  "timestampMs": 18370,
+  "confidence": null
+ },
+ {
+  "text": " step.",
+  "startMs": 18480,
+  "endMs": 18800,
+  "timestampMs": 18640,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Alcohol",
+  "startMs": 19640,
+  "endMs": 19680,
+  "timestampMs": 19640,
+  "confidence": null
+ },
+ {
+  "text": " gets",
+  "startMs": 19640,
+  "endMs": 20280,
+  "timestampMs": 19960,
+  "confidence": null
+ },
+ {
+  "text": " broken",
+  "startMs": 20280,
+  "endMs": 20600,
+  "timestampMs": 20440,
+  "confidence": null
+ },
+ {
+  "text": " down",
+  "startMs": 20600,
+  "endMs": 20980,
+  "timestampMs": 20790,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 20980,
+  "endMs": 21380,
+  "timestampMs": 21180,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 21380,
+  "endMs": 21700,
+  "timestampMs": 21540,
+  "confidence": null
+ },
+ {
+  "text": " stages.",
+  "startMs": 21700,
+  "endMs": 22220,
+  "timestampMs": 21960,
+  "confidence": null
+ },
+ {
+  "text": " First",
+  "startMs": 22860,
+  "endMs": 23120,
+  "timestampMs": 22990,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 23120,
+  "endMs": 23560,
+  "timestampMs": 23340,
+  "confidence": null
+ },
+ {
+  "text": " acetaldehyde,",
+  "startMs": 23560,
+  "endMs": 24440,
+  "timestampMs": 24000,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 24800,
+  "endMs": 24880,
+  "timestampMs": 24840,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 24880,
+  "endMs": 25140,
+  "timestampMs": 25010,
+  "confidence": null
+ },
+ {
+  "text": " genuinely",
+  "startMs": 25140,
+  "endMs": 25600,
+  "timestampMs": 25370,
+  "confidence": null
+ },
+ {
+  "text": " toxic.",
+  "startMs": 25600,
+  "endMs": 26240,
+  "timestampMs": 25920,
+  "confidence": null
+ },
+ {
+  "text": " Then",
+  "startMs": 26760,
+  "endMs": 26860,
+  "timestampMs": 26810,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 26860,
+  "endMs": 27120,
+  "timestampMs": 26990,
+  "confidence": null
+ },
+ {
+  "text": " something",
+  "startMs": 27120,
+  "endMs": 27500,
+  "timestampMs": 27310,
+  "confidence": null
+ },
+ {
+  "text": " harmless.",
+  "startMs": 27500,
+  "endMs": 28000,
+  "timestampMs": 27750,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 28320,
+  "endMs": 28700,
+  "timestampMs": 28510,
+  "confidence": null
+ },
+ {
+  "text": " L",
+  "startMs": 28700,
+  "endMs": 29120,
+  "timestampMs": 28910,
+  "confidence": null
+ },
+ {
+  "text": " D",
+  "startMs": 29120,
+  "endMs": 29600,
+  "timestampMs": 29360,
+  "confidence": null
+ },
+ {
+  "text": " H",
+  "startMs": 29600,
+  "endMs": 30020,
+  "timestampMs": 29810,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 30020,
+  "endMs": 30440,
+  "timestampMs": 30230,
+  "confidence": null
+ },
+ {
+  "text": " runs",
+  "startMs": 30440,
+  "endMs": 31100,
+  "timestampMs": 30770,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 31100,
+  "endMs": 31400,
+  "timestampMs": 31250,
+  "confidence": null
+ },
+ {
+  "text": " second",
+  "startMs": 31400,
+  "endMs": 31800,
+  "timestampMs": 31600,
+  "confidence": null
+ },
+ {
+  "text": " stage.",
+  "startMs": 31800,
+  "endMs": 32220,
+  "timestampMs": 32010,
+  "confidence": null
+ },
+ {
+  "text": " In",
+  "startMs": 32680,
+  "endMs": 32820,
+  "timestampMs": 32750,
+  "confidence": null
+ },
+ {
+  "text": " people",
+  "startMs": 32820,
+  "endMs": 33100,
+  "timestampMs": 32960,
+  "confidence": null
+ },
+ {
+  "text": " carrying",
+  "startMs": 33100,
+  "endMs": 33440,
+  "timestampMs": 33270,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 33440,
+  "endMs": 33660,
+  "timestampMs": 33550,
+  "confidence": null
+ },
+ {
+  "text": " common",
+  "startMs": 33660,
+  "endMs": 33960,
+  "timestampMs": 33810,
+  "confidence": null
+ },
+ {
+  "text": " reduced-function",
+  "startMs": 33960,
+  "endMs": 34840,
+  "timestampMs": 34400,
+  "confidence": null
+ },
+ {
+  "text": " variant,",
+  "startMs": 34840,
+  "endMs": 35460,
+  "timestampMs": 35150,
+  "confidence": null
+ },
+ {
+  "text": " stage",
+  "startMs": 35920,
+  "endMs": 36060,
+  "timestampMs": 35990,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 36060,
+  "endMs": 36620,
+  "timestampMs": 36340,
+  "confidence": null
+ },
+ {
+  "text": " slows",
+  "startMs": 36620,
+  "endMs": 37320,
+  "timestampMs": 36970,
+  "confidence": null
+ },
+ {
+  "text": " dramatically,",
+  "startMs": 37320,
+  "endMs": 38000,
+  "timestampMs": 37660,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 38480,
+  "endMs": 38720,
+  "timestampMs": 38600,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 38720,
+  "endMs": 38880,
+  "timestampMs": 38800,
+  "confidence": null
+ },
+ {
+  "text": " acetaldehyde",
+  "startMs": 38880,
+  "endMs": 39760,
+  "timestampMs": 39320,
+  "confidence": null
+ },
+ {
+  "text": " piles",
+  "startMs": 39760,
+  "endMs": 40320,
+  "timestampMs": 40040,
+  "confidence": null
+ },
+ {
+  "text": " up.",
+  "startMs": 40320,
+  "endMs": 40660,
+  "timestampMs": 40490,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Your",
+  "startMs": 41340,
+  "endMs": 41540,
+  "timestampMs": 41440,
+  "confidence": null
+ },
+ {
+  "text": " body",
+  "startMs": 41540,
+  "endMs": 41920,
+  "timestampMs": 41730,
+  "confidence": null
+ },
+ {
+  "text": " isn't",
+  "startMs": 41920,
+  "endMs": 42460,
+  "timestampMs": 42190,
+  "confidence": null
+ },
+ {
+  "text": " rejecting",
+  "startMs": 42460,
+  "endMs": 43020,
+  "timestampMs": 42740,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 43020,
+  "endMs": 43260,
+  "timestampMs": 43140,
+  "confidence": null
+ },
+ {
+  "text": " drink.",
+  "startMs": 43260,
+  "endMs": 43560,
+  "timestampMs": 43410,
+  "confidence": null
+ },
+ {
+  "text": " It's",
+  "startMs": 44060,
+  "endMs": 44360,
+  "timestampMs": 44210,
+  "confidence": null
+ },
+ {
+  "text": " stuck",
+  "startMs": 44360,
+  "endMs": 44600,
+  "timestampMs": 44480,
+  "confidence": null
+ },
+ {
+  "text": " halfway",
+  "startMs": 44600,
+  "endMs": 44940,
+  "timestampMs": 44770,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 44940,
+  "endMs": 45460,
+  "timestampMs": 45200,
+  "confidence": null
+ },
+ {
+  "text": " cleaning",
+  "startMs": 45640,
+  "endMs": 45880,
+  "timestampMs": 45760,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 45880,
+  "endMs": 46080,
+  "timestampMs": 45980,
+  "confidence": null
+ },
+ {
+  "text": " up.",
+  "startMs": 46080,
+  "endMs": 46420,
+  "timestampMs": 46250,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Roughly",
+  "startMs": 47160,
+  "endMs": 47600,
+  "timestampMs": 47380,
+  "confidence": null
+ },
+ {
+  "text": " five",
+  "startMs": 47600,
+  "endMs": 48160,
+  "timestampMs": 47880,
+  "confidence": null
+ },
+ {
+  "text": " hundred",
+  "startMs": 48160,
+  "endMs": 48500,
+  "timestampMs": 48330,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 48500,
+  "endMs": 48720,
+  "timestampMs": 48610,
+  "confidence": null
+ },
+ {
+  "text": " sixty",
+  "startMs": 48720,
+  "endMs": 49020,
+  "timestampMs": 48870,
+  "confidence": null
+ },
+ {
+  "text": " million",
+  "startMs": 49020,
+  "endMs": 49360,
+  "timestampMs": 49190,
+  "confidence": null
+ },
+ {
+  "text": " people",
+  "startMs": 49360,
+  "endMs": 49860,
+  "timestampMs": 49610,
+  "confidence": null
+ },
+ {
+  "text": " carry",
+  "startMs": 49860,
+  "endMs": 50260,
+  "timestampMs": 50060,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 50260,
+  "endMs": 50540,
+  "timestampMs": 50400,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " And",
+  "startMs": 50840,
+  "endMs": 51280,
+  "timestampMs": 51060,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 51280,
+  "endMs": 51840,
+  "timestampMs": 51560,
+  "confidence": null
+ },
+ {
+  "text": " looks",
+  "startMs": 51840,
+  "endMs": 52040,
+  "timestampMs": 51940,
+  "confidence": null
+ },
+ {
+  "text": " like",
+  "startMs": 52040,
+  "endMs": 52340,
+  "timestampMs": 52190,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 52340,
+  "endMs": 52480,
+  "timestampMs": 52410,
+  "confidence": null
+ },
+ {
+  "text": " gift.",
+  "startMs": 52480,
+  "endMs": 52780,
+  "timestampMs": 52630,
+  "confidence": null
+ },
+ {
+  "text": " Carriers",
+  "startMs": 53660,
+  "endMs": 53960,
+  "timestampMs": 53810,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 53960,
+  "endMs": 54200,
+  "timestampMs": 54080,
+  "confidence": null
+ },
+ {
+  "text": " far",
+  "startMs": 54200,
+  "endMs": 54540,
+  "timestampMs": 54370,
+  "confidence": null
+ },
+ {
+  "text": " less",
+  "startMs": 54540,
+  "endMs": 54860,
+  "timestampMs": 54700,
+  "confidence": null
+ },
+ {
+  "text": " likely",
+  "startMs": 54860,
+  "endMs": 55240,
+  "timestampMs": 55050,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 55240,
+  "endMs": 55500,
+  "timestampMs": 55370,
+  "confidence": null
+ },
+ {
+  "text": " develop",
+  "startMs": 55500,
+  "endMs": 55880,
+  "timestampMs": 55690,
+  "confidence": null
+ },
+ {
+  "text": " alcohol",
+  "startMs": 55880,
+  "endMs": 56540,
+  "timestampMs": 56210,
+  "confidence": null
+ },
+ {
+  "text": " dependence.",
+  "startMs": 56540,
+  "endMs": 57120,
+  "timestampMs": 56830,
+  "confidence": null
+ },
+ {
+  "text": " Drinking",
+  "startMs": 57120,
+  "endMs": 58120,
+  "timestampMs": 57620,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 58120,
+  "endMs": 58700,
+  "timestampMs": 58410,
+  "confidence": null
+ },
+ {
+  "text": " unpleasant,",
+  "startMs": 58700,
+  "endMs": 59580,
+  "timestampMs": 59140,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 60120,
+  "endMs": 60380,
+  "timestampMs": 60250,
+  "confidence": null
+ },
+ {
+  "text": " most",
+  "startMs": 60380,
+  "endMs": 60560,
+  "timestampMs": 60470,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 60560,
+  "endMs": 60760,
+  "timestampMs": 60660,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 60760,
+  "endMs": 60920,
+  "timestampMs": 60840,
+  "confidence": null
+ },
+ {
+  "text": " don't",
+  "startMs": 60920,
+  "endMs": 61160,
+  "timestampMs": 61040,
+  "confidence": null
+ },
+ {
+  "text": " do",
+  "startMs": 61160,
+  "endMs": 61360,
+  "timestampMs": 61260,
+  "confidence": null
+ },
+ {
+  "text": " much",
+  "startMs": 61360,
+  "endMs": 61560,
+  "timestampMs": 61460,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 61560,
+  "endMs": 61760,
+  "timestampMs": 61660,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 61760,
+  "endMs": 62080,
+  "timestampMs": 61920,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 62760,
+  "endMs": 62840,
+  "timestampMs": 62800,
+  "confidence": null
+ },
+ {
+  "text": " brake",
+  "startMs": 62840,
+  "endMs": 63140,
+  "timestampMs": 62990,
+  "confidence": null
+ },
+ {
+  "text": " installed",
+  "startMs": 63140,
+  "endMs": 63820,
+  "timestampMs": 63480,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 63820,
+  "endMs": 64060,
+  "timestampMs": 63940,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 64060,
+  "endMs": 64180,
+  "timestampMs": 64120,
+  "confidence": null
+ },
+ {
+  "text": " factory.",
+  "startMs": 64180,
+  "endMs": 64600,
+  "timestampMs": 64390,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " Now",
+  "startMs": 65340,
+  "endMs": 65580,
+  "timestampMs": 65460,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 65580,
+  "endMs": 65880,
+  "timestampMs": 65730,
+  "confidence": null
+ },
+ {
+  "text": " part",
+  "startMs": 65880,
+  "endMs": 66120,
+  "timestampMs": 66000,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 66120,
+  "endMs": 66360,
+  "timestampMs": 66240,
+  "confidence": null
+ },
+ {
+  "text": " matters.",
+  "startMs": 66360,
+  "endMs": 66800,
+  "timestampMs": 66580,
+  "confidence": null
+ },
+ {
+  "text": " Acetaldehyde",
+  "startMs": 67820,
+  "endMs": 68500,
+  "timestampMs": 68160,
+  "confidence": null
+ },
+ {
+  "text": " isn't",
+  "startMs": 68500,
+  "endMs": 69080,
+  "timestampMs": 68790,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 69080,
+  "endMs": 69360,
+  "timestampMs": 69220,
+  "confidence": null
+ },
+ {
+  "text": " uncomfortable.",
+  "startMs": 69360,
+  "endMs": 70000,
+  "timestampMs": 69680,
+  "confidence": null
+ },
+ {
+  "text": " It's",
+  "startMs": 70540,
+  "endMs": 70840,
+  "timestampMs": 70690,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 70840,
+  "endMs": 71040,
+  "timestampMs": 70940,
+  "confidence": null
+ },
+ {
+  "text": " recognized",
+  "startMs": 71040,
+  "endMs": 71740,
+  "timestampMs": 71390,
+  "confidence": null
+ },
+ {
+  "text": " carcinogen.",
+  "startMs": 71740,
+  "endMs": 72800,
+  "timestampMs": 72270,
+  "confidence": null
+ },
+ {
+  "text": " Carriers",
+  "startMs": 73640,
+  "endMs": 73940,
+  "timestampMs": 73790,
+  "confidence": null
+ },
+ {
+  "text": " who",
+  "startMs": 73940,
+  "endMs": 74160,
+  "timestampMs": 74050,
+  "confidence": null
+ },
+ {
+  "text": " drink",
+  "startMs": 74160,
+  "endMs": 74460,
+  "timestampMs": 74310,
+  "confidence": null
+ },
+ {
+  "text": " regularly",
+  "startMs": 74460,
+  "endMs": 75000,
+  "timestampMs": 74730,
+  "confidence": null
+ },
+ {
+  "text": " anyway,",
+  "startMs": 75000,
+  "endMs": 75640,
+  "timestampMs": 75320,
+  "confidence": null
+ },
+ {
+  "text": " pushing",
+  "startMs": 76100,
+  "endMs": 76340,
+  "timestampMs": 76220,
+  "confidence": null
+ },
+ {
+  "text": " past",
+  "startMs": 76340,
+  "endMs": 76700,
+  "timestampMs": 76520,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 76700,
+  "endMs": 76980,
+  "timestampMs": 76840,
+  "confidence": null
+ },
+ {
+  "text": " brake,",
+  "startMs": 76980,
+  "endMs": 77340,
+  "timestampMs": 77160,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 77760,
+  "endMs": 77940,
+  "timestampMs": 77850,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 77940,
+  "endMs": 78100,
+  "timestampMs": 78020,
+  "confidence": null
+ },
+ {
+  "text": " substantially",
+  "startMs": 78100,
+  "endMs": 78560,
+  "timestampMs": 78330,
+  "confidence": null
+ },
+ {
+  "text": " higher",
+  "startMs": 78560,
+  "endMs": 79180,
+  "timestampMs": 78870,
+  "confidence": null
+ },
+ {
+  "text": " risk",
+  "startMs": 79180,
+  "endMs": 79620,
+  "timestampMs": 79400,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 79620,
+  "endMs": 80040,
+  "timestampMs": 79830,
+  "confidence": null
+ },
+ {
+  "text": " esophageal",
+  "startMs": 80040,
+  "endMs": 81060,
+  "timestampMs": 80550,
+  "confidence": null
+ },
+ {
+  "text": " cancer",
+  "startMs": 81060,
+  "endMs": 81500,
+  "timestampMs": 81280,
+  "confidence": null
+ },
+ {
+  "text": " than",
+  "startMs": 81500,
+  "endMs": 82160,
+  "timestampMs": 81830,
+  "confidence": null
+ },
+ {
+  "text": " people",
+  "startMs": 82160,
+  "endMs": 82520,
+  "timestampMs": 82340,
+  "confidence": null
+ },
+ {
+  "text": " who",
+  "startMs": 82520,
+  "endMs": 82760,
+  "timestampMs": 82640,
+  "confidence": null
+ },
+ {
+  "text": " process",
+  "startMs": 82760,
+  "endMs": 83340,
+  "timestampMs": 83050,
+  "confidence": null
+ },
+ {
+  "text": " alcohol",
+  "startMs": 83340,
+  "endMs": 84100,
+  "timestampMs": 83720,
+  "confidence": null
+ },
+ {
+  "text": " normally.",
+  "startMs": 84100,
+  "endMs": 84880,
+  "timestampMs": 84490,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " So",
+  "startMs": 85520,
+  "endMs": 85920,
+  "timestampMs": 85720,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 85920,
+  "endMs": 86100,
+  "timestampMs": 86010,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 86100,
+  "endMs": 86400,
+  "timestampMs": 86250,
+  "confidence": null
+ },
+ {
+  "text": " isn't",
+  "startMs": 86400,
+  "endMs": 86940,
+  "timestampMs": 86670,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 86940,
+  "endMs": 87060,
+  "timestampMs": 87000,
+  "confidence": null
+ },
+ {
+  "text": " superpower.",
+  "startMs": 87060,
+  "endMs": 87620,
+  "timestampMs": 87340,
+  "confidence": null
+ },
+ {
+  "text": " It's",
+  "startMs": 88260,
+  "endMs": 88340,
+  "timestampMs": 88300,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 88340,
+  "endMs": 88580,
+  "timestampMs": 88460,
+  "confidence": null
+ },
+ {
+  "text": " warning",
+  "startMs": 88580,
+  "endMs": 88880,
+  "timestampMs": 88730,
+  "confidence": null
+ },
+ {
+  "text": " light",
+  "startMs": 88880,
+  "endMs": 89320,
+  "timestampMs": 89100,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 89320,
+  "endMs": 89560,
+  "timestampMs": 89440,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 89560,
+  "endMs": 89680,
+  "timestampMs": 89620,
+  "confidence": null
+ },
+ {
+  "text": " lot",
+  "startMs": 89680,
+  "endMs": 89840,
+  "timestampMs": 89760,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 89840,
+  "endMs": 90000,
+  "timestampMs": 89920,
+  "confidence": null
+ },
+ {
+  "text": " people",
+  "startMs": 90000,
+  "endMs": 90260,
+  "timestampMs": 90130,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 90260,
+  "endMs": 90500,
+  "timestampMs": 90380,
+  "confidence": null
+ },
+ {
+  "text": " learned",
+  "startMs": 90500,
+  "endMs": 90740,
+  "timestampMs": 90620,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 90740,
+  "endMs": 91000,
+  "timestampMs": 90870,
+  "confidence": null
+ },
+ {
+  "text": " read",
+  "startMs": 91000,
+  "endMs": 91300,
+  "timestampMs": 91150,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 91300,
+  "endMs": 91580,
+  "timestampMs": 91440,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 91580,
+  "endMs": 91760,
+  "timestampMs": 91670,
+  "confidence": null
+ },
+ {
+  "text": " personality",
+  "startMs": 91760,
+  "endMs": 92220,
+  "timestampMs": 91990,
+  "confidence": null
+ },
+ {
+  "text": " trait.",
+  "startMs": 92220,
+  "endMs": 92800,
+  "timestampMs": 92510,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " If",
+  "startMs": 93420,
+  "endMs": 93680,
+  "timestampMs": 93550,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 93680,
+  "endMs": 93880,
+  "timestampMs": 93780,
+  "confidence": null
+ },
+ {
+  "text": " flush,",
+  "startMs": 93880,
+  "endMs": 94220,
+  "timestampMs": 94050,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 94740,
+  "endMs": 94980,
+  "timestampMs": 94860,
+  "confidence": null
+ },
+ {
+  "text": " already",
+  "startMs": 94980,
+  "endMs": 95360,
+  "timestampMs": 95170,
+  "confidence": null
+ },
+ {
+  "text": " knew",
+  "startMs": 95360,
+  "endMs": 95660,
+  "timestampMs": 95510,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 95660,
+  "endMs": 95860,
+  "timestampMs": 95760,
+  "confidence": null
+ },
+ {
+  "text": " flush.",
+  "startMs": 95860,
+  "endMs": 96180,
+  "timestampMs": 96020,
+  "confidence": null
+ },
+ {
+  "text": " What's",
+  "startMs": 97200,
+  "endMs": 97540,
+  "timestampMs": 97370,
+  "confidence": null
+ },
+ {
+  "text": " worth",
+  "startMs": 97540,
+  "endMs": 97700,
+  "timestampMs": 97620,
+  "confidence": null
+ },
+ {
+  "text": " knowing",
+  "startMs": 97700,
+  "endMs": 98140,
+  "timestampMs": 97920,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 98140,
+  "endMs": 98820,
+  "timestampMs": 98480,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 98820,
+  "endMs": 99020,
+  "timestampMs": 98920,
+  "confidence": null
+ },
+ {
+  "text": " it's",
+  "startMs": 99020,
+  "endMs": 99240,
+  "timestampMs": 99130,
+  "confidence": null
+ },
+ {
+  "text": " telling",
+  "startMs": 99240,
+  "endMs": 99480,
+  "timestampMs": 99360,
+  "confidence": null
+ },
+ {
+  "text": " you.",
+  "startMs": 99480,
+  "endMs": 99860,
+  "timestampMs": 99670,
+  "confidence": null,
+  "pageBreakAfter": true
+ },
+ {
+  "text": " That",
+  "startMs": 100440,
+  "endMs": 100700,
+  "timestampMs": 100570,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 100700,
+  "endMs": 101000,
+  "timestampMs": 100850,
+  "confidence": null
+ },
+ {
+  "text": " decides",
+  "startMs": 101000,
+  "endMs": 101780,
+  "timestampMs": 101390,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 101780,
+  "endMs": 102140,
+  "timestampMs": 101960,
+  "confidence": null
+ },
+ {
+  "text": " happens",
+  "startMs": 102140,
+  "endMs": 102500,
+  "timestampMs": 102320,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 102500,
+  "endMs": 102900,
+  "timestampMs": 102700,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 102900,
+  "endMs": 103060,
+  "timestampMs": 102980,
+  "confidence": null
+ },
+ {
+  "text": " drink.",
+  "startMs": 103060,
+  "endMs": 103360,
+  "timestampMs": 103210,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 104020,
+  "endMs": 104160,
+  "timestampMs": 104090,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 104160,
+  "endMs": 104400,
+  "timestampMs": 104280,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 104400,
+  "endMs": 104800,
+  "timestampMs": 104600,
+  "confidence": null
+ },
+ {
+  "text": " decides",
+  "startMs": 104800,
+  "endMs": 105580,
+  "timestampMs": 105190,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 105580,
+  "endMs": 105960,
+  "timestampMs": 105770,
+  "confidence": null
+ },
+ {
+  "text": " happens",
+  "startMs": 105960,
+  "endMs": 106340,
+  "timestampMs": 106150,
+  "confidence": null
+ },
+ {
+  "text": " after",
+  "startMs": 106340,
+  "endMs": 106740,
+  "timestampMs": 106540,
+  "confidence": null
+ },
+ {
+  "text": " dinner",
+  "startMs": 106740,
+  "endMs": 107040,
+  "timestampMs": 106890,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 107040,
+  "endMs": 107760,
+  "timestampMs": 107400,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 107760,
+  "endMs": 107960,
+  "timestampMs": 107860,
+  "confidence": null
+ },
+ {
+  "text": " wrong",
+  "startMs": 107960,
+  "endMs": 108240,
+  "timestampMs": 108100,
+  "confidence": null
+ },
+ {
+  "text": " shellfish.",
+  "startMs": 108240,
+  "endMs": 108860,
+  "timestampMs": 108550,
+  "confidence": null
+ }
+]

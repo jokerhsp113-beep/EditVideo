@@ -1,0 +1,1488 @@
+{
+ "id": "05",
+ "title": "THE BARE SURFACE - ABO",
+ "audio": "biy2/audio/Audio05.mp3",
+ "shots": [
+  {
+   "id": "5.1",
+   "title": "ON AVERAGE",
+   "anchor": "If you're type O, your clotting",
+   "hold": 1.3,
+   "vo": "If you're type O, your clotting chemistry runs a little differently from everyone else's, on average.",
+   "layers": [
+    {
+     "id": "5.1-0",
+     "label": "type \"O\"",
+     "x": 960,
+     "y": 540,
+     "to": [
+      [
+       380,
+       306
+      ]
+     ],
+     "size": 420,
+     "kind": "text",
+     "text": "O",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "id": "5.1-1",
+     "label": "clotting bar (type O)",
+     "x": 725,
+     "y": 600,
+     "to": [],
+     "h": 455,
+     "asset": "code_clotting_bar",
+     "at": "clotting chemistry",
+     "enter": "SLIDE",
+     "w": 130,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.1-2",
+     "label": "clotting bar (non-O)",
+     "x": 1180,
+     "y": 600,
+     "to": [],
+     "h": 455,
+     "asset": "code_clotting_bar",
+     "w": 130,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.1-3",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 620,
+     "h": 520,
+     "asset": "code_dashed_outline",
+     "at": "on average",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "a little",
+    "everyone else"
+   ],
+   "transition": "zoom"
+  },
+  {
+   "id": "5.2",
+   "title": "A BRUISE",
+   "anchor": "Some people notice it. A bruise",
+   "hold": 1.0,
+   "vo": "Some people notice it. A bruise that lingers.",
+   "layers": [
+    {
+     "id": "5.2-0",
+     "label": "vwf bars (40%)",
+     "x": 372,
+     "y": 220,
+     "to": [],
+     "h": 180,
+     "asset": "asset_vwf_protein_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.2-1",
+     "label": "Stick show forearm",
+     "x": 900,
+     "y": 600,
+     "to": [],
+     "h": 700,
+     "asset": "stick_show_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.2-2",
+     "label": "bruise patch",
+     "x": 1020,
+     "y": 560,
+     "to": [],
+     "w": 84,
+     "h": 84,
+     "asset": "code_bruise_patch",
+     "at": "A bruise",
+     "enter": "FADE",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "5.3",
+   "title": "THE DENTIST",
+   "anchor": "A dentist who once said \"huh\"",
+   "hold": 1.2,
+   "vo": "A dentist who once said \"huh\" about how long something took to stop.",
+   "layers": [
+    {
+     "id": "5.3-0",
+     "label": "Stick show forearm",
+     "x": 620,
+     "y": 620,
+     "to": [],
+     "h": 620,
+     "asset": "stick_show_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.3-1",
+     "label": "dental chair",
+     "x": 1340,
+     "y": 600,
+     "to": [],
+     "h": 460,
+     "asset": "asset_dental_chair_v01",
+     "at": "A dentist",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.3-2",
+     "label": "bleed drops",
+     "x": 1012,
+     "y": 700,
+     "to": [],
+     "asset": "code_bleed_drops",
+     "at": "how long",
+     "enter": "POP",
+     "w": 110,
+     "h": 440,
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "took to"
+   ]
+  },
+  {
+   "id": "5.4",
+   "title": "A SMALL DEFECT",
+   "anchor": "On paper that reads like a",
+   "hold": 0.9,
+   "vo": "On paper that reads like a small defect.",
+   "layers": [
+    {
+     "id": "5.3-0~",
+     "label": "Stick show forearm",
+     "x": 620,
+     "y": 620,
+     "h": 620,
+     "asset": "stick_show_forearm_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.3-1~",
+     "label": "dental chair",
+     "x": 1340,
+     "y": 600,
+     "h": 460,
+     "asset": "asset_dental_chair_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.3-2~",
+     "label": "bleed drops",
+     "x": 1012,
+     "y": 700,
+     "asset": "code_bleed_drops",
+     "enter": "NONE",
+     "w": 110,
+     "h": 440,
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.4-1",
+     "label": "arrow ×2",
+     "x": 884,
+     "y": 660,
+     "to": [
+      [
+       1360,
+       800
+      ]
+     ],
+     "count": 2,
+     "asset": "code_arrow",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 85,
+     "h": 90,
+     "props": {
+      "span": 85
+     }
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "a small"
+   ]
+  },
+  {
+   "id": "5.5",
+   "title": "THE RECEIPT — SINGLE FOCAL",
+   "anchor": "It's the receipt for something quite",
+   "hold": 1.0,
+   "vo": "It's the receipt for something quite good.",
+   "layers": [
+    {
+     "id": "5.3-0~~",
+     "label": "Stick show forearm",
+     "x": 620,
+     "y": 620,
+     "h": 620,
+     "asset": "stick_show_forearm_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.3-1~~",
+     "label": "dental chair",
+     "x": 1340,
+     "y": 600,
+     "h": 460,
+     "asset": "asset_dental_chair_v01",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.3-2~~",
+     "label": "bleed drops",
+     "x": 1215,
+     "y": 700,
+     "asset": "code_bleed_drops",
+     "enter": "NONE",
+     "w": 110,
+     "h": 440,
+     "z": 4,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.4-1~",
+     "label": "arrow ×2",
+     "x": 985,
+     "y": 660,
+     "count": 2,
+     "asset": "code_arrow",
+     "enter": "NONE",
+     "z": 4,
+     "state": "ALIVE",
+     "w": 288,
+     "h": 90,
+     "props": {
+      "span": 288
+     }
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "something quite"
+   ]
+  },
+  {
+   "id": "5.6",
+   "title": "THE REVEAL",
+   "anchor": "What you have is a bare",
+   "hold": 1.0,
+   "vo": "What you have is a bare surface — blood type O. The gene is ABO.",
+   "layers": [
+    {
+     "id": "5.6-0",
+     "label": "red cell bare",
+     "x": 960,
+     "y": 520,
+     "to": [],
+     "h": 512,
+     "asset": "asset_red_cell_bare_v02",
+     "at": "a bare surface",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.6-1",
+     "label": "type \"O\"",
+     "x": 1300,
+     "y": 440,
+     "to": [],
+     "size": 209,
+     "kind": "text",
+     "text": "O",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "id": "5.6-2",
+     "label": "type \"ABO\"",
+     "x": 960,
+     "y": 880,
+     "to": [],
+     "size": 151,
+     "kind": "text",
+     "text": "ABO",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "type o",
+    "gene is"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.7",
+   "title": "THE ENZYME",
+   "anchor": "Types A and B are built",
+   "hold": 1.8,
+   "vo": "Types A and B are built by an enzyme that hangs a specific sugar onto the outside of your red cells.",
+   "layers": [
+    {
+     "id": "5.7-0",
+     "label": "body window",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 1000,
+     "h": 520,
+     "asset": "code_body_window",
+     "at": "Types A and B",
+     "enter": "FADE",
+     "z": 6
+    },
+    {
+     "id": "5.7-1",
+     "label": "capillary plate",
+     "x": 1117,
+     "y": 540,
+     "to": [],
+     "h": 440,
+     "asset": "asset_capillary_plate_v01",
+     "at": "Types A and B",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.7-2",
+     "label": "red cell (bare → sugars)",
+     "x": 802,
+     "y": 896,
+     "to": [],
+     "h": 260,
+     "asset": "asset_red_cell_bare_v02",
+     "delay": 0.2,
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.7-3",
+     "label": "abo enzyme",
+     "x": 527,
+     "y": 200,
+     "to": [],
+     "h": 180,
+     "asset": "asset_abo_enzyme_v01",
+     "at": "an enzyme",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.7-4",
+     "label": "sugar hook",
+     "x": 960,
+     "y": 260,
+     "to": [],
+     "h": 60,
+     "asset": "asset_sugar_hook_v01",
+     "at": "a specific sugar",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.7-c5",
+     "label": "asset_red_cell_sugars_v01",
+     "asset": "asset_red_cell_sugars_v01",
+     "x": 1392,
+     "y": 214,
+     "to": [],
+     "at": "red cells",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": null,
+   "beats": [
+    "b are",
+    "onto the"
+   ]
+  },
+  {
+   "id": "5.8",
+   "title": "A SINGLE LETTER",
+   "anchor": "A common O version of that",
+   "hold": 1.2,
+   "vo": "A common O version of that gene is missing a single letter.",
+   "layers": [
+    {
+     "id": "5.8-0",
+     "label": "dna strip",
+     "x": 696,
+     "y": 540,
+     "to": [],
+     "w": 1200,
+     "asset": "asset_dna_strip_v01",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.8-1",
+     "label": "highlighted block",
+     "x": 960,
+     "y": 798,
+     "to": [],
+     "w": 26,
+     "h": 26,
+     "asset": "asset_engine_block_v01",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.8-c1",
+     "label": "code_dashed_outline",
+     "asset": "code_dashed_outline",
+     "x": 1224,
+     "y": 540,
+     "to": [],
+     "at": "A common O version",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "5.9",
+   "title": "OUT OF FRAME",
+   "anchor": "The instruction shifts out of frame,",
+   "hold": 1.5,
+   "vo": "The instruction shifts out of frame, the enzyme never forms, the sugar never gets hung.",
+   "layers": [
+    {
+     "id": "5.9-0",
+     "label": "dna strip (lệch nhịp)",
+     "x": 960,
+     "y": 460,
+     "to": [],
+     "w": 1200,
+     "asset": "asset_dna_strip_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.9-1",
+     "label": "enzyme fragment ×3",
+     "x": 760,
+     "y": 700,
+     "to": [],
+     "h": 70,
+     "count": 3,
+     "asset": "asset_abo_enzyme_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.9-2",
+     "label": "sugar hook",
+     "x": 1160,
+     "y": 735,
+     "to": [
+      [
+       1160,
+       880
+      ]
+     ],
+     "h": 60,
+     "asset": "asset_sugar_hook_v01",
+     "at": "the sugar never gets hung",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "frame the",
+    "never forms"
+   ]
+  },
+  {
+   "id": "5.10",
+   "title": "GO OUT BARE",
+   "anchor": "Your cells go out bare.",
+   "hold": 0.8,
+   "vo": "Your cells go out bare.",
+   "layers": [
+    {
+     "id": "5.10-0",
+     "label": "red cell bare",
+     "x": 960,
+     "y": 540,
+     "to": [
+      [
+       1520,
+       540
+      ]
+     ],
+     "h": 587,
+     "asset": "asset_red_cell_bare_v02",
+     "at": "Your cells",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "5.11",
+   "title": "THE COAT RACK — SINGLE FOCAL",
+   "anchor": "A coat rack with the hooks",
+   "hold": 1.0,
+   "vo": "A coat rack with the hooks taken off.",
+   "layers": [
+    {
+     "id": "5.11-0",
+     "label": "coat rack (hooks → bare)",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 850,
+     "asset": "asset_coat_rack_hooks_v01",
+     "at": "A coat rack",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.11-c1",
+     "label": "asset_coat_rack_bare_v01",
+     "asset": "asset_coat_rack_bare_v01",
+     "x": 1221,
+     "y": 540,
+     "to": [],
+     "at": "taken off",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "5.12",
+   "title": "A LIABILITY",
+   "anchor": "In malarial regions those sugars are",
+   "hold": 1.6,
+   "vo": "In malarial regions those sugars are a liability — infected red cells use them to clump onto healthy ones.",
+   "layers": [
+    {
+     "id": "5.12-0",
+     "label": "capillary plate",
+     "x": 1117,
+     "y": 540,
+     "to": [],
+     "h": 440,
+     "asset": "asset_capillary_plate_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.12-1",
+     "label": "red cell sugars ×4",
+     "x": 660,
+     "y": 890,
+     "to": [],
+     "h": 200,
+     "count": 4,
+     "asset": "asset_red_cell_sugars_v01",
+     "at": "those sugars",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.12-2",
+     "label": "adhesion bridge ×5",
+     "x": 960,
+     "y": 866,
+     "to": [],
+     "count": 5,
+     "asset": "code_adhesion_bridge",
+     "placed": "derived",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.12-3",
+     "label": "red X",
+     "x": 1240,
+     "y": 420,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_x",
+     "at": "healthy ones",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "liability infected",
+    "use them"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.13",
+   "title": "CLUMPS LESS",
+   "anchor": "Type O clumps less, and is",
+   "hold": 1.2,
+   "vo": "Type O clumps less, and is associated with lower rates of severe malaria.",
+   "layers": [
+    {
+     "id": "5.13-0",
+     "label": "capillary plate",
+     "x": 802,
+     "y": 540,
+     "to": [],
+     "h": 440,
+     "asset": "asset_capillary_plate_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.13-1",
+     "label": "red cell bare ×4",
+     "x": 960,
+     "y": 890,
+     "to": [],
+     "h": 200,
+     "count": 4,
+     "asset": "asset_red_cell_bare_v02",
+     "at": "Type O",
+     "enter": "FADE",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.13-2",
+     "label": "dashed outline",
+     "x": 1117,
+     "y": 540,
+     "to": [],
+     "w": 1000,
+     "h": 400,
+     "asset": "code_dashed_outline",
+     "at": "associated",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.13-3",
+     "label": "risk arrow (chỉ xuống)",
+     "x": 960,
+     "y": 680,
+     "to": [],
+     "h": 200,
+     "asset": "code_risk_arrow",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 110
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "of severe"
+   ]
+  },
+  {
+   "id": "5.14",
+   "title": "A SECOND JOB",
+   "anchor": "And that same missing enzyme has",
+   "hold": 0.9,
+   "vo": "And that same missing enzyme has a second job.",
+   "layers": [
+    {
+     "id": "5.14-0",
+     "label": "divider line",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 869,
+     "asset": "code_divider_line",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.14-1",
+     "label": "abo enzyme (trạm 1)",
+     "x": 419,
+     "y": 540,
+     "to": [],
+     "h": 273,
+     "asset": "asset_abo_enzyme_v01",
+     "at": "that same missing enzyme",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.14-2",
+     "label": "empty station (trạm 2)",
+     "x": 1500,
+     "y": 540,
+     "to": [],
+     "w": 521,
+     "h": 521,
+     "asset": "asset_fuel_station_v01",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "enzyme has",
+    "a second"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.15",
+   "title": "VON WILLEBRAND",
+   "anchor": "It also decorates a clotting protein",
+   "hold": 1.3,
+   "vo": "It also decorates a clotting protein called von Willebrand factor.",
+   "layers": [
+    {
+     "id": "5.15-0",
+     "label": "abo enzyme (trạm 2)",
+     "x": 960,
+     "y": 400,
+     "to": [],
+     "h": 264,
+     "asset": "asset_abo_enzyme_v01",
+     "at": "decorates",
+     "enter": "SLIDE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.15-1",
+     "label": "vwf protein",
+     "x": 960,
+     "y": 600,
+     "to": [],
+     "h": 293,
+     "asset": "asset_vwf_protein_v01",
+     "at": "a clotting protein",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.15-2",
+     "label": "sugar hook",
+     "x": 960,
+     "y": 820,
+     "to": [],
+     "h": 88,
+     "asset": "asset_sugar_hook_v01",
+     "at": "von Willebrand",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.15-3",
+     "label": "green check",
+     "x": 1260,
+     "y": 600,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "factor",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8
+  },
+  {
+   "id": "5.16",
+   "title": "CLEARED FASTER",
+   "anchor": "Undecorated, that protein gets cleared out",
+   "hold": 1.8,
+   "vo": "Undecorated, that protein gets cleared out of your blood faster — so type O circulates with less of it, and a lower risk of dangerous clots.",
+   "layers": [
+    {
+     "id": "5.16-0",
+     "label": "vwf protein ×3",
+     "x": 930,
+     "y": 540,
+     "to": [],
+     "h": 241,
+     "count": 3,
+     "asset": "asset_vwf_protein_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.16-1",
+     "label": "clearance drain",
+     "x": 930,
+     "y": 820,
+     "to": [],
+     "h": 289,
+     "asset": "asset_clearance_drain_v01",
+     "at": "cleared out",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.16-2",
+     "label": "vwf bar (thấp)",
+     "x": 1404,
+     "y": 560,
+     "to": [],
+     "h": 458,
+     "asset": "code_vwf_bar",
+     "at": "less of it",
+     "enter": "POP",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.16-3",
+     "label": "clot shape (nhỏ)",
+     "x": 1270,
+     "y": 880,
+     "to": [],
+     "h": 144,
+     "asset": "code_clot_shape",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.16-4",
+     "label": "green check",
+     "x": 1270,
+     "y": 880,
+     "to": [],
+     "h": 170,
+     "asset": "code_mark_tick",
+     "at": "lower risk",
+     "enter": "DRAW",
+     "w": 170,
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "faster so",
+    "circulates with"
+   ]
+  },
+  {
+   "id": "5.17",
+   "title": "THE GRADIENT",
+   "anchor": "Type O approaches total frequency across",
+   "hold": 1.4,
+   "vo": "Type O approaches total frequency across many Indigenous American populations, and runs above half in Ireland.",
+   "layers": [
+    {
+     "id": "5.17-0",
+     "label": "type \"WHERE ≠ WHY\" (thoáng qua)",
+     "x": 1215,
+     "y": 373,
+     "to": [],
+     "size": 105,
+     "kind": "text",
+     "text": "WHERE ≠ WHY",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "id": "5.17-2",
+     "label": "map Americas",
+     "x": 620,
+     "y": 314,
+     "to": [],
+     "h": 520,
+     "asset": "asset_map_americas_v01",
+     "at": "approaches total",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.17-3",
+     "label": "map Ireland",
+     "x": 1360,
+     "y": 297,
+     "to": [],
+     "h": 300,
+     "asset": "asset_map_ireland_v01",
+     "at": "above half",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.17-4",
+     "label": "crowd grid ×10 (trái)",
+     "x": 620,
+     "y": 746,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 10,
+     "asset": "code_crowd_grid",
+     "at": "Indigenous American",
+     "enter": "POP",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.17-5",
+     "label": "crowd grid ×10 (phải)",
+     "x": 1314,
+     "y": 746,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 10,
+     "asset": "code_crowd_grid",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "frequency across",
+    "populations and"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.18",
+   "title": "ADVANTAGE AND PROBLEM",
+   "anchor": "Nothing sticks to a rack with",
+   "hold": 1.2,
+   "vo": "Nothing sticks to a rack with no hooks. That's the whole advantage, and the whole problem.",
+   "layers": [
+    {
+     "id": "5.18-0",
+     "label": "abo enzyme (bóng mờ 25%)",
+     "x": 960,
+     "y": 420,
+     "to": [],
+     "h": 200,
+     "asset": "asset_abo_enzyme_v01",
+     "at": "Nothing sticks",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.18-1",
+     "label": "coat rack bare trái",
+     "x": 560,
+     "y": 600,
+     "to": [],
+     "h": 420,
+     "asset": "asset_coat_rack_bare_v01",
+     "at": "Nothing sticks",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.18-2",
+     "label": "coat rack bare phải",
+     "x": 1360,
+     "y": 600,
+     "to": [],
+     "h": 420,
+     "asset": "asset_coat_rack_bare_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.18-3",
+     "label": "mini red cell (nhãn trái)",
+     "x": 560,
+     "y": 340,
+     "to": [],
+     "h": 110,
+     "asset": "asset_red_cell_bare_v02",
+     "delay": 0.2,
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.18-4",
+     "label": "mini vwf (nhãn phải)",
+     "x": 1360,
+     "y": 340,
+     "to": [],
+     "h": 110,
+     "asset": "asset_vwf_protein_v01",
+     "delay": 0.2,
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.18-5",
+     "label": "risk arrow (nhánh trái)",
+     "x": 560,
+     "y": 280,
+     "to": [],
+     "h": 200,
+     "asset": "code_risk_arrow",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 110
+    },
+    {
+     "id": "5.18-6",
+     "label": "bleed drops (nhánh phải)",
+     "x": 960,
+     "y": 806,
+     "to": [],
+     "asset": "code_bleed_drops",
+     "at": "the whole problem",
+     "enter": "SLIDE",
+     "w": 110,
+     "h": 440,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.18-c4",
+     "label": "asset_red_cell_sugars_v01",
+     "asset": "asset_red_cell_sugars_v01",
+     "x": 1392,
+     "y": 866,
+     "to": [],
+     "at": "the whole advantage",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": null,
+   "beats": [
+    "no hooks"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.19",
+   "title": "LESS CLOTTING",
+   "anchor": "Less of that protein is, unavoidably,",
+   "hold": 1.0,
+   "vo": "Less of that protein is, unavoidably, less clotting.",
+   "layers": [
+    {
+     "id": "5.19-0",
+     "label": "vwf bar (thấp)",
+     "x": 528,
+     "y": 540,
+     "to": [],
+     "h": 538,
+     "asset": "code_vwf_bar",
+     "at": "Less of that protein",
+     "enter": "POP",
+     "z": 20,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.19-1",
+     "label": "arrow",
+     "x": 927,
+     "y": 540,
+     "to": [],
+     "asset": "code_arrow",
+     "z": 20,
+     "state": "ALIVE",
+     "w": 585,
+     "h": 90,
+     "props": {
+      "span": 585
+     }
+    },
+    {
+     "id": "5.19-2",
+     "label": "clot shape (nhỏ)",
+     "x": 1392,
+     "y": 540,
+     "to": [],
+     "h": 226,
+     "asset": "code_clot_shape",
+     "z": 20,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "5.20",
+   "title": "BLEEDING AND ULCER",
+   "anchor": "Type O is associated with heavier",
+   "hold": 1.4,
+   "vo": "Type O is associated with heavier bleeding in trauma and surgery, and with higher rates of duodenal ulcer.",
+   "layers": [
+    {
+     "id": "5.20-0",
+     "label": "bleed drops (dài)",
+     "x": 517,
+     "y": 600,
+     "to": [],
+     "asset": "code_bleed_drops",
+     "at": "heavier bleeding",
+     "enter": "POP",
+     "w": 110,
+     "h": 440,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.20-1",
+     "label": "bleed drops ref (35%)",
+     "x": 760,
+     "y": 600,
+     "to": [],
+     "asset": "code_bleed_drops",
+     "w": 110,
+     "h": 440,
+     "opacity": 0.35,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.20-2",
+     "label": "divider line (mảnh)",
+     "x": 1141,
+     "y": 560,
+     "to": [],
+     "h": 520,
+     "asset": "code_divider_line",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.20-3",
+     "label": "stomach ulcer",
+     "x": 1504,
+     "y": 560,
+     "to": [],
+     "h": 380,
+     "asset": "asset_stomach_ulcer_v01",
+     "at": "duodenal ulcer",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.20-4",
+     "label": "dashed outline trái",
+     "x": 416,
+     "y": 540,
+     "to": [],
+     "w": 640,
+     "h": 560,
+     "asset": "code_dashed_outline",
+     "at": "associated",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.20-5",
+     "label": "dashed outline phải",
+     "x": 778,
+     "y": 540,
+     "to": [],
+     "w": 560,
+     "h": 560,
+     "asset": "code_dashed_outline",
+     "placed": "derived",
+     "z": 6
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "and surgery",
+    "and with"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.21",
+   "title": "NOT A FORECAST",
+   "anchor": "These are population-level associations, not a",
+   "hold": 1.0,
+   "vo": "These are population-level associations, not a forecast about any one person.",
+   "layers": [
+    {
+     "id": "5.21-0",
+     "label": "crowd grid ×100",
+     "x": 646,
+     "y": 560,
+     "to": [],
+     "w": 1020,
+     "h": 560,
+     "count": 100,
+     "asset": "code_crowd_grid",
+     "at": "population-level",
+     "enter": "FADE",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.21-1",
+     "label": "dashed outline",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "w": 1100,
+     "h": 620,
+     "asset": "code_dashed_outline",
+     "at": "associations",
+     "enter": "DRAW",
+     "placed": "derived",
+     "z": 6
+    },
+    {
+     "id": "5.21-2",
+     "label": "question mark",
+     "x": 1274,
+     "y": 560,
+     "to": [],
+     "h": 160,
+     "asset": "asset_question_mark_v01",
+     "at": "any one person",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "not a"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "5.22",
+   "title": "THE INVOICE — SINGLE FOCAL",
+   "anchor": "The dentist wasn't looking at a",
+   "hold": 1.3,
+   "vo": "The dentist wasn't looking at a defect. He was looking at the invoice.",
+   "layers": [
+    {
+     "id": "5.22-0",
+     "label": "Stick show forearm",
+     "x": 620,
+     "y": 620,
+     "to": [],
+     "h": 620,
+     "asset": "stick_show_forearm_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.22-1",
+     "label": "dental chair",
+     "x": 1340,
+     "y": 600,
+     "to": [],
+     "h": 460,
+     "asset": "asset_dental_chair_v01",
+     "at": "The dentist",
+     "enter": "FADE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.22-c2",
+     "label": "code_mark_x",
+     "asset": "code_mark_x",
+     "x": 1340,
+     "y": 600,
+     "to": [],
+     "at": "a defect",
+     "enter": "DRAW",
+     "placed": "derived",
+     "h": 170,
+     "w": 170,
+     "z": 50
+    },
+    {
+     "id": "5.22-c3",
+     "label": "asset_invoice_paper_v01",
+     "asset": "asset_invoice_paper_v01",
+     "x": 1692,
+     "y": 600,
+     "to": [],
+     "at": "the invoice",
+     "enter": "POP",
+     "placed": "derived",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "transition": "whip"
+  },
+  {
+   "id": "5.T",
+   "title": "BRIDGE → SECTION 6",
+   "anchor": "That changed what your cells wear",
+   "hold": 1.5,
+   "vo": "That changed what your cells wear on the outside. The next changed what they burn on the inside.",
+   "layers": [
+    {
+     "id": "5.T-0",
+     "label": "red cell bare",
+     "x": 1330,
+     "y": 540,
+     "to": [
+      [
+       1609,
+       540
+      ]
+     ],
+     "h": 420,
+     "asset": "asset_red_cell_bare_v02",
+     "at": "on the outside",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.T-1",
+     "label": "Stick stand deadpan",
+     "x": 860,
+     "y": 600,
+     "to": [],
+     "h": 700,
+     "asset": "stick_stand_deadpan_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.T-2",
+     "label": "body window (đùi)",
+     "x": 1300,
+     "y": 700,
+     "to": [],
+     "w": 420,
+     "h": 360,
+     "asset": "code_body_window",
+     "at": "what they burn",
+     "enter": "POP",
+     "z": 6,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "5.T-3",
+     "label": "`code_fuel_glow`",
+     "x": 1300,
+     "y": 880,
+     "to": [],
+     "w": 200,
+     "h": 200,
+     "asset": "code_fuel_glow",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "5.T-c2",
+     "label": "code_chapter_reset",
+     "asset": "code_chapter_reset",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "enter": "POP",
+     "placed": "derived",
+     "h": 1080,
+     "z": 6
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "next changed"
+   ],
+   "transition": "whip"
+  }
+ ]
+}

@@ -1,0 +1,664 @@
+{
+  "_doc": "Hand corrections applied after the automatic compose pass, so they survive a rebuild. Key is section/shot; the value maps a layer id to fields to set, null to drop that layer, '*' to patch every layer, '_add' to append new layers, and '_replace' to throw the generated layers away and author the shot outright. '_push' sets the shot's camera move.",
+  "00/0.6": {
+    "0.6-0": null,
+    "_add": [
+      {
+        "id": "0.6-a",
+        "asset": "asset_icon_removed_v01",
+        "x": 520,
+        "y": 640,
+        "h": 240,
+        "opacity": 0.3,
+        "enter": "NONE"
+      },
+      {
+        "id": "0.6-b",
+        "asset": "asset_icon_weakened_v01",
+        "x": 960,
+        "y": 640,
+        "h": 240,
+        "opacity": 0.3,
+        "enter": "NONE"
+      },
+      {
+        "id": "0.6-c",
+        "asset": "asset_icon_retuned_v01",
+        "x": 1400,
+        "y": 640,
+        "h": 240,
+        "opacity": 0.3,
+        "enter": "NONE"
+      }
+    ]
+  },
+  "01/1.12": {
+    "1.12-2": null,
+    "1.12-1": {
+      "y": 640
+    },
+    "1.12-0": {
+      "x": 960,
+      "y": 240,
+      "w": 700,
+      "h": 110
+    },
+    "1.12-3": {
+      "y": 640
+    }
+  },
+  "01/1.10": {
+    "1.10-0": null,
+    "1.10-1": {
+      "y": 570,
+      "props": {
+        "size": 190
+      }
+    }
+  },
+  "01/1.18": {
+    "1.18-5": null
+  },
+  "01/1.24": {
+    "1.24-0": null,
+    "_add": [
+      {
+        "id": "1.24-a",
+        "asset": "stick_offer_bottle_v01",
+        "x": 860,
+        "y": 600,
+        "h": 620,
+        "enter": "NONE"
+      }
+    ]
+  },
+  "05/5.20": {
+    "5.20-1": {
+      "x": 760,
+      "opacity": 0.35
+    }
+  },
+  "01/1.16": {
+    "_add": [
+      {
+        "id": "1.16-a",
+        "asset": "code_crowd_grid",
+        "x": 960,
+        "y": 560,
+        "w": 1000,
+        "h": 520,
+        "enter": "POP",
+        "props": {
+          "total": 20,
+          "columns": 5
+        }
+      }
+    ]
+  },
+  "01/1.20": {
+    "_add": [
+      {
+        "id": "1.20-link",
+        "asset": "code_dashed_link",
+        "x": 980,
+        "y": 600,
+        "w": 720,
+        "h": 90,
+        "enter": "DRAW",
+        "at": "risk",
+        "z": 8,
+        "state": "ACTIVE"
+      }
+    ]
+  },
+  "02/2.16": {
+    "2.16-2": {
+      "x": 1050,
+      "y": 520,
+      "w": 180,
+      "h": 180
+    },
+    "_add": [
+      {
+        "id": "2.16-pin",
+        "asset": "code_pin_dot",
+        "x": 1050,
+        "y": 520,
+        "w": 150,
+        "h": 150,
+        "enter": "POP",
+        "at": "single ancestor",
+        "z": 34,
+        "state": "ACTIVE"
+      }
+    ]
+  },
+  "02/2.17": {
+    "2.16-2~": {
+      "x": 1485,
+      "y": 520,
+      "w": 180,
+      "h": 180
+    }
+  },
+  "03/3.4": {
+    "3.4-3": null,
+    "3.4-1": {
+      "props": {
+        "count": 5,
+        "columns": 5,
+        "genePairs": true,
+        "missingGeneAt": 4
+      }
+    }
+  },
+  "03/3.20": {
+    "3.20-1": {
+      "x": 900,
+      "y": 600
+    },
+    "3.20-2": {
+      "x": 1050,
+      "y": 600
+    }
+  },
+  "04/4.9": {
+    "4.9-0": {
+      "asset": "asset_clamp_loose_v02"
+    }
+  },
+  "05/5.6": {
+    "5.6-0": {
+      "asset": "asset_red_cell_bare_v02"
+    }
+  },
+  "05/5.5": {
+    "5.5-1": null
+  },
+  "05/5.7": {
+    "5.7-2": {
+      "asset": "asset_red_cell_bare_v02"
+    }
+  },
+  "05/5.10": {
+    "5.10-0": {
+      "asset": "asset_red_cell_bare_v02"
+    }
+  },
+  "05/5.13": {
+    "5.13-1": {
+      "asset": "asset_red_cell_bare_v02"
+    }
+  },
+  "05/5.18": {
+    "5.18-3": {
+      "asset": "asset_red_cell_bare_v02"
+    }
+  },
+  "05/5.T": {
+    "5.T-0": {
+      "asset": "asset_red_cell_bare_v02"
+    }
+  },
+  "00/0.8": {
+    "0.8-0": {
+      "x": 960,
+      "y": 500,
+      "size": 470,
+      "until": 1.5
+    },
+    "0.8-1": {
+      "delay": 1.45
+    },
+    "0.8-2": null,
+    "0.8-3": null
+  },
+  "00/0.1": {
+    "_push": 1.6,
+    "_replace": [
+      {
+        "id": "d-frame",
+        "asset": "asset_door_frame_empty_v01",
+        "x": 1120,
+        "y": 520,
+        "h": 620,
+        "enter": "DRAW",
+        "at": "door",
+        "z": 12,
+        "state": "ALIVE",
+        "exitOn": "d-wall",
+        "until": 3.0
+      },
+      {
+        "id": "d-wall",
+        "asset": "asset_wall_solid_v01",
+        "x": 1120,
+        "y": 520,
+        "h": 560,
+        "enter": "FADE",
+        "at": "never",
+        "z": 11,
+        "state": "ALIVE"
+      },
+      {
+        "id": "d-virus",
+        "asset": "asset_virus_particle_v01",
+        "x": 300,
+        "y": 560,
+        "h": 260,
+        "enter": "SLIDE",
+        "at": "virus",
+        "z": 14,
+        "state": "ACTIVE",
+        "props": {
+          "toX": 760,
+          "toY": 560,
+          "travel": 0.9
+        }
+      },
+      {
+        "id": "d-key",
+        "asset": "asset_handle_typeB_v01",
+        "x": 905,
+        "y": 560,
+        "h": 130,
+        "enter": "POP",
+        "at": "built to open",
+        "z": 15,
+        "state": "ACTIVE"
+      },
+      {
+        "id": "d-trail",
+        "asset": "code_trail_dots",
+        "x": 200,
+        "y": 560,
+        "w": 240,
+        "h": 60,
+        "enter": "NONE",
+        "at": "virus",
+        "z": 8
+      }
+    ]
+  },
+  "00/0.2": {
+    "_push": 1.6,
+    "_replace": [
+      {
+        "id": "s-switch",
+        "asset": "asset_dimmer_down_v01",
+        "x": 430,
+        "y": 560,
+        "h": 480,
+        "enter": "POP",
+        "at": "switch",
+        "z": 12,
+        "state": "ACTIVE"
+      },
+      {
+        "id": "s-sun",
+        "asset": "asset_sun_behind_cloud_v01",
+        "x": 1250,
+        "y": 520,
+        "h": 460,
+        "enter": "POP",
+        "at": "makes",
+        "z": 12,
+        "state": "ALIVE",
+        "exitOn": "s-cloud"
+      },
+      {
+        "id": "s-ray1",
+        "asset": "code_ray",
+        "x": 1260,
+        "y": 500,
+        "w": 520,
+        "h": 520,
+        "enter": "POP",
+        "at": "vitamin",
+        "z": 20,
+        "state": "ACTIVE",
+        "exitOn": "s-cloud"
+      },
+      {
+        "id": "s-label",
+        "kind": "text",
+        "text": "VITAMIN D",
+        "x": 960,
+        "y": 900,
+        "size": 130,
+        "enter": "POP",
+        "at": "D",
+        "z": 40
+      },
+      {
+        "id": "s-cloud",
+        "asset": "asset_rain_cloud_v01",
+        "x": 1420,
+        "y": 330,
+        "h": 280,
+        "enter": "SLIDE",
+        "at": "grey",
+        "z": 16,
+        "state": "ACTIVE"
+      }
+    ]
+  },
+  "00/0.3": {
+    "_push": 1.6,
+    "_replace": [
+      {
+        "id": "p-protein",
+        "asset": "asset_apol1_protein_v01",
+        "x": 360,
+        "y": 500,
+        "h": 380,
+        "enter": "POP",
+        "at": "protein",
+        "z": 12,
+        "state": "ACTIVE"
+      },
+      {
+        "id": "p-para",
+        "asset": "asset_trypanosome_v01",
+        "x": 1560,
+        "y": 500,
+        "h": 330,
+        "enter": "POP",
+        "at": "parasite",
+        "z": 12,
+        "state": "ALIVE"
+      },
+      {
+        "id": "p-arrow",
+        "asset": "code_arrow",
+        "x": 960,
+        "y": 500,
+        "w": 760,
+        "h": 260,
+        "enter": "DRAW",
+        "at": "four thousand",
+        "z": 20,
+        "state": "ACTIVE"
+      },
+      {
+        "id": "p-dist",
+        "kind": "text",
+        "text": "4,000 MILES",
+        "x": 945,
+        "y": 760,
+        "size": 104,
+        "enter": "POP",
+        "at": "miles",
+        "z": 40
+      },
+      {
+        "id": "p-fly",
+        "asset": "asset_tsetse_fly_v01",
+        "x": 1560,
+        "y": 830,
+        "h": 180,
+        "enter": "POP",
+        "at": "away",
+        "z": 14,
+        "state": "ACTIVE"
+      }
+    ]
+  },
+  "00/0.7": {
+    "0.7-0": {
+      "x": 660,
+      "y": 620,
+      "h": 700
+    },
+    "0.7-1": {
+      "x": 1250,
+      "y": 640,
+      "h": 560
+    },
+    "0.7-2": {
+      "x": 960,
+      "y": 150,
+      "size": 110
+    }
+  },
+  "01/1.2": {
+    "1.2-1": {
+      "x": 700,
+      "y": 165,
+      "h": 260
+    }
+  },
+  "00/0.9": {
+    "_push": 1.2,
+    "_replace": [
+      {
+        "id": "w0",
+        "asset": "code_window",
+        "x": 368,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "state": "ALIVE",
+        "exitOn": "wd0"
+      },
+      {
+        "id": "w1",
+        "asset": "code_window",
+        "x": 565,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "state": "ALIVE",
+        "exitOn": "wd1"
+      },
+      {
+        "id": "w2",
+        "asset": "code_window",
+        "x": 762,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "state": "ALIVE",
+        "exitOn": "wd2"
+      },
+      {
+        "id": "w3",
+        "asset": "code_window",
+        "x": 960,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "state": "ALIVE",
+        "exitOn": "wd3"
+      },
+      {
+        "id": "w4",
+        "asset": "code_window",
+        "x": 1157,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "state": "ALIVE",
+        "exitOn": "wd4"
+      },
+      {
+        "id": "w5",
+        "asset": "code_window",
+        "x": 1354,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "state": "ALIVE",
+        "exitOn": "wd5"
+      },
+      {
+        "id": "wd0",
+        "asset": "code_window",
+        "x": 368,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "opacity": 0.28,
+        "enter": "FADE",
+        "at": "other six"
+      },
+      {
+        "id": "wd1",
+        "asset": "code_window",
+        "x": 565,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "opacity": 0.28,
+        "enter": "FADE",
+        "at": "other six"
+      },
+      {
+        "id": "wd2",
+        "asset": "code_window",
+        "x": 762,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "opacity": 0.28,
+        "enter": "FADE",
+        "at": "other six"
+      },
+      {
+        "id": "wd3",
+        "asset": "code_window",
+        "x": 960,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "opacity": 0.28,
+        "enter": "FADE",
+        "at": "other six"
+      },
+      {
+        "id": "wd4",
+        "asset": "code_window",
+        "x": 1157,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "opacity": 0.28,
+        "enter": "FADE",
+        "at": "other six"
+      },
+      {
+        "id": "wd5",
+        "asset": "code_window",
+        "x": 1354,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "opacity": 0.28,
+        "enter": "FADE",
+        "at": "other six"
+      },
+      {
+        "id": "w7",
+        "asset": "code_window",
+        "x": 1551,
+        "y": 330,
+        "w": 154,
+        "h": 154,
+        "enter": "NONE",
+        "props": {
+          "state": "lit"
+        },
+        "exitOn": "blade"
+      },
+      {
+        "id": "w7-hi",
+        "asset": "code_window",
+        "x": 1551,
+        "y": 330,
+        "w": 190,
+        "h": 190,
+        "enter": "POP",
+        "at": "last one",
+        "state": "ACTIVE",
+        "props": {
+          "state": "lit"
+        },
+        "exitOn": "blade"
+      },
+      {
+        "id": "blade",
+        "asset": "asset_blade_silhouette_v01",
+        "x": 960,
+        "y": 690,
+        "h": 250,
+        "enter": "POP",
+        "at": "On that one",
+        "state": "ACTIVE"
+      },
+      {
+        "id": "up-tick",
+        "asset": "code_mark_tick",
+        "x": 470,
+        "y": 690,
+        "h": 150,
+        "enter": "POP",
+        "at": "the upgrade"
+      },
+      {
+        "id": "up-txt",
+        "kind": "text",
+        "text": "UPGRADE",
+        "x": 470,
+        "y": 880,
+        "size": 96,
+        "enter": "POP",
+        "at": "the upgrade",
+        "props": {
+          "color": "#3BB273"
+        }
+      },
+      {
+        "id": "dm-x",
+        "asset": "code_mark_x",
+        "x": 1450,
+        "y": 690,
+        "h": 150,
+        "enter": "POP",
+        "at": "the damage"
+      },
+      {
+        "id": "dm-txt",
+        "kind": "text",
+        "text": "DAMAGE",
+        "x": 1450,
+        "y": 880,
+        "size": 96,
+        "enter": "POP",
+        "at": "the damage",
+        "props": {
+          "color": "#E63946"
+        }
+      },
+      {
+        "id": "same",
+        "kind": "text",
+        "text": "SAME WEAPON",
+        "x": 960,
+        "y": 470,
+        "size": 120,
+        "enter": "POP",
+        "at": "same weapon",
+        "state": "ACTIVE"
+      }
+    ]
+  },
+  "03/3.7": {
+    "3.7-1": null
+  }
+}

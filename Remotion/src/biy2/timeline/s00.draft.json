@@ -1,0 +1,831 @@
+{
+ "id": "00",
+ "title": "COLD OPEN",
+ "audio": "biy2/audio/Audio00.mp3",
+ "shots": [
+  {
+   "id": "0.1",
+   "title": "THE DOOR",
+   "anchor": "A door a virus is built",
+   "hold": 1.7,
+   "vo": "A door a virus is built to open — and it was never built.",
+   "layers": [
+    {
+     "to": [],
+     "id": "d-frame",
+     "asset": "asset_door_frame_empty_v01",
+     "x": 1120,
+     "y": 520,
+     "h": 620,
+     "enter": "DRAW",
+     "at": "door",
+     "z": 12,
+     "state": "ALIVE",
+     "exitOn": "d-wall",
+     "until": 3.0
+    },
+    {
+     "to": [],
+     "id": "d-wall",
+     "asset": "asset_wall_solid_v01",
+     "x": 1120,
+     "y": 520,
+     "h": 560,
+     "enter": "FADE",
+     "at": "never",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "d-virus",
+     "asset": "asset_virus_particle_v01",
+     "x": 300,
+     "y": 560,
+     "h": 260,
+     "enter": "SLIDE",
+     "at": "virus",
+     "z": 12,
+     "state": "ACTIVE",
+     "props": {
+      "toX": 760,
+      "toY": 560,
+      "travel": 0.9
+     }
+    },
+    {
+     "to": [],
+     "id": "d-key",
+     "asset": "asset_handle_typeB_v01",
+     "x": 905,
+     "y": 560,
+     "h": 130,
+     "enter": "POP",
+     "at": "built to open",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "to": [],
+     "id": "d-trail",
+     "asset": "code_trail_dots",
+     "x": 200,
+     "y": 560,
+     "w": 240,
+     "h": 60,
+     "enter": "NONE",
+     "at": "virus",
+     "z": 20,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.6,
+   "transition": "zoom"
+  },
+  {
+   "id": "0.2",
+   "title": "THE SWITCH",
+   "anchor": "A switch that makes vitamin D",
+   "hold": 1.1,
+   "vo": "A switch that makes vitamin D out of weather other people call grey.",
+   "layers": [
+    {
+     "to": [],
+     "id": "s-switch",
+     "asset": "asset_dimmer_down_v01",
+     "x": 430,
+     "y": 560,
+     "h": 480,
+     "enter": "POP",
+     "at": "switch",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "to": [],
+     "id": "s-sun",
+     "asset": "asset_sun_behind_cloud_v01",
+     "x": 1250,
+     "y": 520,
+     "h": 460,
+     "enter": "POP",
+     "at": "makes",
+     "z": 12,
+     "state": "ALIVE",
+     "exitOn": "s-cloud"
+    },
+    {
+     "to": [],
+     "id": "s-ray1",
+     "asset": "code_ray",
+     "x": 1260,
+     "y": 500,
+     "w": 520,
+     "h": 520,
+     "enter": "POP",
+     "at": "vitamin",
+     "z": 20,
+     "state": "ACTIVE",
+     "exitOn": "s-cloud"
+    },
+    {
+     "to": [],
+     "id": "s-label",
+     "kind": "text",
+     "text": "VITAMIN D",
+     "x": 960,
+     "y": 900,
+     "size": 130,
+     "enter": "POP",
+     "at": "D",
+     "z": 40
+    },
+    {
+     "to": [],
+     "id": "s-cloud",
+     "asset": "asset_rain_cloud_v01",
+     "x": 1420,
+     "y": 330,
+     "h": 280,
+     "enter": "SLIDE",
+     "at": "grey",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.6,
+   "beats": [
+    "other people"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "0.3",
+   "title": "THE PROTEIN",
+   "anchor": "A protein hunting a parasite from",
+   "hold": 0.8,
+   "vo": "A protein hunting a parasite from four thousand miles away.",
+   "layers": [
+    {
+     "to": [],
+     "id": "p-protein",
+     "asset": "asset_apol1_protein_v01",
+     "x": 360,
+     "y": 500,
+     "h": 380,
+     "enter": "POP",
+     "at": "protein",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "to": [],
+     "id": "p-para",
+     "asset": "asset_trypanosome_v01",
+     "x": 1560,
+     "y": 500,
+     "h": 330,
+     "enter": "POP",
+     "at": "parasite",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "p-arrow",
+     "asset": "code_arrow",
+     "x": 977,
+     "y": 500,
+     "w": 613,
+     "h": 90,
+     "enter": "DRAW",
+     "at": "four thousand",
+     "z": 20,
+     "state": "ACTIVE",
+     "props": {
+      "span": 613
+     }
+    },
+    {
+     "to": [],
+     "id": "p-dist",
+     "kind": "text",
+     "text": "4,000 MILES",
+     "x": 945,
+     "y": 760,
+     "size": 104,
+     "enter": "POP",
+     "at": "miles",
+     "z": 40
+    },
+    {
+     "to": [],
+     "id": "p-fly",
+     "asset": "asset_tsetse_fly_v01",
+     "x": 1560,
+     "y": 830,
+     "h": 180,
+     "enter": "POP",
+     "at": "away",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.6,
+   "transition": "whip"
+  },
+  {
+   "id": "0.4",
+   "title": "NOT BY ADDING",
+   "anchor": "Evolution doesn't always upgrade by adding",
+   "hold": 0.6,
+   "vo": "Evolution doesn't always upgrade by adding something.",
+   "layers": [
+    {
+     "id": "0.4-0",
+     "label": "plus sign",
+     "x": 960,
+     "y": 500,
+     "to": [],
+     "h": 593,
+     "asset": "asset_plus_sign_v01",
+     "at": "adding",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "0.4-1",
+     "label": "red X",
+     "x": 960,
+     "y": 500,
+     "to": [],
+     "w": 523,
+     "asset": "code_mark_x",
+     "at": "something",
+     "delay": 0.15,
+     "enter": "DRAW",
+     "z": 50,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "0.5",
+   "title": "THREE WAYS",
+   "anchor": "Sometimes it removes a part, weakens",
+   "hold": 1.7,
+   "vo": "Sometimes it removes a part, weakens one, or retunes what was already there.",
+   "layers": [
+    {
+     "id": "0.5-0",
+     "label": "plus sign (đã hạ cấp)",
+     "x": 422,
+     "y": 240,
+     "to": [],
+     "h": 155,
+     "asset": "asset_plus_sign_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "0.5-1",
+     "label": "icon removed",
+     "x": 505,
+     "y": 560,
+     "to": [],
+     "h": 335,
+     "asset": "asset_icon_removed_v01",
+     "at": "removes",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "0.5-2",
+     "label": "icon weakened",
+     "x": 960,
+     "y": 560,
+     "to": [],
+     "h": 335,
+     "asset": "asset_icon_weakened_v01",
+     "at": "weakens",
+     "enter": "POP",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "0.5-3",
+     "label": "icon retuned",
+     "x": 1414,
+     "y": 560,
+     "to": [],
+     "h": 335,
+     "asset": "asset_icon_retuned_v01",
+     "at": "retunes",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "already there"
+   ]
+  },
+  {
+   "id": "0.6",
+   "title": "THE BREAKAGE — SINGLE FOCAL",
+   "anchor": "Sometimes the breakage is the upgrade.",
+   "hold": 0.9,
+   "vo": "Sometimes the breakage is the upgrade.",
+   "layers": [
+    {
+     "id": "0.6-1",
+     "label": "green check",
+     "x": 960,
+     "y": 540,
+     "to": [],
+     "h": 176,
+     "asset": "code_mark_tick",
+     "at": "upgrade",
+     "enter": "DRAW",
+     "z": 50,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "0.6-2",
+     "label": "type \"SOMETIMES\"",
+     "x": 960,
+     "y": 280,
+     "to": [],
+     "size": 168,
+     "kind": "text",
+     "text": "SOMETIMES",
+     "asset": null,
+     "z": 40
+    },
+    {
+     "to": [],
+     "id": "0.6-a",
+     "asset": "asset_icon_removed_v01",
+     "x": 520,
+     "y": 640,
+     "h": 240,
+     "opacity": 0.3,
+     "enter": "NONE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "0.6-b",
+     "asset": "asset_icon_weakened_v01",
+     "x": 960,
+     "y": 640,
+     "h": 240,
+     "opacity": 0.3,
+     "enter": "NONE",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "0.6-c",
+     "asset": "asset_icon_retuned_v01",
+     "x": 1400,
+     "y": 640,
+     "h": 240,
+     "opacity": 0.3,
+     "enter": "NONE",
+     "z": 12,
+     "state": "ALIVE"
+    }
+   ],
+   "push": 0.8,
+   "beats": [
+    "breakage is"
+   ]
+  },
+  {
+   "id": "0.7",
+   "title": "THE RECEIPT",
+   "anchor": "Nobody earned these. Somebody survived something,",
+   "hold": 2.0,
+   "vo": "Nobody earned these. Somebody survived something, and you inherited the receipt.",
+   "layers": [
+    {
+     "id": "0.7-0",
+     "label": "Stick hold edge",
+     "x": 660,
+     "y": 620,
+     "to": [],
+     "h": 700,
+     "asset": "stick_hold_edge_v01",
+     "z": 12,
+     "state": "ALIVE"
+    },
+    {
+     "id": "0.7-1",
+     "label": "receipt paper (mask 0→100%)",
+     "x": 1250,
+     "y": 640,
+     "to": [
+      [
+       765,
+       766
+      ]
+     ],
+     "h": 560,
+     "asset": "asset_receipt_paper_v01",
+     "at": "inherited",
+     "enter": "POP",
+     "z": 12,
+     "state": "ACTIVE"
+    },
+    {
+     "id": "0.7-2",
+     "label": "type \"RECEIPT\"",
+     "x": 960,
+     "y": 150,
+     "to": [],
+     "size": 110,
+     "kind": "text",
+     "text": "RECEIPT",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "beats": [
+    "survived something",
+    "something and"
+   ],
+   "transition": "whip"
+  },
+  {
+   "id": "0.8",
+   "title": "SEVEN → PROGRESS SYSTEM ⚠ BUILD-LIMITED",
+   "anchor": "Seven of them. Every one real.",
+   "hold": 2.9,
+   "vo": "Seven of them. Every one real. Not one free.",
+   "layers": [
+    {
+     "id": "0.8-0",
+     "label": "numeral 7",
+     "x": 960,
+     "y": 500,
+     "to": [],
+     "size": 470,
+     "kind": "text",
+     "text": "7",
+     "asset": null,
+     "until": 1.5,
+     "z": 40
+    },
+    {
+     "id": "0.8-1",
+     "label": "window ×7",
+     "x": 368,
+     "y": 500,
+     "to": [],
+     "w": 154,
+     "h": 154,
+     "spread": [
+      [
+       368,
+       500
+      ],
+      [
+       565,
+       500
+      ],
+      [
+       762,
+       500
+      ],
+      [
+       960,
+       500
+      ],
+      [
+       1157,
+       500
+      ],
+      [
+       1354,
+       500
+      ],
+      [
+       1551,
+       500
+      ]
+     ],
+     "count": 7,
+     "asset": "code_window",
+     "delay": 1.45,
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "id": "0.8-4",
+     "label": "type \"NOT FREE\"",
+     "x": 1090,
+     "y": 939,
+     "to": [],
+     "size": 145,
+     "kind": "text",
+     "text": "NOT FREE",
+     "asset": null,
+     "z": 40
+    }
+   ],
+   "push": 1.4,
+   "transition": "whip"
+  },
+  {
+   "id": "0.9",
+   "title": "THE LAST ONE — SINGLE FOCAL",
+   "anchor": "And the last one is different",
+   "hold": 2.8,
+   "vo": "And the last one is different from the other six. On that one, the upgrade and the damage are the same weapon.",
+   "layers": [
+    {
+     "to": [],
+     "id": "w0",
+     "asset": "code_window",
+     "x": 368,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "state": "ALIVE",
+     "exitOn": "wd0",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "w1",
+     "asset": "code_window",
+     "x": 565,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "state": "ALIVE",
+     "exitOn": "wd1",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "w2",
+     "asset": "code_window",
+     "x": 762,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "state": "ALIVE",
+     "exitOn": "wd2",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "w3",
+     "asset": "code_window",
+     "x": 960,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "state": "ALIVE",
+     "exitOn": "wd3",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "w4",
+     "asset": "code_window",
+     "x": 1157,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "state": "ALIVE",
+     "exitOn": "wd4",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "w5",
+     "asset": "code_window",
+     "x": 1354,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "state": "ALIVE",
+     "exitOn": "wd5",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "wd0",
+     "asset": "code_window",
+     "x": 368,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "opacity": 0.28,
+     "enter": "FADE",
+     "at": "other six",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "wd1",
+     "asset": "code_window",
+     "x": 565,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "opacity": 0.28,
+     "enter": "FADE",
+     "at": "other six",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "wd2",
+     "asset": "code_window",
+     "x": 762,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "opacity": 0.28,
+     "enter": "FADE",
+     "at": "other six",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "wd3",
+     "asset": "code_window",
+     "x": 960,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "opacity": 0.28,
+     "enter": "FADE",
+     "at": "other six",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "wd4",
+     "asset": "code_window",
+     "x": 1157,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "opacity": 0.28,
+     "enter": "FADE",
+     "at": "other six",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "wd5",
+     "asset": "code_window",
+     "x": 1354,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "opacity": 0.28,
+     "enter": "FADE",
+     "at": "other six",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "w7",
+     "asset": "code_window",
+     "x": 1551,
+     "y": 330,
+     "w": 154,
+     "h": 154,
+     "enter": "NONE",
+     "props": {
+      "state": "lit"
+     },
+     "exitOn": "blade",
+     "z": 20,
+     "state": "ALIVE"
+    },
+    {
+     "to": [],
+     "id": "w7-hi",
+     "asset": "code_window",
+     "x": 1551,
+     "y": 330,
+     "w": 190,
+     "h": 190,
+     "enter": "POP",
+     "at": "last one",
+     "state": "ACTIVE",
+     "props": {
+      "state": "lit"
+     },
+     "exitOn": "blade",
+     "z": 20
+    },
+    {
+     "to": [],
+     "id": "blade",
+     "asset": "asset_blade_silhouette_v01",
+     "x": 960,
+     "y": 690,
+     "h": 250,
+     "enter": "POP",
+     "at": "On that one",
+     "state": "ACTIVE",
+     "z": 12
+    },
+    {
+     "to": [],
+     "id": "up-tick",
+     "asset": "code_mark_tick",
+     "x": 470,
+     "y": 690,
+     "h": 150,
+     "enter": "POP",
+     "at": "the upgrade",
+     "z": 50
+    },
+    {
+     "to": [],
+     "id": "up-txt",
+     "kind": "text",
+     "text": "UPGRADE",
+     "x": 470,
+     "y": 880,
+     "size": 96,
+     "enter": "POP",
+     "at": "the upgrade",
+     "props": {
+      "color": "#3BB273"
+     },
+     "z": 40
+    },
+    {
+     "to": [],
+     "id": "dm-x",
+     "asset": "code_mark_x",
+     "x": 1450,
+     "y": 690,
+     "h": 150,
+     "enter": "POP",
+     "at": "the damage",
+     "z": 50
+    },
+    {
+     "to": [],
+     "id": "dm-txt",
+     "kind": "text",
+     "text": "DAMAGE",
+     "x": 1450,
+     "y": 880,
+     "size": 96,
+     "enter": "POP",
+     "at": "the damage",
+     "props": {
+      "color": "#E63946"
+     },
+     "z": 40
+    },
+    {
+     "to": [],
+     "id": "same",
+     "kind": "text",
+     "text": "SAME WEAPON",
+     "x": 960,
+     "y": 470,
+     "size": 120,
+     "enter": "POP",
+     "at": "same weapon",
+     "state": "ACTIVE",
+     "z": 40
+    }
+   ],
+   "push": 1.2
+  }
+ ]
+}
