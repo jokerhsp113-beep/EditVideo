@@ -1,0 +1,13 @@
+{
+  "api_key": "sk_d6ece85a78745ba07ca9af5990196a501e685dd6b174e0aa",
+  "voice": "qHR09fcvu6SoDtFzqFvm",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "output_dir": "C:\\Work\\Youtube\\CreateAudio\\Audio Output",
+  "base_name": "Audio",
+  "stability": 0.54,
+  "similarity_boost": 0.68,
+  "style": 0.1,
+  "speed": 1.04,
+  "use_speaker_boost": true
+}
