@@ -10,11 +10,11 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
-import { loadFont as loadHandwrittenFont } from "@remotion/google-fonts/PatrickHand";
+import {handwriting} from "./design/typography";
 import manifestJson from "./data/manifest_shots_video003.json";
 import type { Motion, TextOverlay, ChartOverlay, Idle, Transition } from "./VideoComposition";
 
-const { fontFamily: handwrittenFont } = loadHandwrittenFont();
+const handwrittenFont = handwriting;
 const ACCENT = "#F2CE73";
 const PUNCH_FRACTION = 0.25;
 const EASE = Easing.inOut(Easing.ease);
@@ -122,11 +122,11 @@ const TextOverlayCard: React.FC<{ overlay: TextOverlay; localFrame: number }> = 
         border: "4px solid #111111",
         borderRadius: 16,
         padding: "14px 28px",
-        fontFamily: "Arial, Helvetica, sans-serif",
-        fontWeight: 800,
+        fontFamily: handwriting,
+        fontWeight: 400,
         fontSize: 26,
         color: "#111111",
-        boxShadow: "6px 6px 0px rgba(0,0,0,0.15)",
+        boxShadow: "none",
       }}
     >
       {overlay.text}
@@ -165,8 +165,8 @@ const ChartOverlayWidget: React.FC<{ chart: ChartOverlay; localFrame: number }> 
       </svg>
       <div
         style={{
-          fontFamily: "Arial, Helvetica, sans-serif",
-          fontWeight: 800,
+          fontFamily: handwriting,
+          fontWeight: 400,
           fontSize: 20,
           color: "#111111",
           marginTop: 4,
@@ -335,7 +335,7 @@ const BoxTitleCardLayer: React.FC<{ card: BoxTitleCard }> = ({ card }) => {
         <div style={{ width: 6, height: 180, background: ACCENT }} />
         <div style={{ fontFamily: handwrittenFont, fontSize: 60, color: "#111111", maxWidth: 640, lineHeight: 1.15, transform: "rotate(1deg)" }}>
           {card.title}
-          <div style={{ fontFamily: "Arial, Helvetica, sans-serif", fontSize: 22, fontWeight: 700, color: "#666666", marginTop: 14, letterSpacing: 2 }}>
+          <div style={{ fontFamily: handwriting, fontSize: 22, fontWeight: 400, color: "#666666", marginTop: 14, letterSpacing: 0.3 }}>
             {card.box === "BOMBAY" ? "OFF THE CHART" : `${card.pct} OF THE WORLD`}
           </div>
         </div>

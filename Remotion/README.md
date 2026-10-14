@@ -52,3 +52,13 @@ Found an issue with Remotion? [File an issue here](https://github.com/remotion-d
 ## License
 
 Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+
+## Science video editor
+
+This repository includes a reusable editorial skill and a staged Remotion engine for illustrated science videos. Start with [the upgrade guide](professional-editor-upgrade/professional-editor/README.md). Codex discovers the skill at `.agents/skills/science-video-editor/`.
+
+```powershell
+npm --prefix professional-editor-upgrade run editor:studio
+npm --prefix professional-editor-upgrade run editor:assets
+npm --prefix professional-editor-upgrade run editor:check
+```

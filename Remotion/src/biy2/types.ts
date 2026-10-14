@@ -47,6 +47,8 @@ export type Shot = {
   /** how the shot arrives: a whip for a new scene, a zoom-settle for a new item */
   transition?: "whip" | "zoom";
   layers: Layer[];
+  /** Decorative reaction stickers are opt-in, never inserted by shot index alone. */
+  guideReaction?: boolean;
   note?: string;
 };
 

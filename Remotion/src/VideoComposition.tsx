@@ -10,10 +10,10 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
-import { loadFont as loadHandwrittenFont } from "@remotion/google-fonts/PatrickHand";
+import {handwriting} from "./design/typography";
 import manifestJson from "./data/manifest_shots.json";
 
-const { fontFamily: handwrittenFont } = loadHandwrittenFont();
+const handwrittenFont = handwriting;
 
 export type Motion = {
   type: "STATIC" | "PUNCH" | "PULL" | "DRIFT" | "SLOW";
@@ -157,12 +157,12 @@ const TextOverlayCard: React.FC<{ overlay: TextOverlay; localFrame: number }> = 
         border: "4px solid #111111",
         borderRadius: 16,
         padding: isGene ? "10px 28px" : "14px 28px",
-        fontFamily: "Arial, Helvetica, sans-serif",
-        fontWeight: 800,
+        fontFamily: handwriting,
+        fontWeight: 400,
         fontSize: isGene ? 36 : 28,
         letterSpacing: isGene ? 2 : 0,
         color: "#111111",
-        boxShadow: "6px 6px 0px rgba(0,0,0,0.15)",
+        boxShadow: "none",
       }}
     >
       {overlay.text}
@@ -203,8 +203,8 @@ const ChartOverlayWidget: React.FC<{ chart: ChartOverlay; localFrame: number }> 
         </svg>
         <div
           style={{
-            fontFamily: "Arial, Helvetica, sans-serif",
-            fontWeight: 800,
+            fontFamily: handwriting,
+            fontWeight: 400,
             fontSize: 18,
             color: "#111111",
             marginTop: 4,
@@ -236,8 +236,8 @@ const ChartOverlayWidget: React.FC<{ chart: ChartOverlay; localFrame: number }> 
     >
       <div
         style={{
-          fontFamily: "Arial, Helvetica, sans-serif",
-          fontWeight: 800,
+          fontFamily: handwriting,
+          fontWeight: 400,
           fontSize: 16,
           color: "#111111",
           marginBottom: Math.max(0, 40 - overflowPct * 2),
@@ -510,12 +510,12 @@ const MucTitleCardLayer: React.FC<{ card: MucTitleCard }> = ({ card }) => {
           {card.title}
           <div
             style={{
-              fontFamily: "Arial, Helvetica, sans-serif",
+              fontFamily: handwriting,
               fontSize: 22,
-              fontWeight: 700,
+              fontWeight: 400,
               color: "#666666",
               marginTop: 14,
-              letterSpacing: 2,
+              letterSpacing: 0.3,
             }}
           >
             UPGRADE {card.rank} OF {card.totalRanks}

@@ -1,8 +1,7 @@
-import { loadFont as loadHeadline } from "@remotion/google-fonts/LuckiestGuy";
-import { loadFont as loadBody } from "@remotion/google-fonts/Inter";
+import {handwriting} from "../design/typography";
 
-export const headline = loadHeadline().fontFamily;
-export const body = loadBody().fontFamily;
+export const headline = handwriting;
+export const body = handwriting;
 
 /** Palette from §0 of the production files. */
 export const COLORS = {

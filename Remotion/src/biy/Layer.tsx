@@ -120,7 +120,7 @@ const Inner: React.FC<{ layer: Layer }> = ({ layer }) => {
             WebkitTextStroke: (p as { stroke?: number }).stroke
               ? `${(p as { stroke?: number }).stroke}px ${COLORS.ink}`
               : undefined,
-            letterSpacing: 2,
+            letterSpacing: 0.3,
             whiteSpace: "pre",
             textAlign: "center",
             lineHeight: 1.05,

@@ -15,7 +15,7 @@ const CaptionPage: React.FC<{ page: TikTokPage }> = ({ page }) => {
       <div
         style={{
           fontFamily: body,
-          fontWeight: 700,
+          fontWeight: 400,
           fontSize: 52,
           whiteSpace: "pre",
           color: COLORS.ink,

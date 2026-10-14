@@ -1,6 +1,7 @@
 import React from "react";
 import { interpolate, useCurrentFrame, useVideoConfig } from "remotion";
 import { COLORS, STROKE, body, headline } from "./theme";
+import {InkArrow, InkLine, dashPattern} from "../design/Ink";
 import type { Layer } from "./types";
 
 /* ------------------------------------------------------------------ helpers */
@@ -91,7 +92,7 @@ const Bar: React.FC<{
           y2={420 - 420 * threshold}
           stroke={COLORS.red}
           strokeWidth={8}
-          strokeDasharray="20 14"
+          strokeDasharray={dashPattern(8)}
           strokeLinecap="round"
         />
       ) : null}
@@ -101,7 +102,7 @@ const Bar: React.FC<{
           y={456}
           textAnchor="middle"
           fontFamily={body}
-          fontWeight={700}
+          fontWeight={400}
           fontSize={36}
           fill={COLORS.ink}
         >
@@ -161,7 +162,6 @@ const Patch: React.FC<{ layer: Layer; color: string; alpha: number; r: number }>
 const DashedBox: React.FC<{ layer: Layer; color: string; dash: string; radius: number }> = ({
   layer,
   color,
-  dash,
   radius,
 }) => {
   const { w, h } = size(layer, 700, 420);
@@ -176,7 +176,7 @@ const DashedBox: React.FC<{ layer: Layer; color: string; dash: string; radius: n
         fill="none"
         stroke={color}
         strokeWidth={5}
-        strokeDasharray={dash}
+        strokeDasharray={dashPattern(5)}
         strokeLinecap="round"
       />
     </Svg>
@@ -212,7 +212,7 @@ const Card: React.FC<{
           y={sub ? h / 2 - 4 : h / 2 + 16}
           textAnchor="middle"
           fontFamily={body}
-          fontWeight={800}
+          fontWeight={400}
           fontSize={Math.min(54, h * 0.32)}
           fill={COLORS.ink}
         >
@@ -235,67 +235,25 @@ const Card: React.FC<{
   );
 };
 
-const ArrowShape: React.FC<{
-  layer: Layer;
-  color: string;
-  dir: "up" | "down" | "right" | "steep";
-  curved?: boolean;
-}> = ({ layer, color, dir, curved }) => {
-  const { w, h } = size(layer, 140, 260);
-  const g = useGrow(0.4);
-  const paths: Record<string, string> = {
-    up: "M70 240 L70 40",
-    down: "M70 20 L70 220",
-    right: "M20 130 L240 130",
-    steep: "M20 240 L230 40",
-  };
-  const curvedPath = "M30 240 Q40 90 200 50";
-  const d = curved ? curvedPath : paths[dir];
-  const head: Record<string, string> = {
-    up: "M70 20 L30 74 M70 20 L110 74",
-    down: "M70 240 L30 186 M70 240 L110 186",
-    right: "M250 130 L196 92 M250 130 L196 168",
-    steep: "M240 30 L176 44 M240 30 L226 106",
-  };
-  const vw = dir === "right" || dir === "steep" || curved ? 270 : 140;
-  return (
-    <Svg w={w} h={h} vw={vw} vh={260}>
-      <g
-        stroke={color}
-        strokeWidth={8}
-        strokeLinecap="round"
-        fill="none"
-        style={{ clipPath: `inset(0 ${100 - g * 100}% 0 0)` }}
-      >
-        <path d={d} />
-        <path d={curved ? "M200 50 L146 42 M200 50 L182 100" : head[dir]} />
-      </g>
-    </Svg>
-  );
+const ArrowShape: React.FC<{layer: Layer; color: string; dir: "up" | "down" | "right" | "steep"; curved?: boolean}> = ({layer,color,dir,curved}) => {
+  const {w,h}=size(layer,140,260);
+  const g=useGrow(0.4);
+  const points={up:[{x:70,y:236},{x:70,y:24}], down:[{x:70,y:24},{x:70,y:236}], right:[{x:20,y:130},{x:246,y:130}], steep:[{x:24,y:236},{x:236,y:30}]} as const;
+  const [from,to]=curved?[{x:30,y:236},{x:200,y:50}]:points[dir];
+  const vw=dir==="right"||dir==="steep"||curved?270:140;
+  return <Svg w={w} h={h} vw={vw} vh={260}><InkArrow from={from} to={to} color={color} strokeWidth={7} progress={g} bend={curved?-55:undefined}/></Svg>;
 };
 
 /** An arrow drawn to the exact span between the two things it connects. */
-const Connector: React.FC<{ layer: Layer }> = ({ layer }) => {
-  const w = layer.w ?? 400;
-  const h = layer.h ?? 90;
-  const g = useGrow(0.35);
-  const y = h / 2;
-  const x2 = 8 + (w - 16) * g;
-  const head = Math.min(34, w * 0.18);
-  return (
-    <Svg w={w} h={h}>
-      <line x1={8} y1={y} x2={x2} y2={y} stroke={COLORS.ink} strokeWidth={9} strokeLinecap="round" />
-      {g > 0.85 ? (
-        <path
-          d={`M${x2} ${y} L${x2 - head} ${y - head * 0.75} M${x2} ${y} L${x2 - head} ${y + head * 0.75}`}
-          stroke={COLORS.ink}
-          strokeWidth={9}
-          strokeLinecap="round"
-          fill="none"
-        />
-      ) : null}
-    </Svg>
-  );
+const Connector: React.FC<{layer: Layer}> = ({layer}) => {
+  const w=layer.w??400, h=layer.h??90;
+  const g=useGrow(0.35);
+  return <Svg w={w} h={h}><InkArrow from={{x:12,y:h/2}} to={{x:w-12,y:h/2}} color={str(layer,"color",COLORS.ink)} strokeWidth={6} progress={g}/></Svg>;
+};
+
+const ThresholdBar: React.FC<{layer: Layer}> = ({layer}) => {
+  const level=useGrow(0.8);
+  return <Bar layer={layer} fill={COLORS.teal} level={level} threshold={num(layer,"threshold",0.7)}/>;
 };
 
 /* ------------------------------------------------------------ the registry */
@@ -310,7 +268,7 @@ const Label: React.FC<{ layer: Layer }> = ({ layer }) => {
         fontFamily: headline,
         fontSize: s,
         color: str(layer, "color", COLORS.ink),
-        letterSpacing: 2,
+        letterSpacing: 0.3,
         whiteSpace: "pre",
         textAlign: "center",
       }}
@@ -336,14 +294,15 @@ const EvidenceChip: React.FC<{ layer: Layer }> = ({ layer }) => {
         fill="#FFFFFF"
         stroke={COLORS.grey}
         strokeWidth={5}
-        strokeDasharray={dashed ? "16 12" : undefined}
+        strokeDasharray={dashed ? dashPattern(5) : undefined}
+        strokeLinecap="round"
       />
       <text
         x={w / 2}
         y={h / 2 + 12}
         textAnchor="middle"
         fontFamily={body}
-        fontWeight={700}
+        fontWeight={400}
         fontSize={h * 0.42}
         fill={COLORS.ink}
       >
@@ -483,7 +442,8 @@ const Ring: React.FC<{ layer: Layer; color: string; dashed?: boolean; width?: nu
         fill="none"
         stroke={color}
         strokeWidth={width ?? 8}
-        strokeDasharray={dashed ? "18 12" : `${c * g} ${c}`}
+        strokeDasharray={dashed ? dashPattern(width ?? 8) : `${c * g} ${c}`}
+        opacity={dashed ? g : 1}
         strokeLinecap="round"
         transform={`rotate(-90 ${d / 2} ${d / 2})`}
       />
@@ -509,7 +469,7 @@ const Tag: React.FC<{ layer: Layer; fill: string; text?: string }> = ({ layer, f
           y={80}
           textAnchor="middle"
           fontFamily={body}
-          fontWeight={800}
+          fontWeight={400}
           fontSize={42}
           fill="#FFFFFF"
         >
@@ -543,16 +503,8 @@ const Line: React.FC<{ layer: Layer; color: string; dashed?: boolean; vertical?:
   const g = useGrow(0.45);
   return (
     <Svg w={w} h={Math.max(h, 8)} vw={w} vh={Math.max(h, 8)}>
-      <line
-        x1={4}
-        y1={vertical ? 4 : h / 2}
-        x2={vertical ? 4 : 4 + (w - 8) * g}
-        y2={vertical ? 4 + (h - 8) * g : h / 2}
-        stroke={color}
-        strokeWidth={vertical ? Math.max(4, w) : Math.max(4, h)}
-        strokeDasharray={dashed ? "18 14" : undefined}
-        strokeLinecap="round"
-      />
+      <InkLine from={{x:4,y:vertical?4:h/2}} to={{x:vertical?4:w-4,y:vertical?h-4:h/2}} color={color} strokeWidth={vertical?Math.max(4,w):Math.max(4,h)} progress={g} dashed={dashed} bend={vertical?0:undefined}/>
+
     </Svg>
   );
 };
@@ -672,7 +624,7 @@ const Moon: React.FC<{ layer: Layer }> = ({ layer }) => {
           x={224 + i * 22}
           y={92 - i * 30}
           fontFamily={body}
-          fontWeight={800}
+          fontWeight={400}
           fontSize={52 - i * 14}
           fill={COLORS.grey}
         >
@@ -931,10 +883,10 @@ const DashedLink: React.FC<{ layer: Layer }> = ({ layer }) => {
   const end = 20 + (w - 40) * g;
   return (
     <Svg w={w} h={h} vw={w} vh={h}>
-      <line x1={20} y1={h / 2} x2={end} y2={h / 2} stroke={COLORS.teal}
-        strokeWidth={8} strokeDasharray="20 14" strokeLinecap="round" />
-      <circle cx={20} cy={h / 2} r={13} fill={COLORS.amber} stroke={COLORS.ink} strokeWidth={5} />
-      <circle cx={end} cy={h / 2} r={13} fill={COLORS.red} stroke={COLORS.ink} strokeWidth={5} />
+      <InkLine from={{x:20,y:h/2}} to={{x:end,y:h/2}} color={COLORS.teal} strokeWidth={6} dashed/>
+
+      <circle cx={20} cy={h / 2} r={9} fill={COLORS.amber} stroke={COLORS.ink} strokeWidth={5} />
+      <circle cx={end} cy={h / 2} r={9} fill={COLORS.red} stroke={COLORS.ink} strokeWidth={5} />
     </Svg>
   );
 };
@@ -1031,7 +983,7 @@ export const WIDGETS: Record<string, React.FC<{ layer: Layer }>> = {
   code_molecule_pile: Pile,
   code_bleed_drops: Drops,
 
-  code_threshold_bar: (x) => <Bar {...x} fill={COLORS.teal} level={useGrow(0.8)} threshold={num(x.layer, "threshold", 0.7)} />,
+  code_threshold_bar: ThresholdBar,
   code_clotting_bar: (x) => <Bar {...x} fill={COLORS.red} level={num(x.layer, "level", 0.6)} />,
   code_vwf_bar: (x) => <Bar {...x} fill={COLORS.red} level={num(x.layer, "level", 0.4)} label="vWF" />,
   code_hdl_bar: (x) => <Bar {...x} fill={COLORS.green} level={num(x.layer, "level", 0.75)} />,

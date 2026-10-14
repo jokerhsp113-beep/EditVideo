@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {spawnSync} from 'node:child_process';
+import {projectRoot} from './validate-project.mjs';
+const file=process.argv[2];
+if(!file) throw new Error('Usage: node professional-editor/tools/analyze-audio.mjs FILE [REPORT.json]');
+const candidates=[path.join(projectRoot,'node_modules/@remotion/compositor-win32-x64-msvc/ffmpeg.exe'),'ffmpeg'];
+const ffmpeg=candidates.find(p=>p==='ffmpeg'||fs.existsSync(p));
+const result=spawnSync(ffmpeg,['-hide_banner','-nostats','-i',path.resolve(file),'-af','loudnorm=I=-16:TP=-1:LRA=11:print_format=json','-f','null','-'],{encoding:'utf8',timeout:120000,maxBuffer:2*1024*1024});
+if(result.error || result.status!==0) throw new Error(result.error?.message ?? result.stderr);
+const blocks=result.stderr.match(/\{\s*"input_i"[\s\S]*?\}/g);
+if(!blocks?.length) throw new Error('No loudness measurement; verify the input contains audio');
+const measurements=JSON.parse(blocks.at(-1));
+const report={file:path.basename(file),measurements,method:'FFmpeg loudnorm analysis; input_* are source measurements. No source media modified.',reference:{integratedLufs:-16,truePeakDbtp:-1,note:'Internal starting reference, not a universal platform requirement.'},review:{listening:'pending',notes:[]}};
+const output=process.argv[3]??path.join(projectRoot,'professional-editor/reports/audio-analysis.json');
+fs.mkdirSync(path.dirname(output),{recursive:true});fs.writeFileSync(output,JSON.stringify(report,null,2)+'\n');
+console.log(JSON.stringify(measurements));

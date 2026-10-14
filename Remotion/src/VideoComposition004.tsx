@@ -3,20 +3,14 @@ import {
   AbsoluteFill, Audio, Easing, Img, Sequence,
   interpolate, staticFile, useCurrentFrame, useVideoConfig,
 } from "remotion";
-import { loadFont as loadHandwrittenFont } from "@remotion/google-fonts/PatrickHand";
-import { loadFont as loadSansFont } from "@remotion/google-fonts/Inter";
+import {handwriting} from "./design/typography";
 import manifestJson from "./data/manifest_shots_video004.json";
-
-const { fontFamily: handFace } = loadHandwrittenFont();
-// Arial was a tell in itself: it is what you get when nobody chose a typeface.
-const { fontFamily: sansFace } = loadSansFont("normal", { weights: ["600", "700"], subsets: ["latin"] });
 
 const INK = "#1A1A1A";
 const ACCENT = "#F2CE73"; // vàng bơ — chữ ký kênh. Dùng làm gạch nhấn mảnh, KHÔNG dùng làm khung đầy
 const PAPER = "#FFFFFF";
-const SANS = `${sansFace}, Helvetica, sans-serif`;
-// handwritten face first, sans as per-glyph fallback for anything it lacks
-const HAND = `${handFace}, ${sansFace}, sans-serif`;
+const SANS = handwriting;
+const HAND = handwriting;
 
 type Motion = {
   type: "STATIC" | "PUNCH" | "SLOW" | "DRIFT" | "CHAIN";
@@ -79,7 +73,7 @@ const somberEnd = M.beatEnd["B38"];
 // torn strip, a bar with an ink spine — so guaranteeing legibility does not
 // turn into one recurring lower-third widget, which is its own tool tell.
 // ─────────────────────────────────────────────────────────────────
-const PLATE_SHADOW = "6px 7px 0 rgba(26,26,26,0.16)";
+const PLATE_SHADOW = "none";
 
 const TextCard: React.FC<{ o: TextOverlay; localFrame: number; holdFrames: number }> = ({ o, localFrame, holdFrames }) => {
   if (!o.show || !o.text) return null;
@@ -103,7 +97,7 @@ const TextCard: React.FC<{ o: TextOverlay; localFrame: number; holdFrames: numbe
         <div style={{ width: 12, background: ACCENT }} />
         <div style={{ padding: "14px 30px 16px 22px" }}>
           <div style={{ fontFamily: HAND, fontSize: 46, color: INK, lineHeight: 1.05 }}>{o.text}</div>
-          {o.sub && <div style={{ fontFamily: SANS, fontSize: 21, fontWeight: 600, color: "#4A4A4A", marginTop: 6 }}>{o.sub}</div>}
+          {o.sub && <div style={{ fontFamily: SANS, fontSize: 21, fontWeight: 400, color: "#4A4A4A", marginTop: 6 }}>{o.sub}</div>}
         </div>
       </div>
     );
@@ -117,7 +111,7 @@ const TextCard: React.FC<{ o: TextOverlay; localFrame: number; holdFrames: numbe
       transform: `translateX(${(1 - inn) * 16}px) rotate(${tilt}deg)`, transformOrigin: "right bottom",
       background: PAPER, padding: "11px 20px 12px", borderTop: `3px solid ${INK}`, boxShadow: PLATE_SHADOW,
     }}>
-      <div style={{ fontFamily: SANS, fontSize: 22, fontWeight: 700, letterSpacing: 1.1, color: "#3A3A3A", textTransform: "uppercase" }}>{o.text}</div>
+      <div style={{ fontFamily: SANS, fontSize: 22, fontWeight: 400, letterSpacing: 1.1, color: "#3A3A3A", textTransform: "uppercase" }}>{o.text}</div>
     </div>
   );
 };

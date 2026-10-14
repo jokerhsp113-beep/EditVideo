@@ -1,0 +1,4 @@
+interface:
+  display_name: "Science Video Editor"
+  short_description: "Plan, edit and review illustrated science videos"
+  default_prompt: "Use $science-video-editor to improve this science video and verify the resulting edit."

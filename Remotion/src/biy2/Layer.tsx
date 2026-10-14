@@ -111,7 +111,7 @@ const Inner: React.FC<{ layer: Layer }> = ({ layer }) => {
           fontFamily: headline,
           fontSize: props.size ?? (layer.h ? layer.h * 0.8 : 110),
           color: props.color ?? COLORS.ink,
-          letterSpacing: 2,
+          letterSpacing: 0.3,
           whiteSpace: "pre",
           textAlign: "center",
           lineHeight: 1.05,

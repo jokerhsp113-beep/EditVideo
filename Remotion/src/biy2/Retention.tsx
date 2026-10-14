@@ -50,11 +50,11 @@ export const RetentionBackground: React.FC<{ section: string }> = ({ section }) 
 };
 
 export const SectionChrome: React.FC<{ section: string }> = ({ section }) => {
-  if (section === "00" || section === "08") return null;
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const meta = META[section] ?? META["00"];
   const reveal = spring({ frame, fps, config: { damping: 22, mass: 0.55 } });
+  if (section === "00" || section === "08") return null;
   return (
     <AbsoluteFill style={{ pointerEvents: "none", zIndex: 80 }}>
       <div style={{
@@ -64,15 +64,15 @@ export const SectionChrome: React.FC<{ section: string }> = ({ section }) => {
         <div style={{
           fontFamily: headline, fontSize: 27, lineHeight: 1, color: COLORS.ink,
           background: meta.accent, border: `4px solid ${COLORS.ink}`, borderRadius: 12,
-          padding: "8px 13px 6px", boxShadow: `5px 5px 0 ${COLORS.ink}`,
+          padding: "8px 13px 6px", boxShadow: "none",
         }}>{meta.n}</div>
-        <div style={{ fontFamily: headline, fontSize: 30, letterSpacing: 1.5, color: COLORS.ink }}>
+        <div style={{ fontFamily: headline, fontSize: 30, letterSpacing: 0.3, color: COLORS.ink }}>
           {meta.title}
         </div>
       </div>
       <div style={{
-        position: "absolute", right: 72, top: 48, fontFamily: body, fontWeight: 800,
-        fontSize: 20, letterSpacing: 4, color: COLORS.grey, opacity: 0.62,
+        position: "absolute", right: 72, top: 48, fontFamily: body, fontWeight: 400,
+        fontSize: 20, letterSpacing: 0.5, color: COLORS.grey, opacity: 0.62,
       }}>BUILT INTO YOU</div>
     </AbsoluteFill>
   );
@@ -94,12 +94,12 @@ export const HookOverlay: React.FC<{ enabled: boolean }> = ({ enabled }) => {
         transformOrigin: "left top",
       }}>
         <div style={{
-          display: "inline-block", fontFamily: body, fontWeight: 900, fontSize: 25,
-          letterSpacing: 4, color: COLORS.red, marginBottom: 8,
+          display: "inline-block", fontFamily: body, fontWeight: 400, fontSize: 25,
+          letterSpacing: 0.5, color: COLORS.red, marginBottom: 8,
         }}>THE ANSWER IS ALREADY INSIDE YOU</div>
         <div style={{
           fontFamily: headline, fontSize: 88, lineHeight: 0.93, letterSpacing: 1,
-          color: COLORS.ink, textShadow: "7px 7px 0 rgba(255,190,46,0.72)",
+          color: COLORS.ink, textShadow: "none",
         }}>YOUR BODY CAME<br />WITH SETTINGS</div>
         <div style={{ display: "flex", gap: 10, marginTop: 18 }}>
           {["PAIN", "IMMUNITY", "BLOOD", "METABOLISM"].map((word, i) => (
@@ -107,7 +107,7 @@ export const HookOverlay: React.FC<{ enabled: boolean }> = ({ enabled }) => {
               opacity: interpolate(frame, [(0.45 + i * 0.18) * fps, (0.7 + i * 0.18) * fps], [0, 1], {
                 extrapolateLeft: "clamp", extrapolateRight: "clamp",
               }),
-              fontFamily: body, fontWeight: 900, fontSize: 21, color: COLORS.ink,
+              fontFamily: body, fontWeight: 400, fontSize: 21, color: COLORS.ink,
               border: `3px solid ${COLORS.ink}`, borderRadius: 999, padding: "7px 13px 6px",
               background: i % 2 ? COLORS.teal : "#FFBE2E",
             }}>{word}</div>
@@ -197,8 +197,8 @@ export const CaptionStrip: React.FC<{
         position: "absolute", left: placement.x, top: placement.y,
         width: captionWidth, boxSizing: "border-box", padding: "11px 24px 12px", borderRadius: 18,
         background: "rgba(255,252,241,0.92)", border: `3px solid rgba(25,25,25,0.72)`,
-        boxShadow: "0 8px 0 rgba(25,25,25,0.14)", whiteSpace: "nowrap",
-        fontFamily: body, fontWeight: 900, fontSize: 43, lineHeight: 1.05,
+        boxShadow: "none", whiteSpace: "nowrap",
+        fontFamily: body, fontWeight: 400, fontSize: 43, lineHeight: 1.05,
         color: COLORS.ink, textAlign: "center",
       }}>
         {page.items.map((c, i) => {
@@ -225,7 +225,7 @@ export const GuideReaction: React.FC<{
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const hasCharacter = shot.layers.some((l) => l.src?.startsWith("stick_"));
-  const eligible = !hasCharacter && durationInFrames >= 5.2 * fps && index % 4 === 2;
+  const eligible = shot.guideReaction === true && !hasCharacter && durationInFrames >= 5.2 * fps && index % 4 === 2;
   if (!eligible) return null;
   const start = Math.min(Math.round(durationInFrames * 0.32), Math.round(2.1 * fps));
   const end = Math.max(start + 24, Math.round(durationInFrames * 0.82));

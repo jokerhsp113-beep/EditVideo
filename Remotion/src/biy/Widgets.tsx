@@ -1,6 +1,7 @@
 import React from "react";
 import { Img, interpolate, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { COLORS, assetPath, body, headline } from "./theme";
+import {InkArrow, dashPattern} from "../design/Ink";
 import type { Layer } from "./types";
 
 type P = Record<string, unknown>;
@@ -27,7 +28,7 @@ export const Ring: React.FC<{ layer: Layer }> = ({ layer }) => {
         stroke={color}
         strokeWidth={stroke}
         strokeLinecap="round"
-        strokeDasharray={dashed ? "14 10" : `${circumference * draw} ${circumference}`}
+        strokeDasharray={dashed ? dashPattern(stroke) : `${circumference * draw} ${circumference}`}
         transform={`rotate(-90 ${d / 2} ${d / 2})`}
         opacity={dashed ? draw : 1}
       />
@@ -64,6 +65,7 @@ export const WarningHalo: React.FC<{ layer: Layer }> = ({ layer }) => {
 
 /** Fine Print / Open Question / Clue card, plus the flush overlay patch. */
 export const Card: React.FC<{ layer: Layer }> = ({ layer }) => {
+  const frame = useCurrentFrame();
   const variant = get(layer, "variant", "fineprint") as "fineprint" | "open" | "unfinished" | "flush";
   if (variant === "flush") {
     return (
@@ -80,12 +82,6 @@ export const Card: React.FC<{ layer: Layer }> = ({ layer }) => {
   }
   const w = layer.w ?? 950;
   const h = layer.h ?? 420;
-  const frame = useCurrentFrame();
-
-  const border =
-    variant === "open"
-      ? { border: `10px dashed ${COLORS.grey}` }
-      : { border: `12px solid ${COLORS.orange}` };
 
   // "unfinished" draws only ~76% of the border and leaves a visible gap
   const unfinished = variant === "unfinished";
@@ -107,13 +103,13 @@ export const Card: React.FC<{ layer: Layer }> = ({ layer }) => {
             rx={28}
             fill="#fff"
             stroke={COLORS.orange}
-            strokeWidth={12}
+            strokeWidth={6}
             strokeDasharray={`${drawn} ${perimeter}`}
             strokeLinecap="round"
           />
         </svg>
       ) : (
-        <div style={{ position: "absolute", inset: 0, background: "#fff", borderRadius: 28, ...border }} />
+        <svg width={w} height={h} style={{position:"absolute",inset:0}}><rect x={5} y={5} width={w-10} height={h-10} rx={24} fill="#fff" stroke={variant==="open"?COLORS.grey:COLORS.orange} strokeWidth={6} strokeLinecap="round" strokeDasharray={variant==="open"?dashPattern(6):undefined}/></svg>
       )}
       <div
         style={{
@@ -315,7 +311,7 @@ export const ForceGauge: React.FC<{ layer: Layer }> = ({ layer }) => {
 
   const bar = (value: number, label: string, color: string, key: string) => (
     <div key={key} style={{ display: "flex", alignItems: "center", gap: 28 }}>
-      <div style={{ fontFamily: body, fontWeight: 700, fontSize: 40, width: 200, color: COLORS.ink }}>{label}</div>
+      <div style={{ fontFamily: body, fontWeight: 400, fontSize: 40, width: 200, color: COLORS.ink }}>{label}</div>
       <div style={{ width: w, height: 70, borderRadius: 14, background: COLORS.greyLight, border: `5px solid ${COLORS.ink}` }}>
         <div style={{ width: `${value * grow * 100}%`, height: "100%", background: color, borderRadius: 9 }} />
       </div>
@@ -479,20 +475,11 @@ export const Slash: React.FC<{ layer: Layer }> = ({ layer }) => {
 };
 
 /** Connector arrow, drawn on. */
-export const Arrow: React.FC<{ layer: Layer }> = ({ layer }) => {
-  const w = layer.w ?? 200;
-  const color = get(layer, "color", COLORS.ink);
-  const frame = useCurrentFrame();
-  const p = interpolate(frame, [0, 8], [0, 1], { extrapolateRight: "clamp" });
-  const x2 = w * p;
-  return (
-    <svg width={w} height={60} style={{ overflow: "visible" }}>
-      <line x1={0} y1={30} x2={Math.max(x2 - 18, 0)} y2={30} stroke={color} strokeWidth={7} strokeLinecap="round" />
-      {p > 0.75 ? (
-        <polygon points={`${w},30 ${w - 26},14 ${w - 26},46`} fill={color} />
-      ) : null}
-    </svg>
-  );
+export const Arrow: React.FC<{layer: Layer}> = ({layer}) => {
+  const w=layer.w??200, h=layer.h??60;
+  const frame=useCurrentFrame();
+  const progress=interpolate(frame,[0,10],[0,1],{extrapolateLeft:"clamp",extrapolateRight:"clamp"});
+  return <svg width={w} height={h} style={{overflow:"visible"}}><InkArrow from={{x:8,y:h/2}} to={{x:w-8,y:h/2}} color={get(layer,"color",COLORS.ink)} strokeWidth={6} progress={progress}/></svg>;
 };
 
 /** Teal dot with halo — travels along the inheritance chain. */

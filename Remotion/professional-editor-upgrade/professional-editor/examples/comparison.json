@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "profile": "biy-science",
+  "audio": [],
+  "review": {
+    "visual": "pending",
+    "audio": "not-applicable",
+    "notes": [
+      "Illustrative motion study. Not a scientifically verified final; no narration is supplied."
+    ]
+  },
+  "id": "Comparison",
+  "title": "A controlled comparison",
+  "durationFrames": 300,
+  "intent": "Hold the same layout and scale so the viewer sees a changed binding-site shape, without implying measured risk.",
+  "scenes": [
+    {
+      "id": "comparison",
+      "purpose": "comparison",
+      "takeaway": "Compare one changed feature while holding other presentation variables constant.",
+      "start": {
+        "frame": 0
+      },
+      "durationFrames": 300,
+      "holdReason": "A stable split layout gives the viewer time to inspect a shape change and its conceptual consequence.",
+      "layers": [
+        {
+          "id": "brand",
+          "kind": "text",
+          "text": "BUILT INTO YOU",
+          "x": 360,
+          "y": 104,
+          "width": 400,
+          "height": 50,
+          "fontSize": 26,
+          "fill": "#167A73",
+          "align": "left",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "rule",
+          "kind": "rect",
+          "x": 960,
+          "y": 154,
+          "width": 1600,
+          "height": 2,
+          "fill": "#D1DAD8",
+          "z": 0
+        },
+        {
+          "id": "schematic",
+          "kind": "text",
+          "text": "Conceptual schematic · not to scale",
+          "x": 435,
+          "y": 967,
+          "width": 550,
+          "height": 40,
+          "fontSize": 24,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 600,
+          "z": 10
+        },
+        {
+          "id": "eyebrow",
+          "kind": "text",
+          "text": "02 / COMPARISON",
+          "x": 460,
+          "y": 213,
+          "width": 600,
+          "height": 44,
+          "fontSize": 28,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 600,
+          "z": 10
+        },
+        {
+          "id": "headline",
+          "kind": "text",
+          "text": "CHANGE ONE THING.",
+          "x": 960,
+          "y": 319,
+          "width": 1600,
+          "height": 120,
+          "fontSize": 72,
+          "fill": "#172A35",
+          "align": "center",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "left-card",
+          "kind": "rect",
+          "x": 520,
+          "y": 646,
+          "width": 720,
+          "height": 420,
+          "fill": "#FFFDF8",
+          "z": 0,
+          "radius": 24,
+          "stroke": "#D1DAD8",
+          "strokeWidth": 2
+        },
+        {
+          "id": "right-card",
+          "kind": "rect",
+          "x": 1400,
+          "y": 646,
+          "width": 720,
+          "height": 420,
+          "fill": "#FFFDF8",
+          "z": 0,
+          "radius": 24,
+          "stroke": "#D1DAD8",
+          "strokeWidth": 2
+        },
+        {
+          "id": "left-label",
+          "kind": "text",
+          "text": "REFERENCE SHAPE",
+          "x": 520,
+          "y": 478,
+          "width": 610,
+          "height": 45,
+          "fontSize": 28,
+          "fill": "#167A73",
+          "align": "center",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "right-label",
+          "kind": "text",
+          "text": "ALTERED SHAPE",
+          "x": 1400,
+          "y": 478,
+          "width": 610,
+          "height": 45,
+          "fontSize": 28,
+          "fill": "#C8614E",
+          "align": "center",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "left-cell",
+          "kind": "image",
+          "assetId": "pro-editor/cell.svg",
+          "x": 655,
+          "y": 663,
+          "width": 280,
+          "height": 280,
+          "z": 3
+        },
+        {
+          "id": "left-site",
+          "kind": "image",
+          "assetId": "pro-editor/receptor.svg",
+          "x": 13,
+          "y": 140,
+          "width": 70,
+          "height": 105,
+          "z": 4,
+          "parentId": "left-cell"
+        },
+        {
+          "id": "left-virus",
+          "kind": "image",
+          "assetId": "pro-editor/virus.svg",
+          "x": 395,
+          "y": 663,
+          "width": 92,
+          "height": 92,
+          "z": 3
+        },
+        {
+          "id": "right-cell",
+          "kind": "image",
+          "assetId": "pro-editor/cell.svg",
+          "x": 1535,
+          "y": 663,
+          "width": 280,
+          "height": 280,
+          "z": 3
+        },
+        {
+          "id": "right-site",
+          "kind": "image",
+          "assetId": "pro-editor/receptor-changed.svg",
+          "x": 13,
+          "y": 140,
+          "width": 70,
+          "height": 105,
+          "z": 4,
+          "parentId": "right-cell"
+        },
+        {
+          "id": "right-virus",
+          "kind": "image",
+          "assetId": "pro-editor/virus.svg",
+          "x": 1275,
+          "y": 663,
+          "width": 92,
+          "height": 92,
+          "z": 3
+        },
+        {
+          "id": "left-outcome",
+          "kind": "text",
+          "text": "Contact shown",
+          "x": 520,
+          "y": 824,
+          "width": 610,
+          "height": 46,
+          "fontSize": 32,
+          "fill": "#526873",
+          "align": "center",
+          "weight": 600,
+          "z": 10
+        },
+        {
+          "id": "right-outcome",
+          "kind": "text",
+          "text": "Contact does not hold",
+          "x": 1400,
+          "y": 824,
+          "width": 610,
+          "height": 46,
+          "fontSize": 32,
+          "fill": "#526873",
+          "align": "center",
+          "weight": 600,
+          "z": 10
+        }
+      ],
+      "actions": [
+        {
+          "id": "left-approach",
+          "type": "approach",
+          "subject": "left-virus",
+          "start": {
+            "frame": 45
+          },
+          "durationFrames": 64,
+          "reason": "Use matching timing to make the comparison fair.",
+          "target": "left-cell",
+          "offset": {
+            "x": -198,
+            "y": 0
+          }
+        },
+        {
+          "id": "right-approach",
+          "type": "approach",
+          "subject": "right-virus",
+          "start": {
+            "frame": 45
+          },
+          "durationFrames": 64,
+          "reason": "Use matching distance and scale across the two cases.",
+          "target": "right-cell",
+          "offset": {
+            "x": -198,
+            "y": 0
+          }
+        },
+        {
+          "id": "right-release",
+          "type": "reject",
+          "subject": "right-virus",
+          "start": {
+            "frame": 148
+          },
+          "durationFrames": 48,
+          "reason": "The differing outcome follows the differing site shape.",
+          "to": {
+            "x": 1275,
+            "y": 663
+          }
+        }
+      ]
+    }
+  ]
+}

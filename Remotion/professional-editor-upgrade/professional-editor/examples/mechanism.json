@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "profile": "biy-science",
+  "audio": [],
+  "review": {
+    "visual": "pending",
+    "audio": "not-applicable",
+    "notes": [
+      "Illustrative motion study. Not a scientifically verified final; no narration is supplied."
+    ]
+  },
+  "id": "Mechanism",
+  "title": "A mechanism explained through action",
+  "durationFrames": 360,
+  "intent": "Demonstrate modular art, parent-child attachment, purposeful approach/rejection, and continuity without automatic camera pulses.",
+  "scenes": [
+    {
+      "id": "approach",
+      "purpose": "mechanism",
+      "takeaway": "A contact attempt is visible before its result.",
+      "start": {
+        "frame": 0
+      },
+      "durationFrames": 180,
+      "holdReason": "Allow the viewer to locate the cell and follow approach; the quiet opening establishes the scene.",
+      "layers": [
+        {
+          "id": "brand",
+          "kind": "text",
+          "text": "BUILT INTO YOU",
+          "x": 360,
+          "y": 104,
+          "width": 400,
+          "height": 50,
+          "fontSize": 26,
+          "fill": "#167A73",
+          "align": "left",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "rule",
+          "kind": "rect",
+          "x": 960,
+          "y": 154,
+          "width": 1600,
+          "height": 2,
+          "fill": "#D1DAD8",
+          "z": 0
+        },
+        {
+          "id": "schematic",
+          "kind": "text",
+          "text": "Conceptual schematic Â· not to scale",
+          "x": 435,
+          "y": 967,
+          "width": 550,
+          "height": 40,
+          "fontSize": 24,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "eyebrow",
+          "kind": "text",
+          "text": "01 / MECHANISM",
+          "x": 460,
+          "y": 213,
+          "width": 600,
+          "height": 44,
+          "fontSize": 28,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "headline",
+          "kind": "text",
+          "text": "A SMALL CHANGE.\nA DIFFERENT\nOUTCOME.",
+          "x": 480,
+          "y": 412,
+          "width": 640,
+          "height": 280,
+          "fontSize": 76,
+          "fill": "#172A35",
+          "align": "left",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "body",
+          "kind": "text",
+          "text": "Show the action.\nThen show the consequence.",
+          "x": 450,
+          "y": 668,
+          "width": 580,
+          "height": 120,
+          "fontSize": 40,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "cell",
+          "kind": "image",
+          "assetId": "pro-editor/cell.svg",
+          "x": 1400,
+          "y": 555,
+          "width": 480,
+          "height": 480,
+          "z": 3
+        },
+        {
+          "id": "receptor",
+          "kind": "image",
+          "assetId": "pro-editor/receptor-changed.svg",
+          "x": 18,
+          "y": 240,
+          "width": 110,
+          "height": 166,
+          "z": 8,
+          "parentId": "cell"
+        },
+        {
+          "id": "virus",
+          "kind": "image",
+          "assetId": "pro-editor/virus.svg",
+          "x": 905,
+          "y": 555,
+          "width": 150,
+          "height": 150,
+          "z": 3
+        },
+        {
+          "id": "step",
+          "kind": "text",
+          "text": "01  Approach",
+          "x": 1185,
+          "y": 883,
+          "width": 740,
+          "height": 60,
+          "fontSize": 34,
+          "fill": "#167A73",
+          "align": "center",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "receptor-label",
+          "kind": "text",
+          "text": "Altered binding site",
+          "x": 1390,
+          "y": 257,
+          "width": 350,
+          "height": 50,
+          "fontSize": 28,
+          "fill": "#526873",
+          "align": "center",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "callout",
+          "kind": "connection",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080,
+          "fromId": "receptor",
+          "toId": "receptor-label",
+          "fromPoint": {
+            "x": 0.1,
+            "y": 0.5
+          },
+          "toPoint": {
+            "x": 0.1,
+            "y": 1
+          },
+          "stroke": "#526873",
+          "strokeWidth": 4,
+          "z": 9
+        }
+      ],
+      "actions": [
+        {
+          "id": "approach",
+          "type": "approach",
+          "subject": "virus",
+          "start": {
+            "frame": 38
+          },
+          "durationFrames": 84,
+          "reason": "Make the contact attempt legible rather than decorating the whole scene.",
+          "target": "cell",
+          "offset": {
+            "x": -330,
+            "y": 0
+          },
+          "ease": "smooth"
+        }
+      ]
+    },
+    {
+      "id": "rejection",
+      "purpose": "mechanism",
+      "takeaway": "The schematic illustrates a failed attachment, not a universal biological claim.",
+      "start": {
+        "frame": 180
+      },
+      "durationFrames": 180,
+      "holdReason": "Preserve spatial context while showing the outcome and leave time to read the caveat.",
+      "layers": [
+        {
+          "id": "step",
+          "kind": "text",
+          "text": "02  No attachment",
+          "x": 1185,
+          "y": 883,
+          "width": 740,
+          "height": 60,
+          "fontSize": 34,
+          "fill": "#C8614E",
+          "align": "center",
+          "weight": 400,
+          "z": 10
+        },
+        {
+          "id": "body",
+          "kind": "text",
+          "text": "In this schematic,\nthe contact does not hold.",
+          "x": 450,
+          "y": 668,
+          "width": 580,
+          "height": 120,
+          "fontSize": 40,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 400,
+          "z": 10
+        }
+      ],
+      "actions": [
+        {
+          "id": "release",
+          "type": "reject",
+          "subject": "virus",
+          "start": {
+            "frame": 16
+          },
+          "durationFrames": 56,
+          "reason": "Separate the subjects to explain the failed contact.",
+          "to": {
+            "x": 920,
+            "y": 555
+          },
+          "ease": "out"
+        },
+        {
+          "id": "site-emphasis",
+          "type": "emphasize",
+          "subject": "receptor",
+          "start": {
+            "frame": 10
+          },
+          "durationFrames": 34,
+          "reason": "One restrained emphasis locates the changed binding site.",
+          "amount": 1.035
+        }
+      ],
+      "carryFrom": "approach"
+    }
+  ]
+}
