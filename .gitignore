@@ -20,7 +20,6 @@ Thumbs.db
 /merge-backup-*/
 
 # Separate upstream checkout; manage/commit it in its own repository.
-/hyperframes/
 
 # Episode media stays local. Keep shared fonts in source control.
 /Remotion/public/*
