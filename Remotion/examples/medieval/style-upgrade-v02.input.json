@@ -1,0 +1,24 @@
+{
+  "episode": {
+    "id": "style-upgrade-technical-v02", "version":"2", "scriptVersion":"technical-fixture-not-an-episode", "planVersion":"2",
+    "timingBasis":"estimated", "durationInFrames":180, "assets":[], "audio":[],
+    "words":[
+      {"text":"prepare","startMs":800,"endMs":1000}, {"text":"action","startMs":1400,"endMs":1600},
+      {"text":"land","startMs":2000,"endMs":2200}, {"text":"result","startMs":3000,"endMs":3250},
+      {"text":"camera","startMs":3500,"endMs":3700}, {"text":"reframe","startMs":4500,"endMs":4750}
+    ],
+    "shots":[{
+      "id":"S001", "fromFrame":0,
+      "note":"Shapes only. Synthetic word map, not voice alignment or C acting.",
+      "camera":{"reason":"Test world movement while screen labels stay fixed.","keyframes":[{"frame":0,"scale":1},{"at":"camera","scale":1},{"at":"reframe","scale":1.08,"x":-50}]},
+      "layers":[
+        {"id":"title","kind":"text","space":"screen","text":"MOTION + CUE STUDY","textRole":"headline","x":960,"y":160,"width":1500,"height":150},
+        {"id":"action-group","kind":"group","x":960,"y":530,"width":800,"height":440,"pivotX":0.5,"pivotY":1,"keyframes":[{"frame":0,"rotate":0},{"at":"prepare","rotate":-4},{"at":"action","rotate":2},{"at":"land","rotate":0}]},
+        {"id":"surface","kind":"rect","parentId":"action-group","x":400,"y":390,"width":700,"height":15,"color":"#30291F"},
+        {"id":"object","kind":"rect","parentId":"action-group","x":210,"y":300,"width":100,"height":100,"color":"#526F86","pivotX":0.5,"pivotY":1,"keyframes":[{"frame":0,"x":210,"y":300},{"at":"prepare","x":185,"rotate":-8},{"at":"action","x":450,"y":210,"rotate":8,"easing":"ease-out"},{"at":"land","x":570,"y":332,"rotate":0,"easing":"ease-in"},{"at":"land","offsetFrames":12,"y":340}]},
+        {"id":"result","kind":"text","space":"screen","text":"Result revealed on cue","textRole":"keyLabel","at":"result","x":960,"y":790,"width":1500,"height":110,"enter":"fade","enterFrames":8},
+        {"id":"scope","kind":"text","space":"screen","text":"Technical fixture • no C acting or audio mix","textRole":"scopeNote","x":960,"y":890,"width":1600,"height":80}
+      ]
+    }]
+  }
+}

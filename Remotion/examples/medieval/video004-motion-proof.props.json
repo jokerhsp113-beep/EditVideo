@@ -1,0 +1,132 @@
+{
+  "episode": {
+    "scriptVersion": "V06",
+    "audio": [],
+    "words": [],
+    "width": 1920,
+    "height": 1080,
+    "planVersion": "3-draft",
+    "shots": [
+      {
+        "id": "motion-1",
+        "fromFrame": 0,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "z": 1,
+            "color": "#3A302B",
+            "kind": "native",
+            "y": 540,
+            "height": 850,
+            "nativeId": "N_RUSH_PROCESS",
+            "x": 960,
+            "text": "RUSH|HOLDER",
+            "id": "N_RUSH_PROCESS",
+            "width": 1500
+          }
+        ]
+      },
+      {
+        "id": "motion-2",
+        "fromFrame": 90,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "z": 1,
+            "color": "#3A302B",
+            "kind": "native",
+            "y": 540,
+            "height": 850,
+            "nativeId": "N_FORGE_SOUND",
+            "x": 960,
+            "text": "WORK|REST",
+            "id": "N_FORGE_SOUND",
+            "width": 1500
+          }
+        ]
+      },
+      {
+        "id": "motion-3",
+        "fromFrame": 180,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "z": 1,
+            "color": "#3A302B",
+            "kind": "native",
+            "y": 540,
+            "height": 850,
+            "nativeId": "N_CARE_TIME",
+            "x": 960,
+            "text": "HOME|PAID WORK ENDS|REST",
+            "id": "N_CARE_TIME",
+            "width": 1500
+          }
+        ]
+      },
+      {
+        "id": "motion-4",
+        "fromFrame": 270,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "z": 1,
+            "color": "#3A302B",
+            "kind": "native",
+            "y": 540,
+            "height": 850,
+            "nativeId": "N_WATCH_DUTY",
+            "x": 960,
+            "text": "WATCHING",
+            "id": "N_WATCH_DUTY",
+            "width": 1500
+          }
+        ]
+      },
+      {
+        "id": "motion-5",
+        "fromFrame": 360,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "z": 1,
+            "color": "#3A302B",
+            "kind": "native",
+            "y": 540,
+            "height": 850,
+            "nativeId": "N_MUSIC_SWAP",
+            "x": 960,
+            "text": "WORKPLACE|GATHERING",
+            "id": "N_MUSIC_SWAP",
+            "width": 1500
+          }
+        ]
+      },
+      {
+        "id": "motion-6",
+        "fromFrame": 450,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "z": 1,
+            "color": "#3A302B",
+            "kind": "native",
+            "y": 540,
+            "height": 850,
+            "nativeId": "N_CONDITION_GATE",
+            "x": 960,
+            "text": "WHEN NECESSARY|WARD DUTY|RULE ≠ PROOF",
+            "id": "N_CONDITION_GATE",
+            "width": 1500
+          }
+        ]
+      }
+    ],
+    "timingBasis": "estimated",
+    "version": "1",
+    "fps": 30,
+    "id": "video004-motion-proof",
+    "assets": [],
+    "durationInFrames": 540
+  }
+}

@@ -1,0 +1,10 @@
+import path from 'node:path';
+import {bundle} from '@remotion/bundler';
+import {selectComposition,renderStill} from '@remotion/renderer';
+const root=path.resolve(import.meta.dirname,'../..');
+const engine=path.join(root,'professional-editor-upgrade/professional-editor');
+const output=path.join(engine,'output/visual-refresh');
+const serveUrl=await bundle({entryPoint:path.join(engine,'reports/audit-20261013/AuditFixtures.tsx'),rootDir:root,publicDir:path.join(root,'public'),outDir:path.join(output,'opacity-bundle')});
+const composition=await selectComposition({serveUrl,id:'AuditConnection'});
+await renderStill({serveUrl,composition,frame:0,imageFormat:'png',output:path.join(output,'connection-opacity-after.png'),overwrite:true});
+console.log('Hidden connection rendered for comparison with the failing audit baseline.');

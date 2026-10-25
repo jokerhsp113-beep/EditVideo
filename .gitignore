@@ -1,0 +1,34 @@
+# Reinstallable dependencies and generated caches
+node_modules/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.cache/
+coverage/
+*.log
+
+# Local secrets (keep distributable examples)
+.env
+.env.*
+!.env.example
+!.env.*.example
+Thumbs.db
+.DS_Store
+
+# Local recovery copies, never source releases
+/_cleanup_review/
+/merge-backup-*/
+
+# Separate upstream checkout; manage/commit it in its own repository.
+/hyperframes/
+
+# Episode media stays local. Keep shared fonts in source control.
+/Remotion/public/*
+!/Remotion/public/fonts/
+/Remotion/professional-editor-upgrade/public/
+
+# Generated render/build artifacts
+/Remotion/out/
+/Remotion/dist/
+/Remotion/professional-editor-upgrade/professional-editor/output/
+/Remotion/professional-editor-upgrade/professional-editor/reports/

@@ -1,0 +1,3178 @@
+{
+  "episode": {
+    "id": "video004-animatic-v01",
+    "version": "animatic-v01",
+    "scriptVersion": "V06",
+    "planVersion": "V04",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 13745,
+    "timingBasis": "estimated",
+    "words": [],
+    "assets": [
+      {
+        "id": "HOME_LIGHT_MATERIALS",
+        "file": "medieval/video004-animatic-v01/HOME_LIGHT_MATERIALS_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BG_SHOP",
+        "file": "medieval/video004-animatic-v01/BG_SHOP_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_PUTDOWN",
+        "file": "medieval/video004-animatic-v01/C_PUTDOWN_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_LOOK_SUN",
+        "file": "medieval/video004-animatic-v01/C_LOOK_SUN_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_HOPE",
+        "file": "medieval/video004-animatic-v01/C_HOPE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BOWL_TABLE_USE",
+        "file": "medieval/video004-animatic-v01/BOWL_TABLE_USE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_COMPARE",
+        "file": "medieval/video004-animatic-v01/C_COMPARE_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "PEWTER_WORKBENCH_DUSK",
+        "file": "medieval/video004-animatic-v01/PEWTER_WORKBENCH_DUSK_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "CARE_CRADLE_CLOSE",
+        "file": "medieval/video004-animatic-v01/CARE_CRADLE_CLOSE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "MUSIC_INDOOR_GROUP",
+        "file": "medieval/video004-animatic-v01/MUSIC_INDOOR_GROUP_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "PROP_RUSH_PREPARED",
+        "file": "medieval/video004-animatic-v01/PROP_RUSH_PREPARED_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "RUSHLIGHT_LIT_CLOSE",
+        "file": "medieval/video004-animatic-v01/RUSHLIGHT_LIT_CLOSE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_LOOK_RUSH",
+        "file": "medieval/video004-animatic-v01/C_LOOK_RUSH_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_INGREDIENTS",
+        "file": "medieval/video004-animatic-v01/C_INGREDIENTS_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_RUSH_GRIP",
+        "file": "medieval/video004-animatic-v01/C_RUSH_GRIP_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "PROP_TALLOW",
+        "file": "medieval/video004-animatic-v01/PROP_TALLOW_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "PROP_BEESWAX",
+        "file": "medieval/video004-animatic-v01/PROP_BEESWAX_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BOWL_WORKER_INSPECT",
+        "file": "medieval/video004-animatic-v01/BOWL_WORKER_INSPECT_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "PEWTER_TASK_STOP_CLOSE",
+        "file": "medieval/video004-animatic-v01/PEWTER_TASK_STOP_CLOSE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_RULE_PROUD",
+        "file": "medieval/video004-animatic-v01/C_RULE_PROUD_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "FORGE_STRIKE_CLOSE",
+        "file": "medieval/video004-animatic-v01/FORGE_STRIKE_CLOSE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "FORGE_NEIGHBOUR_LISTEN",
+        "file": "medieval/video004-animatic-v01/FORGE_NEIGHBOUR_LISTEN_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "FORGE_SMOKE_ROOM",
+        "file": "medieval/video004-animatic-v01/FORGE_SMOKE_ROOM_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BG_FORGE",
+        "file": "medieval/video004-animatic-v01/BG_FORGE_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_NOISE_REACT",
+        "file": "medieval/video004-animatic-v01/C_NOISE_REACT_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_LIGHT_ON",
+        "file": "medieval/video004-animatic-v01/C_LIGHT_ON_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BG_CARE",
+        "file": "medieval/video004-animatic-v01/BG_CARE_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "CARE_A",
+        "file": "medieval/video004-animatic-v01/CARE_A_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "CARE_B",
+        "file": "medieval/video004-animatic-v01/CARE_B_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_SERIOUS",
+        "file": "medieval/video004-animatic-v01/C_SERIOUS_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_NEUTRAL",
+        "file": "medieval/video004-animatic-v01/C_NEUTRAL_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_LISTEN",
+        "file": "medieval/video004-animatic-v01/C_LISTEN_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BG_STREET",
+        "file": "medieval/video004-animatic-v01/BG_STREET_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "MUSIC_COMPANIONS",
+        "file": "medieval/video004-animatic-v01/MUSIC_COMPANIONS_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_HARP_REALISE",
+        "file": "medieval/video004-animatic-v01/C_HARP_REALISE_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "BG_MEADOW",
+        "file": "medieval/video004-animatic-v01/BG_MEADOW_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_POINT_MEADOW",
+        "file": "medieval/video004-animatic-v01/C_POINT_MEADOW_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_LIGHT",
+        "file": "medieval/video004-animatic-v01/C_LIGHT_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_LIGHT_QUERY",
+        "file": "medieval/video004-animatic-v01/C_LIGHT_QUERY_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "TAVERN_CLOSE_DOOR",
+        "file": "medieval/video004-animatic-v01/TAVERN_CLOSE_DOOR_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "TAVERN_DOOR_CLOSED",
+        "file": "medieval/video004-animatic-v01/TAVERN_DOOR_CLOSED_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      },
+      {
+        "id": "C_CHECK_SELF",
+        "file": "medieval/video004-animatic-v01/C_CHECK_SELF_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "Video004 review animatic"
+      }
+    ],
+    "audio": [
+      {
+        "id": "Audio001",
+        "file": "medieval/video004-animatic-v01/Audio001.mp3",
+        "role": "voice",
+        "fromFrame": 0,
+        "durationFrames": 13745,
+        "trimBeforeFrames": 0,
+        "volume": 1,
+        "fadeFrames": 0,
+        "loop": false,
+        "rights": "unresolved"
+      }
+    ],
+    "shots": [
+      {
+        "id": "S001-B01",
+        "fromFrame": 0,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-HOME_LIGHT_MATERIALS-0-0",
+            "kind": "image",
+            "assetId": "HOME_LIGHT_MATERIALS",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nhận ra điều kiện để có light"
+      },
+      {
+        "id": "S001-B02",
+        "fromFrame": 185,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_PUTDOWN-2-0",
+            "kind": "image",
+            "assetId": "C_PUTDOWN",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C muốn được nghỉ"
+      },
+      {
+        "id": "S002-B01",
+        "fromFrame": 244,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LOOK_SUN-2-0",
+            "kind": "image",
+            "assetId": "C_LOOK_SUN",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_SUN-3-8",
+            "kind": "native",
+            "nativeId": "N_SUN",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C hy vọng sun quyết định giờ nghỉ"
+      },
+      {
+        "id": "S002-B02",
+        "fromFrame": 361,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_HOPE-2-0",
+            "kind": "image",
+            "assetId": "C_HOPE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_SUN-3-8",
+            "kind": "native",
+            "nativeId": "N_SUN",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Câu đùa nhờ sự bất động"
+      },
+      {
+        "id": "S003-B01",
+        "fromFrame": 430,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_HOPE-2-0",
+            "kind": "image",
+            "assetId": "C_HOPE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_RELATION-3-8",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "LESS LIGHT|MORE FREE TIME?",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Mong muốn work-life balance"
+      },
+      {
+        "id": "S003-B02",
+        "fromFrame": 605,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BOWL_TABLE_USE-0-0",
+            "kind": "image",
+            "assetId": "BOWL_TABLE_USE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Một task có thể dừng"
+      },
+      {
+        "id": "S003-B03",
+        "fromFrame": 683,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_COMPARE-2-0",
+            "kind": "image",
+            "assetId": "C_COMPARE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_RELATION-3-8",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "TASK STOPS|TIME IS YOURS?",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Giờ riêng chưa được bảo đảm"
+      },
+      {
+        "id": "S004-B01",
+        "fromFrame": 791,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-PEWTER_WORKBENCH_DUSK-0-0",
+            "kind": "image",
+            "assetId": "PEWTER_WORKBENCH_DUSK",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Những lý do thức khác nhau"
+      },
+      {
+        "id": "S004-B02",
+        "fromFrame": 1103,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-CARE_CRADLE_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "CARE_CRADLE_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hứa có pleasure cụ thể"
+      },
+      {
+        "id": "S004-B03",
+        "fromFrame": 1240,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C chuyển mục tiêu về light"
+      },
+      {
+        "id": "S005-B01",
+        "fromFrame": 1357,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-HOME_LIGHT_MATERIALS-0-0",
+            "kind": "image",
+            "assetId": "HOME_LIGHT_MATERIALS",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Vật liệu trước cơ chế"
+      },
+      {
+        "id": "S005-B02",
+        "fromFrame": 1406,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RUSH_PROCESS-2-0",
+            "kind": "native",
+            "nativeId": "N_RUSH_PROCESS",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "RUSH|FAT|HOLDER"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Chuẩn bị rush"
+      },
+      {
+        "id": "S005-B03",
+        "fromFrame": 1494,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-PROP_RUSH_PREPARED-2-0",
+            "kind": "image",
+            "assetId": "PROP_RUSH_PREPARED",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Giữ đúng contact"
+      },
+      {
+        "id": "S005-B04",
+        "fromFrame": 1581,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-RUSHLIGHT_LIT_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "RUSHLIGHT_LIT_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Đổi vị trí theo cháy xuống"
+      },
+      {
+        "id": "S006-B01",
+        "fromFrame": 1679,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LOOK_RUSH-2-0",
+            "kind": "image",
+            "assetId": "C_LOOK_RUSH",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C nhận ra đã có light"
+      },
+      {
+        "id": "S006-B02",
+        "fromFrame": 1728,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_INGREDIENTS-2-0",
+            "kind": "image",
+            "assetId": "C_INGREDIENTS",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_RUSH_PROCESS-3-8",
+            "kind": "native",
+            "nativeId": "N_RUSH_PROCESS",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "RUSH|FAT|HOLDER",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Các thành phần tạo công sức"
+      },
+      {
+        "id": "S006-B03",
+        "fromFrame": 1943,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_RUSH_GRIP-2-0",
+            "kind": "image",
+            "assetId": "C_RUSH_GRIP",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_LIGHT_FX-3-8",
+            "kind": "native",
+            "nativeId": "N_LIGHT_FX",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Reaction khi hiểu công sức"
+      },
+      {
+        "id": "S007-B01",
+        "fromFrame": 2001,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-RUSHLIGHT_LIT_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "RUSHLIGHT_LIT_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Điều kiện sử dụng khác nhau"
+      },
+      {
+        "id": "S007-B02",
+        "fromFrame": 2118,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-PROP_TALLOW-2-0",
+            "kind": "image",
+            "assetId": "PROP_TALLOW",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Một vật liệu khác"
+      },
+      {
+        "id": "S007-B03",
+        "fromFrame": 2236,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-PROP_BEESWAX-2-0",
+            "kind": "image",
+            "assetId": "PROP_BEESWAX",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Means và lựa chọn"
+      },
+      {
+        "id": "S007-B04",
+        "fromFrame": 2323,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_COMPARE-2-0",
+            "kind": "image",
+            "assetId": "C_COMPARE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_SCOPE-3-8",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "DIFFERENT MATERIALS|DIFFERENT ACCESS",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C tự sửa hình dung"
+      },
+      {
+        "id": "S008-B01",
+        "fromFrame": 2597,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BOWL_TABLE_USE-0-0",
+            "kind": "image",
+            "assetId": "BOWL_TABLE_USE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nhận biết vật"
+      },
+      {
+        "id": "S008-B02",
+        "fromFrame": 2665,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BOWL_WORKER_INSPECT-0-0",
+            "kind": "image",
+            "assetId": "BOWL_WORKER_INSPECT",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nhu cầu thao tác khác"
+      },
+      {
+        "id": "S009-B01",
+        "fromFrame": 2782,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-PEWTER_WORKBENCH_DUSK-0-0",
+            "kind": "image",
+            "assetId": "PEWTER_WORKBENCH_DUSK",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nghề và chất liệu"
+      },
+      {
+        "id": "S009-B02",
+        "fromFrame": 2890,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RULE-2-0",
+            "kind": "native",
+            "nativeId": "N_RULE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "LONDON PEWTERERS|1348 RULE|DAYLIGHT"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Luật nghề có thời điểm"
+      },
+      {
+        "id": "S009-B03",
+        "fromFrame": 2997,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BOWL_WORKER_INSPECT-0-0",
+            "kind": "image",
+            "assetId": "BOWL_WORKER_INSPECT",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Lý do thị giác"
+      },
+      {
+        "id": "S009-B04",
+        "fromFrame": 3114,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-PEWTER_TASK_STOP_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "PEWTER_TASK_STOP_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hệ quả có thể dừng"
+      },
+      {
+        "id": "S009-B05",
+        "fromFrame": 3290,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_RULE_PROUD-2-0",
+            "kind": "image",
+            "assetId": "C_RULE_PROUD",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_RELATION-3-8",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "ONE CRAFT TASK|NOT ALL NIGHT WORK",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C diễn ý viện quy tắc"
+      },
+      {
+        "id": "S010-B01",
+        "fromFrame": 3602,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_STRIKE_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "FORGE_STRIKE_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Từ task cá nhân sang hàng xóm"
+      },
+      {
+        "id": "S010-B02",
+        "fromFrame": 3710,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_FORGE_SOUND-2-0",
+            "kind": "native",
+            "nativeId": "N_FORGE_SOUND",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "FORGE|NEIGHBOUR"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Định vị complaint"
+      },
+      {
+        "id": "S010-B03",
+        "fromFrame": 3905,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_NEIGHBOUR_LISTEN-0-0",
+            "kind": "image",
+            "assetId": "FORGE_NEIGHBOUR_LISTEN",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Thao tác và tiếng động"
+      },
+      {
+        "id": "S010-B04",
+        "fromFrame": 4081,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_SMOKE_ROOM-0-0",
+            "kind": "image",
+            "assetId": "FORGE_SMOKE_ROOM",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C hình dung hậu quả"
+      },
+      {
+        "id": "S010-B05",
+        "fromFrame": 4315,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_FORGE-0-0",
+            "kind": "image",
+            "assetId": "BG_FORGE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_NOISE_REACT-2-0",
+            "kind": "image",
+            "assetId": "C_NOISE_REACT",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Đối chiếu work với vật xong"
+      },
+      {
+        "id": "S011-B01",
+        "fromFrame": 4403,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_NEIGHBOUR_LISTEN-0-0",
+            "kind": "image",
+            "assetId": "FORGE_NEIGHBOUR_LISTEN",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Tiếp tục đúng lời complaint"
+      },
+      {
+        "id": "S011-B02",
+        "fromFrame": 4500,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_SMOKE_ROOM-0-0",
+            "kind": "image",
+            "assetId": "FORGE_SMOKE_ROOM",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hậu quả lan vào rooms"
+      },
+      {
+        "id": "S011-B03",
+        "fromFrame": 4578,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_HOUSE-2-0",
+            "kind": "native",
+            "nativeId": "N_HOUSE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "FORGE|NEIGHBOUR"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Giới hạn của đóng cửa"
+      },
+      {
+        "id": "S012-B01",
+        "fromFrame": 4696,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_STRIKE_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "FORGE_STRIKE_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nhìn phía người làm nghề"
+      },
+      {
+        "id": "S012-B02",
+        "fromFrame": 4910,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "CRAFTSMEN ARGUED|NOT COURT FINDING"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C nhận nhu cầu sinh kế"
+      },
+      {
+        "id": "S012-B03",
+        "fromFrame": 5008,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_FORGE-0-0",
+            "kind": "image",
+            "assetId": "BG_FORGE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_COMPARE-2-0",
+            "kind": "image",
+            "assetId": "C_COMPARE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C bị kéo lại bởi tiếng động"
+      },
+      {
+        "id": "S013-B01",
+        "fromFrame": 5223,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_NEIGHBOUR_LISTEN-0-0",
+            "kind": "image",
+            "assetId": "FORGE_NEIGHBOUR_LISTEN",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Cùng neighbourhood hai nhu cầu"
+      },
+      {
+        "id": "S013-B02",
+        "fromFrame": 5340,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-FORGE_SMOKE_ROOM-0-0",
+            "kind": "image",
+            "assetId": "FORGE_SMOKE_ROOM",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Tắt light không dừng hammer"
+      },
+      {
+        "id": "S013-B03",
+        "fromFrame": 5447,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LIGHT_ON-2-0",
+            "kind": "image",
+            "assetId": "C_LIGHT_ON",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Reaction phụ thuộc người khác"
+      },
+      {
+        "id": "S013-B04",
+        "fromFrame": 5662,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-CARE_CRADLE_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "CARE_CRADLE_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Chuyển gần hơn vào nhà"
+      },
+      {
+        "id": "S014-B01",
+        "fromFrame": 5740,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-CARE_CRADLE_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "CARE_CRADLE_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Literary scope trước tái dựng"
+      },
+      {
+        "id": "S014-B02",
+        "fromFrame": 5916,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_CARE-0-0",
+            "kind": "image",
+            "assetId": "BG_CARE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-CARE_A-2-0",
+            "kind": "image",
+            "assetId": "CARE_A",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Quan hệ công việc và chi phí"
+      },
+      {
+        "id": "S014-B03",
+        "fromFrame": 6013,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "PIERS PLOWMAN|POEM, NOT CENSUS"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Cho thông tin nghiêm túc đủ chỗ"
+      },
+      {
+        "id": "S015-B01",
+        "fromFrame": 6062,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-CARE_CRADLE_CLOSE-0-0",
+            "kind": "image",
+            "assetId": "CARE_CRADLE_CLOSE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Care giữa đêm"
+      },
+      {
+        "id": "S015-B02",
+        "fromFrame": 6160,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_CARE-0-0",
+            "kind": "image",
+            "assetId": "BG_CARE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-CARE_A-2-0",
+            "kind": "image",
+            "assetId": "CARE_A",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Vị trí interruption gần chỗ nghỉ"
+      },
+      {
+        "id": "S015-B03",
+        "fromFrame": 6423,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_CARE-0-0",
+            "kind": "image",
+            "assetId": "BG_CARE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-CARE_B-2-0",
+            "kind": "image",
+            "assetId": "CARE_B",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Giới hạn đoạn thơ"
+      },
+      {
+        "id": "S015-B04",
+        "fromFrame": 6570,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_CARE-0-0",
+            "kind": "image",
+            "assetId": "BG_CARE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_SERIOUS-2-0",
+            "kind": "image",
+            "assetId": "C_SERIOUS",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_CARE_TIME-3-8",
+            "kind": "native",
+            "nativeId": "N_CARE_TIME",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "WORK|NIGHT CARE|REST",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Ba thời điểm khác nhau"
+      },
+      {
+        "id": "S016-B01",
+        "fromFrame": 6707,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_NEUTRAL-2-0",
+            "kind": "image",
+            "assetId": "C_NEUTRAL",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_MUSIC_SWAP-3-8",
+            "kind": "native",
+            "nativeId": "N_MUSIC_SWAP",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "WORKPLACE|GATHERING",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Không chỉ một đêm gian khổ"
+      },
+      {
+        "id": "S016-B02",
+        "fromFrame": 6863,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Định hướng pleasure"
+      },
+      {
+        "id": "S017-B01",
+        "fromFrame": 6912,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Địa điểm và dịp lễ cụ thể"
+      },
+      {
+        "id": "S017-B02",
+        "fromFrame": 7175,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "OXFORD|1306 INQUEST"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hoạt động vui trong shop"
+      },
+      {
+        "id": "S017-B03",
+        "fromFrame": 7302,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C thay cách hiểu shop"
+      },
+      {
+        "id": "S017-B04",
+        "fromFrame": 7439,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LISTEN-2-0",
+            "kind": "image",
+            "assetId": "C_LISTEN",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_MUSIC_SWAP-3-8",
+            "kind": "native",
+            "nativeId": "N_MUSIC_SWAP",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "text": "TAILORS|MUSIC",
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Kết quả enjoyment together"
+      },
+      {
+        "id": "S018-B01",
+        "fromFrame": 7527,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Từ shop ra street"
+      },
+      {
+        "id": "S018-B02",
+        "fromFrame": 7653,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-MUSIC_COMPANIONS-2-0",
+            "kind": "image",
+            "assetId": "MUSIC_COMPANIONS",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C đoán sai rồi thấy nhạc cụ"
+      },
+      {
+        "id": "S018-B03",
+        "fromFrame": 7819,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_HARP_REALISE-2-0",
+            "kind": "image",
+            "assetId": "C_HARP_REALISE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Payoff misunderstanding"
+      },
+      {
+        "id": "S019-B01",
+        "fromFrame": 7917,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-MUSIC_COMPANIONS-2-0",
+            "kind": "image",
+            "assetId": "MUSIC_COMPANIONS",
+            "x": 930,
+            "y": 570,
+            "width": 1050,
+            "height": 930,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Kỳ vọng đường vắng"
+      },
+      {
+        "id": "S019-B02",
+        "fromFrame": 8024,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "THEY EXPECTED|AN EMPTY STREET"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Một nhóm không phải cả town"
+      },
+      {
+        "id": "S019-B03",
+        "fromFrame": 8210,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LISTEN-2-0",
+            "kind": "image",
+            "assetId": "C_LISTEN",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C tự nghĩ về âm thanh"
+      },
+      {
+        "id": "S019-B04",
+        "fromFrame": 8327,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RELATION-2-0",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "ONE GROUP|NOT A WHOLE TOWN"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Không thành routine mỗi tối"
+      },
+      {
+        "id": "S020-B01",
+        "fromFrame": 8493,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_SERIOUS-2-0",
+            "kind": "image",
+            "assetId": "C_SERIOUS",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Dừng mood vui trước hậu quả"
+      },
+      {
+        "id": "S020-B02",
+        "fromFrame": 8688,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "INQUEST|LATER VIOLENCE"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Vì sao hồ sơ còn lại"
+      },
+      {
+        "id": "S020-B03",
+        "fromFrame": 8942,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Case mới riêng biệt"
+      },
+      {
+        "id": "S021-B01",
+        "fromFrame": 9108,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Ai và công việc cho ai"
+      },
+      {
+        "id": "S021-B02",
+        "fromFrame": 9176,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_POINT_MEADOW-2-0",
+            "kind": "image",
+            "assetId": "C_POINT_MEADOW",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Quan sát tài sản là việc"
+      },
+      {
+        "id": "S021-B03",
+        "fromFrame": 9459,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_WATCH_DUTY-2-0",
+            "kind": "native",
+            "nativeId": "N_WATCH_DUTY",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "WATCHING MEADOWS"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hết ca rồi quay về"
+      },
+      {
+        "id": "S021-B04",
+        "fromFrame": 9567,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C sửa liên tưởng field work"
+      },
+      {
+        "id": "S021-B05",
+        "fromFrame": 9674,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RELATION-2-0",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "FESTIVAL NIGHT|NIGHT DUTY"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Chốt watching khác gathering"
+      },
+      {
+        "id": "S022-B01",
+        "fromFrame": 9782,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hai hoạt động đặt cạnh nhau"
+      },
+      {
+        "id": "S022-B02",
+        "fromFrame": 9889,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RELATION-2-0",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "MUSIC|WATCHING"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nhận ra cùng lúc khác mục đích"
+      },
+      {
+        "id": "S023-B01",
+        "fromFrame": 9977,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Hậu quả và phạm vi record"
+      },
+      {
+        "id": "S023-B02",
+        "fromFrame": 10153,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "INQUEST RECORD|ONE PERSON'S MOVEMENTS"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Không đo mọi field workers"
+      },
+      {
+        "id": "S023-B03",
+        "fromFrame": 10387,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_MEADOW-0-0",
+            "kind": "image",
+            "assetId": "BG_MEADOW",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_NEUTRAL-2-0",
+            "kind": "image",
+            "assetId": "C_NEUTRAL",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Câu hỏi đi lại"
+      },
+      {
+        "id": "S024-B01",
+        "fromFrame": 10602,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LIGHT-2-0",
+            "kind": "image",
+            "assetId": "C_LIGHT",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Về London với rule riêng"
+      },
+      {
+        "id": "S024-B02",
+        "fromFrame": 10758,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RULE-2-0",
+            "kind": "native",
+            "nativeId": "N_RULE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "LONDON CURFEW|CONDITIONAL TRAVEL"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Ngoại lệ có các điều kiện"
+      },
+      {
+        "id": "S025-B01",
+        "fromFrame": 10992,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LIGHT_QUERY-2-0",
+            "kind": "image",
+            "assetId": "C_LIGHT_QUERY",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Ba điều kiện có thể nhớ"
+      },
+      {
+        "id": "S025-B02",
+        "fromFrame": 11060,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_CONDITION_GATE-2-0",
+            "kind": "native",
+            "nativeId": "N_CONDITION_GATE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "LIGHT|REASON|REPUTATION"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C kiểm cái mình có"
+      },
+      {
+        "id": "S025-B03",
+        "fromFrame": 11109,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LIGHT_QUERY-2-0",
+            "kind": "image",
+            "assetId": "C_LIGHT_QUERY",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Payoff reputation"
+      },
+      {
+        "id": "S026-B01",
+        "fromFrame": 11187,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_CONDITION_GATE-2-0",
+            "kind": "native",
+            "nativeId": "N_CONDITION_GATE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "LIGHT|REASON|REPUTATION"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Ranh giới awake và wander"
+      },
+      {
+        "id": "S026-B02",
+        "fromFrame": 11314,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RELATION-2-0",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "AWAKE|ALLOWED OUT?"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Một điều kiện chưa đủ"
+      },
+      {
+        "id": "S027-B01",
+        "fromFrame": 11451,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-TAVERN_CLOSE_DOOR-0-0",
+            "kind": "image",
+            "assetId": "TAVERN_CLOSE_DOOR",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Regulation về tavern"
+      },
+      {
+        "id": "S027-B02",
+        "fromFrame": 11695,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-TAVERN_DOOR_CLOSED-0-0",
+            "kind": "image",
+            "assetId": "TAVERN_DOOR_CLOSED",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Mong ngồi nghỉ gặp trở ngại"
+      },
+      {
+        "id": "S028-B01",
+        "fromFrame": 11841,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-TAVERN_DOOR_CLOSED-0-0",
+            "kind": "image",
+            "assetId": "TAVERN_DOOR_CLOSED",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Nightwatch khi cần"
+      },
+      {
+        "id": "S028-B02",
+        "fromFrame": 11929,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_WATCH_DUTY-2-0",
+            "kind": "native",
+            "nativeId": "N_WATCH_DUTY",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "WARD WATCH WHEN NECESSARY"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Con người làm duty"
+      },
+      {
+        "id": "S028-B03",
+        "fromFrame": 12056,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RULE-2-0",
+            "kind": "native",
+            "nativeId": "N_RULE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "RULE|NOT PROOF OF COMPLIANCE"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Quiet cần người thức"
+      },
+      {
+        "id": "S028-B04",
+        "fromFrame": 12212,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Normative khác observed compliance"
+      },
+      {
+        "id": "S028-B05",
+        "fromFrame": 12388,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_STREET-0-0",
+            "kind": "image",
+            "assetId": "BG_STREET",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RELATION-2-0",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "LONDON RULES|OXFORD EVENT"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Đổi địa phương/dịp rõ ràng"
+      },
+      {
+        "id": "S029-B01",
+        "fromFrame": 12495,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BOWL_TABLE_USE-0-0",
+            "kind": "image",
+            "assetId": "BOWL_TABLE_USE",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Trả central question"
+      },
+      {
+        "id": "S029-B02",
+        "fromFrame": 12574,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_COMPARE-2-0",
+            "kind": "image",
+            "assetId": "C_COMPARE",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Giới hạn thật cho task"
+      },
+      {
+        "id": "S029-B03",
+        "fromFrame": 12691,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RELATION-2-0",
+            "kind": "native",
+            "nativeId": "N_RELATION",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "LESS LIGHT|NOT ALWAYS LEISURE"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Không tính được giờ riêng từ bóng tối"
+      },
+      {
+        "id": "S030-B01",
+        "fromFrame": 12818,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_RECAP-2-0",
+            "kind": "native",
+            "nativeId": "N_RECAP",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "CARE|WATCH|FORGE|MUSIC"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Các nghĩa vụ khác nhau"
+      },
+      {
+        "id": "S030-B02",
+        "fromFrame": 13023,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-MUSIC_INDOOR_GROUP-0-0",
+            "kind": "image",
+            "assetId": "MUSIC_INDOOR_GROUP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Chọn pleasure cũng có thật"
+      },
+      {
+        "id": "S031-B01",
+        "fromFrame": 13198,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "diagram-wash",
+            "kind": "rect",
+            "x": 960,
+            "y": 540,
+            "width": 1640,
+            "height": 930,
+            "z": 1,
+            "color": "#F4EDE1EE"
+          },
+          {
+            "id": "native-N_SCOPE-2-0",
+            "kind": "native",
+            "nativeId": "N_SCOPE",
+            "x": 960,
+            "y": 540,
+            "width": 1360,
+            "height": 800,
+            "z": 2,
+            "text": "CASES, NOT A COUNT OF EVERYONE"
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Giới hạn so sánh tổng leisure"
+      },
+      {
+        "id": "S031-B02",
+        "fromFrame": 13335,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_NEUTRAL-2-0",
+            "kind": "image",
+            "assetId": "C_NEUTRAL",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Điều các case thực sự giúp hiểu"
+      },
+      {
+        "id": "S032-B01",
+        "fromFrame": 13618,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_LOOK_SUN-2-0",
+            "kind": "image",
+            "assetId": "C_LOOK_SUN",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          },
+          {
+            "id": "native-N_SUN-3-8",
+            "kind": "native",
+            "nativeId": "N_SUN",
+            "x": 1300,
+            "y": 475,
+            "width": 900,
+            "height": 600,
+            "z": 3,
+            "fromFrame": 8,
+            "enter": "fade",
+            "enterFrames": 7
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. Trở lại sun từ đầu"
+      },
+      {
+        "id": "S032-B02",
+        "fromFrame": 13657,
+        "background": "#F4EDE1",
+        "layers": [
+          {
+            "id": "image-BG_SHOP-0-0",
+            "kind": "image",
+            "assetId": "BG_SHOP",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "image-C_CHECK_SELF-2-0",
+            "kind": "image",
+            "assetId": "C_CHECK_SELF",
+            "x": 430,
+            "y": 620,
+            "width": 660,
+            "height": 920,
+            "z": 2
+          }
+        ],
+        "note": "Review animatic; estimated cut from Audio001 duration and script words. C tự kiểm bản thân"
+      }
+    ]
+  }
+}

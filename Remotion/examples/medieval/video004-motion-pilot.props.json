@@ -1,0 +1,224 @@
+{
+  "episode": {
+    "id": "video004-motion-pilot",
+    "version": "2",
+    "scriptVersion": "V06",
+    "planVersion": "3",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 480,
+    "timingBasis": "estimated",
+    "words": [],
+    "assets": [
+      {
+        "id": "BG_SHOP_v02",
+        "file": "medieval/video004/BG_SHOP_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      },
+      {
+        "id": "BG_FORGE_v02",
+        "file": "medieval/video004/BG_FORGE_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      },
+      {
+        "id": "SCENE_TAVERN_v02",
+        "file": "medieval/video004/SCENE_TAVERN_v02.png",
+        "version": "v02",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      },
+      {
+        "id": "C_RUSH_GRIP_v01",
+        "file": "medieval/video004/C_RUSH_GRIP_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      },
+      {
+        "id": "FORGE_STRIKE_CONTACT_v01",
+        "file": "medieval/video004/FORGE_STRIKE_CONTACT_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      },
+      {
+        "id": "C_SEATED_CONTACT_A_v01",
+        "file": "medieval/video004/C_SEATED_CONTACT_A_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      },
+      {
+        "id": "C_SEATED_CONTACT_B_v01",
+        "file": "medieval/video004/C_SEATED_CONTACT_B_v01.png",
+        "version": "v01",
+        "status": "draft",
+        "rights": "unresolved",
+        "role": "video004-motion-pilot"
+      }
+    ],
+    "audio": [],
+    "shots": [
+      {
+        "id": "rushlight-process",
+        "fromFrame": 0,
+        "background": "#F4EDE1",
+        "note": "Silent rough pilot; estimates, no voice alignment",
+        "layers": [
+          {
+            "id": "BG_SHOP_v02",
+            "kind": "image",
+            "assetId": "BG_SHOP_v02",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "C_RUSH_GRIP_v01",
+            "kind": "image",
+            "assetId": "C_RUSH_GRIP_v01",
+            "x": 390,
+            "y": 636,
+            "width": 510,
+            "height": 840,
+            "z": 2,
+            "enter": "fade",
+            "enterFrames": 10
+          },
+          {
+            "id": "N_RUSH_PROCESS",
+            "kind": "native",
+            "nativeId": "N_RUSH_PROCESS",
+            "text": "RUSH|HOLDER",
+            "x": 1360,
+            "y": 594,
+            "width": 880,
+            "height": 590,
+            "z": 3,
+            "fromFrame": 10,
+            "enter": "fade",
+            "enterFrames": 8
+          }
+        ]
+      },
+      {
+        "id": "forge-work",
+        "fromFrame": 150,
+        "background": "#F4EDE1",
+        "note": "Contact trial remains unapproved",
+        "layers": [
+          {
+            "id": "BG_FORGE_v02",
+            "kind": "image",
+            "assetId": "BG_FORGE_v02",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "FORGE_STRIKE_CONTACT_v01",
+            "kind": "image",
+            "assetId": "FORGE_STRIKE_CONTACT_v01",
+            "x": 1060,
+            "y": 604,
+            "width": 790,
+            "height": 950,
+            "z": 2,
+            "enter": "fade",
+            "enterFrames": 8
+          }
+        ]
+      },
+      {
+        "id": "forge-neighbour",
+        "fromFrame": 240,
+        "background": "#F4EDE1",
+        "note": "Schematic complaint relation, not measured vibration",
+        "layers": [
+          {
+            "id": "N_FORGE_SOUND",
+            "kind": "native",
+            "nativeId": "N_FORGE_SOUND",
+            "text": "WORK|REST",
+            "x": 960,
+            "y": 570,
+            "width": 1400,
+            "height": 770,
+            "z": 2
+          }
+        ]
+      },
+      {
+        "id": "tavern-reaction",
+        "fromFrame": 330,
+        "background": "#F4EDE1",
+        "note": "Pose pair is a contact test, not historical chair reconstruction",
+        "layers": [
+          {
+            "id": "SCENE_TAVERN_v02",
+            "kind": "image",
+            "assetId": "SCENE_TAVERN_v02",
+            "x": 960,
+            "y": 540,
+            "width": 1920,
+            "height": 1080,
+            "z": 0
+          },
+          {
+            "id": "C_SEATED_CONTACT_A_v01",
+            "kind": "image",
+            "assetId": "C_SEATED_CONTACT_A_v01",
+            "x": 660,
+            "y": 627,
+            "width": 650,
+            "height": 800,
+            "z": 2,
+            "untilFrame": 76
+          },
+          {
+            "id": "C_SEATED_CONTACT_B_v01",
+            "kind": "image",
+            "assetId": "C_SEATED_CONTACT_B_v01",
+            "x": 660,
+            "y": 627,
+            "width": 650,
+            "height": 800,
+            "z": 2,
+            "fromFrame": 76,
+            "enter": "fade",
+            "enterFrames": 4
+          },
+          {
+            "id": "N_RULE",
+            "kind": "native",
+            "nativeId": "N_RULE",
+            "text": "LONDON 1280s|TAVERN AFTER CURFEW|RULE, NOT PROOF OF COMPLIANCE",
+            "x": 1430,
+            "y": 385,
+            "width": 770,
+            "height": 440,
+            "z": 3,
+            "fromFrame": 12,
+            "enter": "fade",
+            "enterFrames": 12
+          }
+        ]
+      }
+    ]
+  }
+}

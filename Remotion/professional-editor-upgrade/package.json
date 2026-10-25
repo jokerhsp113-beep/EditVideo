@@ -1,0 +1,16 @@
+{
+  "name": "science-video-editor-upgrade-staging",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "editor:assets": "python professional-editor/tools/inspect-assets.py && node professional-editor/tools/enrich-audio-catalog.mjs",
+    "editor:sync-skill": "node professional-editor/tools/sync-skill.mjs",
+    "editor:check": "node professional-editor/tools/validate-project.mjs",
+    "editor:test": "node --test professional-editor/evaluations/core.test.mjs",
+    "editor:stills": "node professional-editor/tools/render-preview.mjs",
+    "editor:preview": "node professional-editor/tools/render-preview.mjs --video",
+    "editor:studio": "remotion studio professional-editor/entry.ts --public-dir=../public",
+    "editor:types": "tsc --project professional-editor/tsconfig.json"
+  }
+}

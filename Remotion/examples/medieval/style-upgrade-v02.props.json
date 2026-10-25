@@ -1,0 +1,268 @@
+{
+  "episode": {
+    "id": "style-upgrade-technical-v02",
+    "version": "2",
+    "scriptVersion": "technical-fixture-not-an-episode",
+    "planVersion": "2",
+    "timingBasis": "estimated",
+    "durationInFrames": 180,
+    "assets": [],
+    "audio": [],
+    "words": [
+      {
+        "text": "prepare",
+        "startMs": 800,
+        "endMs": 1000
+      },
+      {
+        "text": "action",
+        "startMs": 1400,
+        "endMs": 1600
+      },
+      {
+        "text": "land",
+        "startMs": 2000,
+        "endMs": 2200
+      },
+      {
+        "text": "result",
+        "startMs": 3000,
+        "endMs": 3250
+      },
+      {
+        "text": "camera",
+        "startMs": 3500,
+        "endMs": 3700
+      },
+      {
+        "text": "reframe",
+        "startMs": 4500,
+        "endMs": 4750
+      }
+    ],
+    "shots": [
+      {
+        "id": "S001",
+        "fromFrame": 0,
+        "note": "Shapes only. Synthetic word map, not voice alignment or C acting.",
+        "camera": {
+          "reason": "Test world movement while screen labels stay fixed.",
+          "keyframes": [
+            {
+              "frame": 0,
+              "scale": 1
+            },
+            {
+              "scale": 1,
+              "frame": 105
+            },
+            {
+              "scale": 1.08,
+              "x": -50,
+              "frame": 135
+            }
+          ]
+        },
+        "layers": [
+          {
+            "id": "title",
+            "kind": "text",
+            "space": "screen",
+            "text": "MOTION + CUE STUDY",
+            "textRole": "headline",
+            "x": 960,
+            "y": 160,
+            "width": 1500,
+            "height": 150,
+            "color": "#30291F",
+            "fontSize": 84
+          },
+          {
+            "id": "action-group",
+            "kind": "group",
+            "x": 960,
+            "y": 530,
+            "width": 800,
+            "height": 440,
+            "pivotX": 0.5,
+            "pivotY": 1,
+            "keyframes": [
+              {
+                "frame": 0,
+                "rotate": 0
+              },
+              {
+                "rotate": -4,
+                "frame": 24
+              },
+              {
+                "rotate": 2,
+                "frame": 42
+              },
+              {
+                "rotate": 0,
+                "frame": 60
+              }
+            ]
+          },
+          {
+            "id": "surface",
+            "kind": "rect",
+            "parentId": "action-group",
+            "x": 400,
+            "y": 390,
+            "width": 700,
+            "height": 15,
+            "color": "#30291F"
+          },
+          {
+            "id": "object",
+            "kind": "rect",
+            "parentId": "action-group",
+            "x": 210,
+            "y": 300,
+            "width": 100,
+            "height": 100,
+            "color": "#526F86",
+            "pivotX": 0.5,
+            "pivotY": 1,
+            "keyframes": [
+              {
+                "frame": 0,
+                "x": 210,
+                "y": 300
+              },
+              {
+                "x": 185,
+                "rotate": -8,
+                "frame": 24
+              },
+              {
+                "x": 450,
+                "y": 210,
+                "rotate": 8,
+                "easing": "ease-out",
+                "frame": 42
+              },
+              {
+                "x": 570,
+                "y": 332,
+                "rotate": 0,
+                "easing": "ease-in",
+                "frame": 60
+              },
+              {
+                "y": 340,
+                "frame": 72
+              }
+            ]
+          },
+          {
+            "id": "result",
+            "kind": "text",
+            "space": "screen",
+            "text": "Result revealed on cue",
+            "textRole": "keyLabel",
+            "at": "result",
+            "x": 960,
+            "y": 790,
+            "width": 1500,
+            "height": 110,
+            "enter": "fade",
+            "enterFrames": 8,
+            "color": "#30291F",
+            "fontSize": 60
+          },
+          {
+            "id": "scope",
+            "kind": "text",
+            "space": "screen",
+            "text": "Technical fixture • no C acting or audio mix",
+            "textRole": "scopeNote",
+            "x": 960,
+            "y": 890,
+            "width": 1600,
+            "height": 80,
+            "color": "#30291F",
+            "fontSize": 44
+          }
+        ],
+        "background": "#F4EDE1"
+      }
+    ],
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "build": {
+    "profileId": "medieval-life-explained",
+    "profileVersion": "1.2-draft",
+    "timingBasis": "estimated",
+    "timingFingerprint": "1da33b4b4732467c099677a5e644f559af4277ba370c2f679fd33676799a00d0",
+    "cues": [
+      {
+        "target": "S001/camera/1",
+        "phrase": "camera",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 105
+      },
+      {
+        "target": "S001/camera/2",
+        "phrase": "reframe",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 135
+      },
+      {
+        "target": "S001/action-group/1",
+        "phrase": "prepare",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 24
+      },
+      {
+        "target": "S001/action-group/2",
+        "phrase": "action",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 42
+      },
+      {
+        "target": "S001/action-group/3",
+        "phrase": "land",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 60
+      },
+      {
+        "target": "S001/object/1",
+        "phrase": "prepare",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 24
+      },
+      {
+        "target": "S001/object/2",
+        "phrase": "action",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 42
+      },
+      {
+        "target": "S001/object/3",
+        "phrase": "land",
+        "occurrence": null,
+        "offsetFrames": 0,
+        "episodeFrame": 60
+      },
+      {
+        "target": "S001/object/4",
+        "phrase": "land",
+        "occurrence": null,
+        "offsetFrames": 12,
+        "episodeFrame": 72
+      }
+    ]
+  }
+}

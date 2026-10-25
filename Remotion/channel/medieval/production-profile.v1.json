@@ -1,0 +1,66 @@
+{
+  "id": "medieval-life-explained",
+  "version": "1.2-draft",
+  "status": "proposed-for-pilot",
+  "runtimeIntegration": "text-role-sizes-loaded-by-renderer; explicit-profile-compiler-for-canvas-and-palette",
+  "purpose": "Art direction and acceptance reference consumed by compiler/renderer; not itself MEDIEVAL-EPISODE props. Visual direction remains provisional until artistic pilot.",
+  "canvas": {"width": 1920, "height": 1080, "fps": 30, "status": "proposed-for-new-work-only"},
+  "references": {
+    "characterConcept": "D:/Youtube/Medieval Life Explained/brand/characters/character-concepts-v1.png",
+    "characterColumn": "C",
+    "inspected": true,
+    "productionModelSheet": "pending",
+    "note": "Concept reference inspected; turnaround, scale and approved production poses still need a model sheet."
+  },
+  "palette": {
+    "paper": "#F4EDE1",
+    "ink": "#30291F",
+    "card": "#FFF5DF",
+    "guideBlue": "#526F86",
+    "warmAccent": "#B47B36",
+    "status": "proposed-tokens-test-against-actual-assets"
+  },
+  "typography": {
+    "fontFile": "public/fonts/PatrickHand-Regular.ttf",
+    "weight": 400,
+    "syntheticBold": false,
+    "sizesAt1080": {"headline": 84, "keyLabel": 60, "scopeNote": 44},
+    "safeInsetPixels": {"left": 96, "right": 96, "top": 72, "bottom": 140},
+    "note": "Starting values, not platform requirements. Test full compositions at 360px display width, with captions/player overlap considered. Reframe or shorten unreadable text."
+  },
+  "art": {
+    "character": "Rounded white face, irregular brown hair, expressive brows/eyes/mouth, muted blue tunic, belt/pouch, thin dark limbs; match inspected C reference.",
+    "background": "Warm illustrated setting with reduced contrast/detail around the focal action.",
+    "linework": "Dark rounded contours; test relative weight on character, prop and background together.",
+    "historicalScope": "Scene details require episode evidence; C costume is a guide identity, not evidence of period clothing."
+  },
+  "motion": {
+    "defaultCamera": "hold",
+    "defaultIdle": "none",
+    "authoring": "intent -> start state -> preparation -> action -> reaction -> end state",
+    "cueBasis": "narration anchors until actual audio is aligned",
+    "timingTrialsSeconds": {"reaction": [0.2, 0.6], "smallReveal": [0.15, 0.35]},
+    "timingNote": "Optional pilot ranges; audible delivery and readable action decide final timing.",
+    "cameraReasonRequired": true,
+    "automaticCutQuota": false,
+    "automaticLipSync": false
+  },
+  "sound": {
+    "voicePriority": true,
+    "roles": ["voice", "ambience", "action", "editorial-accent", "music"],
+    "palette": ["wood", "ceramic", "cloth", "footsteps", "coins", "restrained-ink-accent"],
+    "cueFields": ["id", "role", "assetPath", "rightsEvidence", "narrationAnchor", "action", "in", "out", "gain", "fade", "reviewStatus"],
+    "mix": "Set by listening in context; no universal SFX gain. Avoid stacking accents over key words. Silence is allowed.",
+    "status": "direction-only-not-a-listened-mix"
+  },
+  "sceneModes": ["character-situation", "object-mechanism", "comparison-diagram", "scoped-evidence", "reaction-callback"],
+  "releaseGate": [
+    "Promise and new information preserved",
+    "Historical visual claims checked or explicitly reconstructed",
+    "Character and prop continuity checked in actual composites",
+    "Focal action readable at phone display size",
+    "Motion serves action, explanation or reaction",
+    "Voice, effects, ambience and music heard together",
+    "Actual export inspected; no false completion from plan or counters"
+  ]
+}

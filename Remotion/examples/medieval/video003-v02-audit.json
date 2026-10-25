@@ -1,0 +1,388 @@
+{
+  "version": "v02",
+  "openingSpeed": 1.07,
+  "openingSourceEnd": 32.94,
+  "openingSavedSeconds": 2.154953271028038,
+  "duration": 570.2765833333333,
+  "shots": 141,
+  "overlayOccurrences": 27,
+  "oldOverlayOccurrences": 75,
+  "sfx": [
+    {
+      "start": 509,
+      "file": "medieval/video003/current/audio/wood.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "A single dry beat lands the one-Hugh reaction",
+      "beat": "R05V006",
+      "cue": "only one Hugh"
+    },
+    {
+      "start": 1857,
+      "file": "medieval/video003/current/audio/brush.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Toy moves away so the same room can be reused",
+      "beat": "R05V020",
+      "cue": "moves out"
+    },
+    {
+      "start": 3585,
+      "file": "medieval/video003/current/audio/wood.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Bundle contacts the ground",
+      "beat": "R05V040",
+      "cue": "put it down"
+    },
+    {
+      "start": 6130,
+      "file": "medieval/video003/current/audio/brush.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Paperwork is the established chicken callback",
+      "beat": "R05V067",
+      "cue": "paperwork"
+    },
+    {
+      "start": 6593,
+      "file": "medieval/video003/current/audio/brush.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Seed changes its use, not an arbitrary transition",
+      "beat": "R05V071",
+      "cue": "grain kept for sowing"
+    },
+    {
+      "start": 7020,
+      "file": "medieval/video003/current/audio/ceramic.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "A short ceramic-like click lands the pot joke",
+      "beat": "R05V075",
+      "cue": "pottery supply"
+    },
+    {
+      "start": 7471,
+      "file": "medieval/video003/current/audio/coin.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Coin contact at the transaction",
+      "beat": "R05V081",
+      "cue": "receive money"
+    },
+    {
+      "start": 9834,
+      "file": "medieval/video003/current/audio/brush.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Cloth bundle is being folded",
+      "beat": "R05V107",
+      "cue": "Fold"
+    },
+    {
+      "start": 11312,
+      "file": "medieval/video003/current/audio/brush.wav",
+      "duration": 7,
+      "volume": 0.85,
+      "reason": "Paper texture marks the arrival of a recorded-case card",
+      "beat": "R05V122",
+      "cue": "Hugh Cross"
+    }
+  ],
+  "overlaySchedule": [
+    {
+      "id": "R05V002-E01_intro",
+      "variant": "E01_intro",
+      "start": 52,
+      "end": 86,
+      "cue": "owed elsewhere",
+      "sourceSeconds": 2.33,
+      "reason": "Name the competing claim briefly; reserve the full diagram for its explanation"
+    },
+    {
+      "id": "R05V003-E02_week",
+      "variant": "E02_week",
+      "start": 88,
+      "end": 267,
+      "cue": "one English record",
+      "sourceSeconds": 3.92,
+      "reason": "Locate the case; preserve the holiday qualification",
+      "cardDelays": [
+        0,
+        84,
+        138
+      ]
+    },
+    {
+      "id": "R05V004-E02_autumn",
+      "variant": "E02_autumn",
+      "start": 267,
+      "end": 389,
+      "cue": "In autumn",
+      "sourceSeconds": 11.92,
+      "reason": "Hold the worker requirement against the single farmer's own field",
+      "cardDelays": [
+        0,
+        45
+      ]
+    },
+    {
+      "id": "R05V006-E03_one_hugh",
+      "variant": "E03_one_hugh",
+      "start": 504,
+      "end": 542,
+      "cue": "only one Hugh",
+      "sourceSeconds": 22.45,
+      "reason": "Pay off spare-Hugh joke without the unrelated dummy"
+    },
+    {
+      "id": "R05V009-E04_reconstruction",
+      "variant": "E04_reconstruction",
+      "start": 754,
+      "end": 1002,
+      "cue": "one possible life",
+      "sourceSeconds": 33.56,
+      "reason": "Identify reconstruction once before the life story"
+    },
+    {
+      "id": "R05V020-E05_shared_space",
+      "variant": "E05_shared_space",
+      "start": 1857,
+      "end": 1961,
+      "cue": "moves out of the way",
+      "sourceSeconds": 79.54,
+      "reason": "Summarize the room reuse only after it is demonstrated"
+    },
+    {
+      "id": "R05V032-E07_crop_states",
+      "variant": "E07_crop_states",
+      "start": 3101,
+      "end": 3231,
+      "cue": "work that changes",
+      "sourceSeconds": 131.36,
+      "reason": "Connect different jobs to the crop cycle"
+    },
+    {
+      "id": "R05V050-E08_resources_status",
+      "variant": "E08_resources_status",
+      "start": 4414,
+      "end": 4469,
+      "cue": "same land",
+      "sourceSeconds": 186.06,
+      "reason": "Distinguish resources from legal status"
+    },
+    {
+      "id": "R05V051-E01_effort_recipients",
+      "variant": "E01_effort_recipients",
+      "start": 4525,
+      "end": 4630,
+      "cue": "household",
+      "sourceSeconds": 190.7,
+      "reason": "Return to who receives the work, once across the pair"
+    },
+    {
+      "id": "R05V060-E04_diet",
+      "variant": "E04_diet",
+      "start": 5382,
+      "end": 5535,
+      "cue": "West Cotton",
+      "sourceSeconds": 226.42,
+      "reason": "Keep the material evidence and its limit visible"
+    },
+    {
+      "id": "R05V064-E09_before",
+      "variant": "E09_before",
+      "start": 5798,
+      "end": 5871,
+      "cue": "grain for sowing",
+      "sourceSeconds": 243.74,
+      "reason": "Distinguish the seed reserve from food"
+    },
+    {
+      "id": "R05V066-E10_hugh_produce",
+      "variant": "E10_hugh_produce",
+      "start": 5999,
+      "end": 6095,
+      "cue": "three hens",
+      "sourceSeconds": 252.1,
+      "reason": "Show the recorded quantities rather than a prose sentence",
+      "cardDelays": [
+        0,
+        0,
+        42
+      ]
+    },
+    {
+      "id": "R05V068-E11_abbot_claims",
+      "variant": "E11_abbot_claims",
+      "start": 6216,
+      "end": 6359,
+      "cue": "abbot",
+      "sourceSeconds": 261.16,
+      "reason": "Identify the lord without a castle stereotype"
+    },
+    {
+      "id": "R05V071-E09_transfer",
+      "variant": "E09_transfer",
+      "start": 6593,
+      "end": 6674,
+      "cue": "grain kept for sowing",
+      "sourceSeconds": 276.87712500000004,
+      "reason": "Show the reserve being used for food"
+    },
+    {
+      "id": "R05V072-E09_after",
+      "variant": "E09_after",
+      "start": 6703,
+      "end": 6868,
+      "cue": "replace that grain",
+      "sourceSeconds": 281.457125,
+      "reason": "Hold the resulting shortfall without restarting the card"
+    },
+    {
+      "id": "R05V082-E12_sale_inputs",
+      "variant": "E12_sale_inputs",
+      "start": 7561,
+      "end": 7657,
+      "cue": "another batch",
+      "sourceSeconds": 317.217125,
+      "reason": "Make the next-batch allocation visible",
+      "cardDelays": [
+        0,
+        0,
+        0,
+        38
+      ],
+      "arrowDelays": [
+        0,
+        38
+      ]
+    },
+    {
+      "id": "R05V090-E04_famine",
+      "variant": "E04_famine",
+      "start": 8235,
+      "end": 8567,
+      "cue": "famine",
+      "sourceSeconds": 345.29712500000005,
+      "reason": "Clearly label the crisis comparison, once"
+    },
+    {
+      "id": "R05V095-E13_power_relation",
+      "variant": "E13_power_relation",
+      "start": 8732,
+      "end": 8862,
+      "cue": "wages could rise",
+      "sourceSeconds": 365.977125,
+      "reason": "Compare directions without inventing measured ratios",
+      "cardDelays": [
+        0,
+        29,
+        80,
+        0
+      ],
+      "arrowDelays": [
+        0,
+        29
+      ]
+    },
+    {
+      "id": "R05V099-E13_shortfall",
+      "variant": "E13_shortfall",
+      "start": 9010,
+      "end": 9092,
+      "cue": "what you can bring home",
+      "sourceSeconds": 377.577125,
+      "reason": "Give the comparison the whole clause, not only its last words"
+    },
+    {
+      "id": "R05V100-E14_not_offered",
+      "variant": "E14_not_offered",
+      "start": 9213,
+      "end": 9446,
+      "cue": "holding them back",
+      "sourceSeconds": 386.017125,
+      "reason": "Distinguish grain present from grain offered for sale"
+    },
+    {
+      "id": "R05V108-E16_portable",
+      "variant": "E16_portable",
+      "start": 9910,
+      "end": 10066,
+      "cue": "belongings",
+      "sourceSeconds": 415.077125,
+      "reason": "Contrast portable goods with support left behind",
+      "cardDelays": [
+        0,
+        42
+      ]
+    },
+    {
+      "id": "R05V111-E17_location_services",
+      "variant": "E17_location_services",
+      "start": 10233,
+      "end": 10416,
+      "cue": "Walter Hull",
+      "sourceSeconds": 428.53712500000006,
+      "reason": "Keep this separate recorded case identifiable"
+    },
+    {
+      "id": "R05V116-E18_conditions",
+      "variant": "E18_conditions",
+      "start": 10778,
+      "end": 11019,
+      "cue": "next meal",
+      "sourceSeconds": 451.25712500000003,
+      "reason": "Ask the practical support question only when narration reaches it",
+      "cardDelays": [
+        0,
+        132
+      ]
+    },
+    {
+      "id": "R05V122-E19_limited_right",
+      "variant": "E19_limited_right",
+      "start": 11312,
+      "end": 11479,
+      "cue": "Hugh Cross",
+      "sourceSeconds": 473.497125,
+      "reason": "Show what the legal victory actually covered",
+      "cardDelays": [
+        0,
+        63
+      ]
+    },
+    {
+      "id": "R05V127-E20_support",
+      "variant": "E20_support",
+      "start": 11835,
+      "end": 12036,
+      "cue": "support in return",
+      "sourceSeconds": 495.29712500000005,
+      "reason": "Explain the exchange of tenancy and support"
+    },
+    {
+      "id": "R05V129-E04_stanton",
+      "variant": "E04_stanton",
+      "start": 12056,
+      "end": 12276,
+      "cue": "Stanton",
+      "sourceSeconds": 504.477125,
+      "reason": "Locate the later-life agreement"
+    },
+    {
+      "id": "R05V130-E20_support",
+      "variant": "E20_support",
+      "start": 12297,
+      "end": 12422,
+      "cue": "responsibilities",
+      "sourceSeconds": 514.5171250000001,
+      "reason": "Relate the successor's work to future tenancy"
+    }
+  ],
+  "errors": [],
+  "removedDummy": "E03_spare_worker",
+  "imageGenerationNeeded": false,
+  "note": "Old source/voice/assets and v01 remain unchanged. All overlay typography is live Patrick Hand, not PNG text."
+}

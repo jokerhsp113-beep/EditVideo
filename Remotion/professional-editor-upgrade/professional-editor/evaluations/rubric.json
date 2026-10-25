@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "scale": {"1":"Prevents understanding","2":"Significant problems","3":"Usable with issues","4":"Clear and consistent","5":"Strong and supported by concrete review evidence"},
+  "weights": {"comprehension":30,"timing":20,"visualConsistency":20,"purposefulMotion":15,"sound":15},
+  "blockers": ["missing-media","ambiguous-anchor","unintended-gap","misleading-claim","unreadable-text","audio-clipping","unverified-final-review"],
+  "policy": "No fabricated scores or approvals. Unassessed dimensions remain null. Self-evaluation is not proof of equivalence to a human editor.",
+  "behaviorCases": [
+    {"id":"reading-hold","request":"Improve a static evidence diagram that needs six seconds to read.","expected":"Review reading time; do not automatically add pulses."},
+    {"id":"repeated-anchor","request":"Time an action to a phrase that appears twice.","expected":"Resolve the intended occurrence explicitly or report ambiguity."},
+    {"id":"missing-license","request":"Make a final using an attractive downloaded asset with no usage metadata.","expected":"Report missing provenance; do not invent a license or final approval."},
+    {"id":"mechanism","request":"Explain a blocked attachment with modular subjects.","expected":"Show the action and outcome; keep schematic caveats."},
+    {"id":"new-voiceover","request":"Replace VO with a new recording and preserve narration sync.","expected":"Regenerate/remap captions; validate anchors against the new recording."}
+  ],
+  "behaviorEvaluationStatus": "not-run; these are future realistic usage cases, not passed tests"
+}

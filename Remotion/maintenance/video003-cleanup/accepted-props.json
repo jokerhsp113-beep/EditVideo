@@ -1,0 +1,4419 @@
+{
+  "plan": {
+    "version": "revision-v02",
+    "fps": 24,
+    "width": 1280,
+    "height": 720,
+    "duration": 13687,
+    "voice": "medieval/video003/current/audio/narration-v02.wav",
+    "shots": [
+      {
+        "id": "R05V001",
+        "start": 0,
+        "end": 35,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP02_01.png",
+            "start": 0,
+            "end": 35,
+            "scale": 1.09,
+            "x": 48,
+            "y": 63,
+            "motion": 0.018
+          }
+        ],
+        "spoken": "Your own crop needs work.",
+        "section": 1
+      },
+      {
+        "id": "R05V002",
+        "start": 35,
+        "end": 86,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP01_02.png",
+            "start": 35,
+            "end": 86,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "But some of your work is owed elsewhere.",
+        "section": 1
+      },
+      {
+        "id": "R05V003",
+        "start": 86,
+        "end": 267,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP02_01.png",
+            "start": 86,
+            "end": 176,
+            "scale": 1.045,
+            "x": 37,
+            "y": 52,
+            "motion": 0.025
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP02_02.png",
+            "start": 176,
+            "end": 267,
+            "scale": 1.045,
+            "x": 37,
+            "y": 52,
+            "motion": 0.025
+          }
+        ],
+        "spoken": "In one English record from twelve seventy-nine, Hugh Miller's holding owed three days of labour each week, with some holiday weeks exempt.",
+        "section": 1
+      },
+      {
+        "id": "R05V004",
+        "start": 267,
+        "end": 340,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP03_01.png",
+            "start": 267,
+            "end": 303,
+            "scale": 1.025,
+            "x": 48,
+            "y": 52,
+            "motion": 0.018
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP03_02.png",
+            "start": 303,
+            "end": 340,
+            "scale": 1.025,
+            "x": 48,
+            "y": 52,
+            "motion": 0.018
+          }
+        ],
+        "spoken": "In autumn, the requirement called for two workers.",
+        "section": 1
+      },
+      {
+        "id": "R05V005",
+        "start": 340,
+        "end": 389,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP04_01.png",
+            "start": 340,
+            "end": 389,
+            "scale": 1.08,
+            "x": 41,
+            "y": 48,
+            "motion": 0.015
+          }
+        ],
+        "spoken": "His own fields still needed tending.",
+        "section": 1
+      },
+      {
+        "id": "R05V006",
+        "start": 389,
+        "end": 542,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP04_01.png",
+            "start": 389,
+            "end": 465,
+            "scale": 1.15,
+            "x": 36,
+            "y": 41,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP04_02.png",
+            "start": 465,
+            "end": 542,
+            "scale": 1.15,
+            "x": 36,
+            "y": 41,
+            "motion": 0
+          }
+        ],
+        "spoken": "Apparently, the arrangement expected a spare Hugh. Disappointing news for anyone issued with only one Hugh.",
+        "section": 1
+      },
+      {
+        "id": "R05V007",
+        "start": 542,
+        "end": 621,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP05_01.png",
+            "start": 542,
+            "end": 582,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP05_02.png",
+            "start": 582,
+            "end": 621,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "So this isn't simply a life where you work hard and eat what you've grown.",
+        "section": 1
+      },
+      {
+        "id": "R05V008",
+        "start": 621,
+        "end": 739,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP05_03.png",
+            "start": 621,
+            "end": 739,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You have to fit your household's needs around other claims on your time and produce.",
+        "section": 1
+      },
+      {
+        "id": "R05V009",
+        "start": 739,
+        "end": 897,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP06_01.png",
+            "start": 739,
+            "end": 818,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP06_02.png",
+            "start": 818,
+            "end": 897,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Let's follow one possible life in a farming household in medieval England, starting in the late twelve hundreds.",
+        "section": 1
+      },
+      {
+        "id": "R05V010",
+        "start": 897,
+        "end": 1002,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP06_03.png",
+            "start": 897,
+            "end": 1002,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Our scenes are reconstructed; the records are examples from different places.",
+        "section": 1
+      },
+      {
+        "id": "R05V011",
+        "start": 1002,
+        "end": 1132,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP07_01.png",
+            "start": 1002,
+            "end": 1045,
+            "scale": 1.035,
+            "x": 43,
+            "y": 52,
+            "motion": 0.022
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP07_02.png",
+            "start": 1045,
+            "end": 1089,
+            "scale": 1.035,
+            "x": 43,
+            "y": 52,
+            "motion": 0.022
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP07_03.png",
+            "start": 1089,
+            "end": 1132,
+            "scale": 1.035,
+            "x": 43,
+            "y": 52,
+            "motion": 0.022
+          }
+        ],
+        "spoken": "Before you become the person expected to do the work, you're the child watching other people do it.",
+        "section": 1
+      },
+      {
+        "id": "R05V012",
+        "start": 1132,
+        "end": 1222,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP06_02.png",
+            "start": 1132,
+            "end": 1222,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Picture a modest home with a hearth and a shared living space.",
+        "section": 2
+      },
+      {
+        "id": "R05V013",
+        "start": 1222,
+        "end": 1316,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP06_02.png",
+            "start": 1222,
+            "end": 1316,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "In this home, the room where you eat is also a place to sleep.",
+        "section": 2
+      },
+      {
+        "id": "R05V014",
+        "start": 1316,
+        "end": 1402,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP06_01.png",
+            "start": 1316,
+            "end": 1402,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Around the household are places for animals and stored crops.",
+        "section": 2
+      },
+      {
+        "id": "R05V015",
+        "start": 1402,
+        "end": 1479,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH01_01.png",
+            "start": 1402,
+            "end": 1440,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_CH01_02.png",
+            "start": 1440,
+            "end": 1479,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "As a small child, you need feeding and looking after.",
+        "section": 2
+      },
+      {
+        "id": "R05V016",
+        "start": 1479,
+        "end": 1593,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH02_01.png",
+            "start": 1479,
+            "end": 1536,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_CH09_01.png",
+            "start": 1536,
+            "end": 1593,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You can play too. Dolls and spinning tops belong in the medieval world;",
+        "section": 2
+      },
+      {
+        "id": "R05V017",
+        "start": 1593,
+        "end": 1668,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH02_02.png",
+            "start": 1593,
+            "end": 1668,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "childhood wasn't just adulthood with shorter legs.",
+        "section": 2
+      },
+      {
+        "id": "R05V018",
+        "start": 1668,
+        "end": 1771,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH03_01.png",
+            "start": 1668,
+            "end": 1771,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "For our first little scene, you're playing with a doll while someone prepares food.",
+        "section": 2
+      },
+      {
+        "id": "R05V019",
+        "start": 1771,
+        "end": 1850,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH03_02.png",
+            "start": 1771,
+            "end": 1850,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Later, the same space has to serve another purpose.",
+        "section": 2
+      },
+      {
+        "id": "R05V020",
+        "start": 1850,
+        "end": 1961,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH03_03.png",
+            "start": 1850,
+            "end": 1961,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Your toy moves out of the way; the household doesn't have a room for every activity.",
+        "section": 2
+      },
+      {
+        "id": "R05V021",
+        "start": 1961,
+        "end": 2039,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH07_01.png",
+            "start": 1961,
+            "end": 2039,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "As you grow, helping becomes part of your life.",
+        "section": 2
+      },
+      {
+        "id": "R05V022",
+        "start": 2039,
+        "end": 2171,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH07_02.png",
+            "start": 2039,
+            "end": 2171,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Rural children could tend small animals, help in gardens or assist with food preparation.",
+        "section": 2
+      },
+      {
+        "id": "R05V023",
+        "start": 2171,
+        "end": 2238,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH04_01.png",
+            "start": 2171,
+            "end": 2238,
+            "scale": 1.08,
+            "x": 45,
+            "y": 61,
+            "motion": 0.02
+          }
+        ],
+        "spoken": "Imagine someone showing you how to feed the chickens.",
+        "section": 2
+      },
+      {
+        "id": "R05V024",
+        "start": 2238,
+        "end": 2269,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH04_02.png",
+            "start": 2238,
+            "end": 2269,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You watch, help,",
+        "section": 2
+      },
+      {
+        "id": "R05V025",
+        "start": 2269,
+        "end": 2364,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH04_03.png",
+            "start": 2269,
+            "end": 2364,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "and eventually do the task while that person turns to something else.",
+        "section": 2
+      },
+      {
+        "id": "R05V026",
+        "start": 2364,
+        "end": 2431,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH06_01.png",
+            "start": 2364,
+            "end": 2431,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The chickens have acquired a new member of staff.",
+        "section": 2
+      },
+      {
+        "id": "R05V027",
+        "start": 2431,
+        "end": 2509,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH06_02.png",
+            "start": 2431,
+            "end": 2509,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Their feedback is immediate and extremely loud.",
+        "section": 2
+      },
+      {
+        "id": "R05V028",
+        "start": 2509,
+        "end": 2637,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH05_01.png",
+            "start": 2509,
+            "end": 2637,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Now another job can happen at the same time. What changes isn't just your ability to feed birds.",
+        "section": 2
+      },
+      {
+        "id": "R05V029",
+        "start": 2637,
+        "end": 2752,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH05_02.png",
+            "start": 2637,
+            "end": 2752,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Somebody can rely on you, and the household can divide its work differently.",
+        "section": 2
+      },
+      {
+        "id": "R05V030",
+        "start": 2752,
+        "end": 2819,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH08_01.png",
+            "start": 2752,
+            "end": 2819,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Those birds are part of the household's resources.",
+        "section": 2
+      },
+      {
+        "id": "R05V031",
+        "start": 2819,
+        "end": 3042,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH08_02.png",
+            "start": 2819,
+            "end": 3042,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Later, we'll meet a holding where even chickens appear among the things owed to the lord. The animals you've learned to care for may have a job beyond being annoying.",
+        "section": 2
+      },
+      {
+        "id": "R05V032",
+        "start": 3042,
+        "end": 3165,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH07_01.png",
+            "start": 3042,
+            "end": 3104,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R05_SOIL01_01.png",
+            "start": 3104,
+            "end": 3165,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Growing up around farming means getting to know work that changes as the crop changes.",
+        "section": 3
+      },
+      {
+        "id": "R05V033",
+        "start": 3165,
+        "end": 3231,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R05_SOW01_01.png",
+            "start": 3165,
+            "end": 3231,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Ground has to be prepared and seed sown.",
+        "section": 3
+      },
+      {
+        "id": "R05V034",
+        "start": 3231,
+        "end": 3371,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK01_01.png",
+            "start": 3231,
+            "end": 3301,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_WK01_02.png",
+            "start": 3301,
+            "end": 3371,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Harvest is a different set of tasks. Let's stay with that part long enough to see what you're actually doing.",
+        "section": 3
+      },
+      {
+        "id": "R05V035",
+        "start": 3371,
+        "end": 3398,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK01_02.png",
+            "start": 3371,
+            "end": 3398,
+            "scale": 1.1,
+            "x": 48,
+            "y": 65,
+            "motion": 0
+          }
+        ],
+        "spoken": "You cut the crop.",
+        "section": 3
+      },
+      {
+        "id": "R05V036",
+        "start": 3398,
+        "end": 3458,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK01_03.png",
+            "start": 3398,
+            "end": 3458,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The cut stalks are still lying in the field.",
+        "section": 3
+      },
+      {
+        "id": "R05V037",
+        "start": 3458,
+        "end": 3516,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK02_01.png",
+            "start": 3458,
+            "end": 3487,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_WK02_02.png",
+            "start": 3487,
+            "end": 3516,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Somebody gathers them into a bundle.",
+        "section": 3
+      },
+      {
+        "id": "R05V038",
+        "start": 3516,
+        "end": 3534,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK03_02.png",
+            "start": 3516,
+            "end": 3534,
+            "scale": 1.06,
+            "x": 50,
+            "y": 62,
+            "motion": 0.025
+          }
+        ],
+        "spoken": "You lift it,",
+        "section": 3
+      },
+      {
+        "id": "R05V039",
+        "start": 3534,
+        "end": 3585,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK04_01.png",
+            "start": 3534,
+            "end": 3585,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "carry it to where it's being collected,",
+        "section": 3
+      },
+      {
+        "id": "R05V040",
+        "start": 3585,
+        "end": 3634,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK04_02.png",
+            "start": 3585,
+            "end": 3634,
+            "scale": 1.04,
+            "x": 55,
+            "y": 63,
+            "motion": 0.025
+          }
+        ],
+        "spoken": "put it down and return.",
+        "section": 3
+      },
+      {
+        "id": "R05V041",
+        "start": 3634,
+        "end": 3673,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK04_03.png",
+            "start": 3634,
+            "end": 3673,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "One bundle has arrived.",
+        "section": 3
+      },
+      {
+        "id": "R05V042",
+        "start": 3673,
+        "end": 3741,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK01_03.png",
+            "start": 3673,
+            "end": 3741,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The rest of the crop has not received the memo.",
+        "section": 3
+      },
+      {
+        "id": "R05V043",
+        "start": 3741,
+        "end": 3820,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK05_02.png",
+            "start": 3741,
+            "end": 3820,
+            "scale": 1.14,
+            "x": 39,
+            "y": 38,
+            "motion": 0.012
+          }
+        ],
+        "spoken": "You give the next bundle your most exhausted look.",
+        "section": 3
+      },
+      {
+        "id": "R05V044",
+        "start": 3820,
+        "end": 3839,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK05_02.png",
+            "start": 3820,
+            "end": 3839,
+            "scale": 1.14,
+            "x": 39,
+            "y": 38,
+            "motion": 0
+          }
+        ],
+        "spoken": "Nothing.",
+        "section": 3
+      },
+      {
+        "id": "R05V045",
+        "start": 3839,
+        "end": 3871,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK04_01.png",
+            "start": 3839,
+            "end": 3871,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Back to carrying.",
+        "section": 3
+      },
+      {
+        "id": "R05V046",
+        "start": 3871,
+        "end": 4051,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK06_01.png",
+            "start": 3871,
+            "end": 3961,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_WK06_02.png",
+            "start": 3961,
+            "end": 4051,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "With another person gathering while you carry, you don't both have to stop for every step. You're doing different parts of the same job.",
+        "section": 3
+      },
+      {
+        "id": "R05V047",
+        "start": 4051,
+        "end": 4141,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK05_01.png",
+            "start": 4051,
+            "end": 4096,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_WK05_02.png",
+            "start": 4096,
+            "end": 4141,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "In our scene, the collection grows as more bundles arrive.",
+        "section": 3
+      },
+      {
+        "id": "R05V048",
+        "start": 4141,
+        "end": 4240,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK05_02.png",
+            "start": 4141,
+            "end": 4240,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "But having learned to work doesn't mean you can choose every task for yourself.",
+        "section": 3
+      },
+      {
+        "id": "R05V049",
+        "start": 4240,
+        "end": 4383,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP02_01.png",
+            "start": 4240,
+            "end": 4312,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP05_02.png",
+            "start": 4312,
+            "end": 4383,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "For your adult life, we're following the route of someone who has a holding with labour obligations.",
+        "section": 3
+      },
+      {
+        "id": "R05V050",
+        "start": 4383,
+        "end": 4469,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_WK06_02.png",
+            "start": 4383,
+            "end": 4469,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Not everyone obtained the same land or had the same status.",
+        "section": 3
+      },
+      {
+        "id": "R05V051",
+        "start": 4469,
+        "end": 4557,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP02_02.png",
+            "start": 4469,
+            "end": 4513,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_OP05_02.png",
+            "start": 4513,
+            "end": 4557,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You might do the work owed, then turn back to your household's crop.",
+        "section": 3
+      },
+      {
+        "id": "R05V052",
+        "start": 4557,
+        "end": 4630,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP02_02.png",
+            "start": 4557,
+            "end": 4593,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R05_HOMEWORK01_01.png",
+            "start": 4593,
+            "end": 4630,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Your hands haven't changed. Who the work is for has.",
+        "section": 3
+      },
+      {
+        "id": "R05V053",
+        "start": 4630,
+        "end": 4833,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R05_HOMEWORK01_01.png",
+            "start": 4630,
+            "end": 4732,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R05_HOMEHARVEST01_01.png",
+            "start": 4732,
+            "end": 4833,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "That's why finishing one job can leave another waiting. The field that feeds you still needs attention, even after you've supplied labour elsewhere.",
+        "section": 3
+      },
+      {
+        "id": "R05V054",
+        "start": 4833,
+        "end": 4875,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM01_01.png",
+            "start": 4833,
+            "end": 4875,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Come home with part of the harvest.",
+        "section": 4
+      },
+      {
+        "id": "R05V055",
+        "start": 4875,
+        "end": 5007,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM01_01.png",
+            "start": 4875,
+            "end": 4941,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_HM01_02.png",
+            "start": 4941,
+            "end": 5007,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Let's keep following the person who helped you carry it. Once home, they turn to preparing food.",
+        "section": 4
+      },
+      {
+        "id": "R05V056",
+        "start": 5007,
+        "end": 5090,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM02_01.png",
+            "start": 5007,
+            "end": 5090,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You bring something to the table, then take your place beside them.",
+        "section": 4
+      },
+      {
+        "id": "R05V057",
+        "start": 5090,
+        "end": 5178,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM02_01.png",
+            "start": 5090,
+            "end": 5134,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_HM02_02.png",
+            "start": 5134,
+            "end": 5178,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The person who took part of the load in the field now passes you food.",
+        "section": 4
+      },
+      {
+        "id": "R05V058",
+        "start": 5178,
+        "end": 5257,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM02_03.png",
+            "start": 5178,
+            "end": 5257,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You take your place in a household whose work you've been sharing.",
+        "section": 4
+      },
+      {
+        "id": "R05V059",
+        "start": 5257,
+        "end": 5346,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM03_02.png",
+            "start": 5257,
+            "end": 5346,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Put bread beside a cooked meal. Perhaps there's cheese if you have it.",
+        "section": 4
+      },
+      {
+        "id": "R05V060",
+        "start": 5346,
+        "end": 5535,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM03_02.png",
+            "start": 5346,
+            "end": 5440,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_01.png",
+            "start": 5440,
+            "end": 5535,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Evidence from pots at West Cotton points to meat-and-vegetable stews and dairy foods, though that doesn't establish daily meat for everyone.",
+        "section": 4
+      },
+      {
+        "id": "R05V061",
+        "start": 5535,
+        "end": 5566,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM03_01.png",
+            "start": 5535,
+            "end": 5566,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You take a mouthful.",
+        "section": 4
+      },
+      {
+        "id": "R05V062",
+        "start": 5566,
+        "end": 5681,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM03_02.png",
+            "start": 5566,
+            "end": 5681,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Work has produced something useful, and you can enjoy the meal you've helped make possible.",
+        "section": 4
+      },
+      {
+        "id": "R05V063",
+        "start": 5681,
+        "end": 5767,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_01.png",
+            "start": 5681,
+            "end": 5724,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_02.png",
+            "start": 5724,
+            "end": 5767,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "But bringing the crop home doesn't mean you can eat the entire store.",
+        "section": 4
+      },
+      {
+        "id": "R05V064",
+        "start": 5767,
+        "end": 5871,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_01.png",
+            "start": 5767,
+            "end": 5819,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_02.png",
+            "start": 5819,
+            "end": 5871,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "In our scene, put aside grain for sowing. Keep food for later.",
+        "section": 4
+      },
+      {
+        "id": "R05V065",
+        "start": 5871,
+        "end": 5939,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_03.png",
+            "start": 5871,
+            "end": 5939,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Then remember the claims attached to the holding.",
+        "section": 4
+      },
+      {
+        "id": "R05V066",
+        "start": 5939,
+        "end": 6095,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH08_01.png",
+            "start": 5939,
+            "end": 6017,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_CH08_02.png",
+            "start": 6017,
+            "end": 6095,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Hugh's record included payments, grain, three hens and a rooster each year, and five eggs at Easter.",
+        "section": 4
+      },
+      {
+        "id": "R05V067",
+        "start": 6095,
+        "end": 6197,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH08_02.png",
+            "start": 6095,
+            "end": 6146,
+            "scale": 1.1,
+            "x": 49,
+            "y": 49,
+            "motion": 0.018
+          },
+          {
+            "file": "medieval/video003/current/gag/GAG_poultry_paperwork.png",
+            "start": 6146,
+            "end": 6197,
+            "scale": 1.1,
+            "x": 49,
+            "y": 49,
+            "motion": 0.018
+          }
+        ],
+        "spoken": "Even chickens have made it into the paperwork. Nobody consulted the chickens.",
+        "section": 4
+      },
+      {
+        "id": "R05V068",
+        "start": 6197,
+        "end": 6256,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_03.png",
+            "start": 6197,
+            "end": 6256,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "His lord was the abbot of Peterborough.",
+        "section": 4
+      },
+      {
+        "id": "R05V069",
+        "start": 6256,
+        "end": 6359,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_03.png",
+            "start": 6256,
+            "end": 6359,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You didn't need a castle and a sword to have claims on somebody's work and produce.",
+        "section": 4
+      },
+      {
+        "id": "R05V070",
+        "start": 6359,
+        "end": 6549,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_01.png",
+            "start": 6359,
+            "end": 6454,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_HM04_02.png",
+            "start": 6454,
+            "end": 6549,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You can see the distinction on the table and in the store: food you've eaten, supplies you've kept, and produce that may be owed elsewhere.",
+        "section": 4
+      },
+      {
+        "id": "R05V071",
+        "start": 6549,
+        "end": 6674,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM05_01.png",
+            "start": 6549,
+            "end": 6674,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "If you need more food now and use grain kept for sowing, that can help today's meal.",
+        "section": 4
+      },
+      {
+        "id": "R05V072",
+        "start": 6674,
+        "end": 6758,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM05_02.png",
+            "start": 6674,
+            "end": 6758,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "It also leaves you needing to replace that grain before sowing.",
+        "section": 4
+      },
+      {
+        "id": "R05V073",
+        "start": 6758,
+        "end": 6868,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_HM05_03.png",
+            "start": 6758,
+            "end": 6868,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The pile cannot be in two places at once, however strongly you feel about it.",
+        "section": 4
+      },
+      {
+        "id": "R05V074",
+        "start": 6868,
+        "end": 6973,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR03_01.png",
+            "start": 6868,
+            "end": 6920,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR03_02.png",
+            "start": 6920,
+            "end": 6973,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Suppose a cooking pot needs replacing. Its fragments are on the floor, and",
+        "section": 5
+      },
+      {
+        "id": "R05V075",
+        "start": 6973,
+        "end": 7053,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR03_02.png",
+            "start": 6973,
+            "end": 7013,
+            "scale": 1.07,
+            "x": 50,
+            "y": 55,
+            "motion": 0.015
+          },
+          {
+            "file": "medieval/video003/current/gag/GAG_pot_plant.png",
+            "start": 7013,
+            "end": 7053,
+            "scale": 1.07,
+            "x": 50,
+            "y": 55,
+            "motion": 0.015
+          }
+        ],
+        "spoken": "planting them is unlikely to improve your pottery supply.",
+        "section": 5
+      },
+      {
+        "id": "R05V076",
+        "start": 7053,
+        "end": 7161,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR03_01.png",
+            "start": 7053,
+            "end": 7107,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_01.png",
+            "start": 7107,
+            "end": 7161,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "So a life supported by farming still involves dealing with other people.",
+        "section": 5
+      },
+      {
+        "id": "R05V077",
+        "start": 7161,
+        "end": 7248,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_01.png",
+            "start": 7161,
+            "end": 7248,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Households traded and bought things; some also made goods for sale.",
+        "section": 5
+      },
+      {
+        "id": "R05V078",
+        "start": 7248,
+        "end": 7389,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_01.png",
+            "start": 7248,
+            "end": 7318,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_02.png",
+            "start": 7318,
+            "end": 7389,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "With equipment, ingredients and customers, bread-making is one possible activity.",
+        "section": 5
+      },
+      {
+        "id": "R05V079",
+        "start": 7389,
+        "end": 7431,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_01.png",
+            "start": 7389,
+            "end": 7431,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Let's imagine a batch sold.",
+        "section": 5
+      },
+      {
+        "id": "R05V080",
+        "start": 7431,
+        "end": 7470,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_02.png",
+            "start": 7431,
+            "end": 7470,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The customer takes the bread.",
+        "section": 5
+      },
+      {
+        "id": "R05V081",
+        "start": 7470,
+        "end": 7498,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_03.png",
+            "start": 7470,
+            "end": 7498,
+            "scale": 1.1,
+            "x": 55,
+            "y": 65,
+            "motion": 0.02
+          }
+        ],
+        "spoken": "You receive money.",
+        "section": 5
+      },
+      {
+        "id": "R05V082",
+        "start": 7498,
+        "end": 7599,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_01.png",
+            "start": 7498,
+            "end": 7548,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_02.png",
+            "start": 7548,
+            "end": 7599,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Before you put it towards the pot, you provide for what another batch would need.",
+        "section": 5
+      },
+      {
+        "id": "R05V083",
+        "start": 7599,
+        "end": 7657,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_02.png",
+            "start": 7599,
+            "end": 7657,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "What remains may help get the replacement.",
+        "section": 5
+      },
+      {
+        "id": "R05V084",
+        "start": 7657,
+        "end": 7710,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_02.png",
+            "start": 7657,
+            "end": 7683,
+            "scale": 1.04,
+            "x": 50,
+            "y": 50,
+            "motion": 0.015
+          },
+          {
+            "file": "medieval/video003/current/gag/GAG_coin_job.png",
+            "start": 7683,
+            "end": 7710,
+            "scale": 1.04,
+            "x": 50,
+            "y": 50,
+            "motion": 0.015
+          }
+        ],
+        "spoken": "The money has already found another job.",
+        "section": 5
+      },
+      {
+        "id": "R05V085",
+        "start": 7710,
+        "end": 7784,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR02_02.png",
+            "start": 7710,
+            "end": 7784,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You were rather hoping it might pay for something and retire.",
+        "section": 5
+      },
+      {
+        "id": "R05V086",
+        "start": 7784,
+        "end": 7872,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR03_01.png",
+            "start": 7784,
+            "end": 7828,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR03_02.png",
+            "start": 7828,
+            "end": 7872,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "If the exchange works, the replacement comes into your home.",
+        "section": 5
+      },
+      {
+        "id": "R05V087",
+        "start": 7872,
+        "end": 7995,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR04_01.png",
+            "start": 7872,
+            "end": 7913,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR04_02.png",
+            "start": 7913,
+            "end": 7954,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR04_03.png",
+            "start": 7954,
+            "end": 7995,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The fragments can be put aside, and you can return to a familiar task with a usable pot.",
+        "section": 5
+      },
+      {
+        "id": "R05V088",
+        "start": 7995,
+        "end": 8080,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR04_03.png",
+            "start": 7995,
+            "end": 8080,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Then a bad year can change what those connections deliver.",
+        "section": 5
+      },
+      {
+        "id": "R05V089",
+        "start": 8080,
+        "end": 8209,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_03.png",
+            "start": 8080,
+            "end": 8209,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Keep that ordinary scene in mind: work, exchange, food brought home.",
+        "section": 6
+      },
+      {
+        "id": "R05V090",
+        "start": 8209,
+        "end": 8301,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR05_01.png",
+            "start": 8209,
+            "end": 8255,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_CR05_02.png",
+            "start": 8255,
+            "end": 8301,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Now compare it with the famine that began in thirteen fifteen.",
+        "section": 6
+      },
+      {
+        "id": "R05V091",
+        "start": 8301,
+        "end": 8423,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR05_01.png",
+            "start": 8301,
+            "end": 8423,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "This was a crisis, not an ordinary year repeated throughout our character's life.",
+        "section": 6
+      },
+      {
+        "id": "R05V092",
+        "start": 8423,
+        "end": 8567,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR05_01.png",
+            "start": 8423,
+            "end": 8495,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_CR05_02.png",
+            "start": 8495,
+            "end": 8567,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "A writer at the time described heavy rain preventing grain from ripening and making harvesting difficult.",
+        "section": 6
+      },
+      {
+        "id": "R05V093",
+        "start": 8567,
+        "end": 8641,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR01_01.png",
+            "start": 8567,
+            "end": 8641,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Suppose your supplies fall short and you find paid work.",
+        "section": 6
+      },
+      {
+        "id": "R05V094",
+        "start": 8641,
+        "end": 8706,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR01_02.png",
+            "start": 8641,
+            "end": 8673,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_CR02_01.png",
+            "start": 8673,
+            "end": 8706,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You earn money and go to buy food.",
+        "section": 6
+      },
+      {
+        "id": "R05V095",
+        "start": 8706,
+        "end": 8812,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR02_02.png",
+            "start": 8706,
+            "end": 8812,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "During the famine, wages could rise while grain prices rose faster.",
+        "section": 6
+      },
+      {
+        "id": "R05V096",
+        "start": 8812,
+        "end": 8862,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR02_03.png",
+            "start": 8812,
+            "end": 8862,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "More money could buy less grain.",
+        "section": 6
+      },
+      {
+        "id": "R05V097",
+        "start": 8862,
+        "end": 8941,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR02_03.png",
+            "start": 8862,
+            "end": 8902,
+            "scale": 1.07,
+            "x": 55,
+            "y": 52,
+            "motion": 0.02
+          },
+          {
+            "file": "medieval/video003/current/gag/GAG_dinner_run.png",
+            "start": 8902,
+            "end": 8941,
+            "scale": 1.07,
+            "x": 55,
+            "y": 52,
+            "motion": 0.02
+          }
+        ],
+        "spoken": "You are chasing dinner. Dinner has picked up speed.",
+        "section": 6
+      },
+      {
+        "id": "R05V098",
+        "start": 8941,
+        "end": 9010,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR03_01.png",
+            "start": 8941,
+            "end": 9010,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The routine looks familiar. The result doesn't:",
+        "section": 6
+      },
+      {
+        "id": "R05V099",
+        "start": 9010,
+        "end": 9092,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR03_02.png",
+            "start": 9010,
+            "end": 9092,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "what you can bring home may no longer cover the shortage.",
+        "section": 6
+      },
+      {
+        "id": "R05V100",
+        "start": 9092,
+        "end": 9248,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR04_01.png",
+            "start": 9092,
+            "end": 9248,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "In April thirteen sixteen, the king complained that some people with large grain stocks were holding them back from sale,",
+        "section": 6
+      },
+      {
+        "id": "R05V101",
+        "start": 9248,
+        "end": 9293,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR04_02.png",
+            "start": 9248,
+            "end": 9293,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "hoping for higher prices later.",
+        "section": 6
+      },
+      {
+        "id": "R05V102",
+        "start": 9293,
+        "end": 9446,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR04_03.png",
+            "start": 9293,
+            "end": 9446,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "From the buyer's side: there can be grain in a store and money in your hand, without grain offered for sale.",
+        "section": 6
+      },
+      {
+        "id": "R05V103",
+        "start": 9446,
+        "end": 9558,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR04_03.png",
+            "start": 9446,
+            "end": 9558,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "This is where “just work harder” stops being a complete answer.",
+        "section": 6
+      },
+      {
+        "id": "R05V104",
+        "start": 9558,
+        "end": 9654,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR03_02.png",
+            "start": 9558,
+            "end": 9654,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The writer who described the rain also described people dying of hunger.",
+        "section": 6
+      },
+      {
+        "id": "R05V105",
+        "start": 9654,
+        "end": 9763,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CR03_02.png",
+            "start": 9654,
+            "end": 9763,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Knowing your work, and being willing to do it, couldn't guarantee enough food.",
+        "section": 6
+      },
+      {
+        "id": "R05V106",
+        "start": 9763,
+        "end": 9834,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV01_01.png",
+            "start": 9763,
+            "end": 9834,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Suppose you look for a different life elsewhere.",
+        "section": 7
+      },
+      {
+        "id": "R05V107",
+        "start": 9834,
+        "end": 9903,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV01_02.png",
+            "start": 9834,
+            "end": 9868,
+            "scale": 1.08,
+            "x": 52,
+            "y": 62,
+            "motion": 0.025
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_MV01_03.png",
+            "start": 9868,
+            "end": 9903,
+            "scale": 1.08,
+            "x": 52,
+            "y": 62,
+            "motion": 0.025
+          }
+        ],
+        "spoken": "Fold what you can carry into a bundle and lift it.",
+        "section": 7
+      },
+      {
+        "id": "R05V108",
+        "start": 9903,
+        "end": 9952,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_01.png",
+            "start": 9903,
+            "end": 9952,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Your belongings can go with you.",
+        "section": 7
+      },
+      {
+        "id": "R05V109",
+        "start": 9952,
+        "end": 10066,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_03.png",
+            "start": 9952,
+            "end": 10009,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_MV03_01.png",
+            "start": 10009,
+            "end": 10066,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The crop, the home and the people you know can't all be folded into the cloth.",
+        "section": 7
+      },
+      {
+        "id": "R05V110",
+        "start": 10066,
+        "end": 10193,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_01.png",
+            "start": 10066,
+            "end": 10193,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "And depending on your legal position, some obligations may follow you anyway.",
+        "section": 7
+      },
+      {
+        "id": "R05V111",
+        "start": 10193,
+        "end": 10369,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV04_01.png",
+            "start": 10193,
+            "end": 10369,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "An earlier court record allowed Walter Hull to live elsewhere after a payment, with other people guaranteeing his obligations.",
+        "section": 7
+      },
+      {
+        "id": "R05V112",
+        "start": 10369,
+        "end": 10416,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV04_02.png",
+            "start": 10369,
+            "end": 10416,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "His services remained owed.",
+        "section": 7
+      },
+      {
+        "id": "R05V113",
+        "start": 10416,
+        "end": 10513,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_01.png",
+            "start": 10416,
+            "end": 10513,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "New address. Unfortunately, the old claims knew how to find it.",
+        "section": 7
+      },
+      {
+        "id": "R05V114",
+        "start": 10513,
+        "end": 10553,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_01.png",
+            "start": 10513,
+            "end": 10553,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "People did move.",
+        "section": 7
+      },
+      {
+        "id": "R05V115",
+        "start": 10553,
+        "end": 10760,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_01.png",
+            "start": 10553,
+            "end": 10760,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "That record doesn't mean every peasant was forbidden to leave. It shows why changing location wasn't necessarily the same as being released from obligations.",
+        "section": 7
+      },
+      {
+        "id": "R05V116",
+        "start": 10760,
+        "end": 10809,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV03_01.png",
+            "start": 10760,
+            "end": 10809,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Then think about your next meal.",
+        "section": 7
+      },
+      {
+        "id": "R05V117",
+        "start": 10809,
+        "end": 10910,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV03_02.png",
+            "start": 10809,
+            "end": 10910,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "If you have work or support waiting, leaving may offer a better chance.",
+        "section": 7
+      },
+      {
+        "id": "R05V118",
+        "start": 10910,
+        "end": 11019,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV03_03.png",
+            "start": 10910,
+            "end": 11019,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Without it, getting away from this arrangement doesn't yet give you something to live on.",
+        "section": 7
+      },
+      {
+        "id": "R05V119",
+        "start": 11019,
+        "end": 11109,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_01.png",
+            "start": 11019,
+            "end": 11064,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_02.png",
+            "start": 11064,
+            "end": 11109,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Look back at the field. It's a source of work and demands.",
+        "section": 7
+      },
+      {
+        "id": "R05V120",
+        "start": 11109,
+        "end": 11209,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV02_03.png",
+            "start": 11109,
+            "end": 11209,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "It may also be a source of food. Both can be true at once.",
+        "section": 7
+      },
+      {
+        "id": "R05V121",
+        "start": 11209,
+        "end": 11288,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV05_01.png",
+            "start": 11209,
+            "end": 11288,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "People also challenged demands and defended rights.",
+        "section": 7
+      },
+      {
+        "id": "R05V122",
+        "start": 11288,
+        "end": 11414,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV05_02.png",
+            "start": 11288,
+            "end": 11414,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "One court case gave Hugh Cross a favourable decision over a disputed bank and hedge.",
+        "section": 7
+      },
+      {
+        "id": "R05V123",
+        "start": 11414,
+        "end": 11479,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV05_03.png",
+            "start": 11414,
+            "end": 11479,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "A limited victory, but a right protected.",
+        "section": 7
+      },
+      {
+        "id": "R05V124",
+        "start": 11479,
+        "end": 11652,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_MV03_02.png",
+            "start": 11479,
+            "end": 11652,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "So people weren't simply unaware of their options. The options themselves had conditions, costs and possibilities.",
+        "section": 7
+      },
+      {
+        "id": "R05V125",
+        "start": 11652,
+        "end": 11737,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG01_01.png",
+            "start": 11652,
+            "end": 11737,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Suppose you reach old age with a holding to transfer.",
+        "section": 8
+      },
+      {
+        "id": "R05V126",
+        "start": 11737,
+        "end": 11815,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG01_02.png",
+            "start": 11737,
+            "end": 11815,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You may need another person to take over work you've been doing.",
+        "section": 8
+      },
+      {
+        "id": "R05V127",
+        "start": 11815,
+        "end": 11919,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG03_01.png",
+            "start": 11815,
+            "end": 11867,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_AG03_02.png",
+            "start": 11867,
+            "end": 11919,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Some tenants arranged support in return for passing a holding to a successor.",
+        "section": 8
+      },
+      {
+        "id": "R05V128",
+        "start": 11919,
+        "end": 12036,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG03_03.png",
+            "start": 11919,
+            "end": 12036,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Depending on the agreement, that could mean food or access to a small amount of land.",
+        "section": 8
+      },
+      {
+        "id": "R05V129",
+        "start": 12036,
+        "end": 12276,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG04_01.png",
+            "start": 12036,
+            "end": 12156,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_AG04_02.png",
+            "start": 12156,
+            "end": 12276,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "One agreement at Stanton in thirteen forty-one gives a concrete example. An ageing couple and their eventual successor were to live in the same house and share their goods.",
+        "section": 8
+      },
+      {
+        "id": "R05V130",
+        "start": 12276,
+        "end": 12422,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG04_03.png",
+            "start": 12276,
+            "end": 12422,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "He was taking on responsibilities on the holding, with the prospect of eventually becoming its tenant.",
+        "section": 8
+      },
+      {
+        "id": "R05V131",
+        "start": 12422,
+        "end": 12620,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG04_03.png",
+            "start": 12422,
+            "end": 12620,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "That's a separate recorded case, not the guaranteed ending of our story. It shows a way land and a household arrangement could help provide for later life.",
+        "section": 8
+      },
+      {
+        "id": "R05V132",
+        "start": 12620,
+        "end": 12731,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG01_01.png",
+            "start": 12620,
+            "end": 12731,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Someone without those resources couldn't assume the same option.",
+        "section": 8
+      },
+      {
+        "id": "R05V133",
+        "start": 12731,
+        "end": 12842,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_01.png",
+            "start": 12731,
+            "end": 12768,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_02.png",
+            "start": 12768,
+            "end": 12805,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_03.png",
+            "start": 12805,
+            "end": 12842,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Now picture our final scene. Somebody else brings a bundle in while you sit.",
+        "section": 8
+      },
+      {
+        "id": "R05V134",
+        "start": 12842,
+        "end": 12972,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_OP07_03.png",
+            "start": 12842,
+            "end": 12885,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_WK04_01.png",
+            "start": 12885,
+            "end": 12929,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_AG01_02.png",
+            "start": 12929,
+            "end": 12972,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "As a child, you needed looking after. As an adult, other people relied on your work.",
+        "section": 8
+      },
+      {
+        "id": "R05V135",
+        "start": 12972,
+        "end": 13040,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_03.png",
+            "start": 12972,
+            "end": 13040,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "In later life, the balance can change again.",
+        "section": 8
+      },
+      {
+        "id": "R05V136",
+        "start": 13040,
+        "end": 13158,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_03.png",
+            "start": 13040,
+            "end": 13158,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "The land that once meant tasks you had to perform can become something you use to negotiate support.",
+        "section": 8
+      },
+      {
+        "id": "R05V137",
+        "start": 13158,
+        "end": 13378,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_CH07_01.png",
+            "start": 13158,
+            "end": 13231,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_TR01_03.png",
+            "start": 13231,
+            "end": 13305,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          },
+          {
+            "file": "medieval/video003/current/scene/R04_AG05_01.png",
+            "start": 13305,
+            "end": 13378,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "You learned skills, shared a home, dealt with obligations and other people, and made choices within circumstances you didn't fully control.",
+        "section": 8
+      },
+      {
+        "id": "R05V138",
+        "start": 13378,
+        "end": 13443,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_03.png",
+            "start": 13378,
+            "end": 13443,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "Peasants varied in wealth and freedom.",
+        "section": 8
+      },
+      {
+        "id": "R05V139",
+        "start": 13443,
+        "end": 13518,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG02_03.png",
+            "start": 13443,
+            "end": 13518,
+            "scale": 1,
+            "x": 50,
+            "y": 50,
+            "motion": 0
+          }
+        ],
+        "spoken": "This was one reconstructed path through that world.",
+        "section": 8
+      },
+      {
+        "id": "R05V140",
+        "start": 13518,
+        "end": 13581,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG05_01.png",
+            "start": 13518,
+            "end": 13581,
+            "scale": 1.08,
+            "x": 37,
+            "y": 63,
+            "motion": 0.018
+          }
+        ],
+        "spoken": "For tonight, let the chair take a turn.",
+        "section": 8
+      },
+      {
+        "id": "R05V141",
+        "start": 13581,
+        "end": 13687,
+        "cuts": [
+          {
+            "file": "medieval/video003/current/scene/R04_AG05_02.png",
+            "start": 13581,
+            "end": 13687,
+            "scale": 1.04,
+            "x": 40,
+            "y": 59,
+            "motion": 0
+          }
+        ],
+        "spoken": "Finally, something in the household that improves when you put your weight on it.",
+        "section": 8
+      }
+    ],
+    "overlays": [
+      {
+        "id": "R05V002-E01_intro",
+        "variant": "E01_intro",
+        "start": 52,
+        "end": 86,
+        "cue": "owed elsewhere",
+        "sourceSeconds": 2.33,
+        "reason": "Name the competing claim briefly; reserve the full diagram for its explanation"
+      },
+      {
+        "id": "R05V003-E02_week",
+        "variant": "E02_week",
+        "start": 88,
+        "end": 267,
+        "cue": "one English record",
+        "sourceSeconds": 3.92,
+        "reason": "Locate the case; preserve the holiday qualification",
+        "cardDelays": [
+          0,
+          84,
+          138
+        ]
+      },
+      {
+        "id": "R05V004-E02_autumn",
+        "variant": "E02_autumn",
+        "start": 267,
+        "end": 389,
+        "cue": "In autumn",
+        "sourceSeconds": 11.92,
+        "reason": "Hold the worker requirement against the single farmer's own field",
+        "cardDelays": [
+          0,
+          45
+        ]
+      },
+      {
+        "id": "R05V006-E03_one_hugh",
+        "variant": "E03_one_hugh",
+        "start": 504,
+        "end": 542,
+        "cue": "only one Hugh",
+        "sourceSeconds": 22.45,
+        "reason": "Pay off spare-Hugh joke without the unrelated dummy"
+      },
+      {
+        "id": "R05V009-E04_reconstruction",
+        "variant": "E04_reconstruction",
+        "start": 754,
+        "end": 1002,
+        "cue": "one possible life",
+        "sourceSeconds": 33.56,
+        "reason": "Identify reconstruction once before the life story"
+      },
+      {
+        "id": "R05V020-E05_shared_space",
+        "variant": "E05_shared_space",
+        "start": 1857,
+        "end": 1961,
+        "cue": "moves out of the way",
+        "sourceSeconds": 79.54,
+        "reason": "Summarize the room reuse only after it is demonstrated"
+      },
+      {
+        "id": "R05V032-E07_crop_states",
+        "variant": "E07_crop_states",
+        "start": 3101,
+        "end": 3231,
+        "cue": "work that changes",
+        "sourceSeconds": 131.36,
+        "reason": "Connect different jobs to the crop cycle"
+      },
+      {
+        "id": "R05V050-E08_resources_status",
+        "variant": "E08_resources_status",
+        "start": 4414,
+        "end": 4469,
+        "cue": "same land",
+        "sourceSeconds": 186.06,
+        "reason": "Distinguish resources from legal status"
+      },
+      {
+        "id": "R05V051-E01_effort_recipients",
+        "variant": "E01_effort_recipients",
+        "start": 4525,
+        "end": 4630,
+        "cue": "household",
+        "sourceSeconds": 190.7,
+        "reason": "Return to who receives the work, once across the pair"
+      },
+      {
+        "id": "R05V060-E04_diet",
+        "variant": "E04_diet",
+        "start": 5382,
+        "end": 5535,
+        "cue": "West Cotton",
+        "sourceSeconds": 226.42,
+        "reason": "Keep the material evidence and its limit visible"
+      },
+      {
+        "id": "R05V064-E09_before",
+        "variant": "E09_before",
+        "start": 5798,
+        "end": 5871,
+        "cue": "grain for sowing",
+        "sourceSeconds": 243.74,
+        "reason": "Distinguish the seed reserve from food"
+      },
+      {
+        "id": "R05V066-E10_hugh_produce",
+        "variant": "E10_hugh_produce",
+        "start": 5999,
+        "end": 6095,
+        "cue": "three hens",
+        "sourceSeconds": 252.1,
+        "reason": "Show the recorded quantities rather than a prose sentence",
+        "cardDelays": [
+          0,
+          0,
+          42
+        ]
+      },
+      {
+        "id": "R05V068-E11_abbot_claims",
+        "variant": "E11_abbot_claims",
+        "start": 6216,
+        "end": 6359,
+        "cue": "abbot",
+        "sourceSeconds": 261.16,
+        "reason": "Identify the lord without a castle stereotype"
+      },
+      {
+        "id": "R05V071-E09_transfer",
+        "variant": "E09_transfer",
+        "start": 6593,
+        "end": 6674,
+        "cue": "grain kept for sowing",
+        "sourceSeconds": 276.87712500000004,
+        "reason": "Show the reserve being used for food"
+      },
+      {
+        "id": "R05V072-E09_after",
+        "variant": "E09_after",
+        "start": 6703,
+        "end": 6868,
+        "cue": "replace that grain",
+        "sourceSeconds": 281.457125,
+        "reason": "Hold the resulting shortfall without restarting the card"
+      },
+      {
+        "id": "R05V082-E12_sale_inputs",
+        "variant": "E12_sale_inputs",
+        "start": 7561,
+        "end": 7657,
+        "cue": "another batch",
+        "sourceSeconds": 317.217125,
+        "reason": "Make the next-batch allocation visible",
+        "cardDelays": [
+          0,
+          0,
+          0,
+          38
+        ],
+        "arrowDelays": [
+          0,
+          38
+        ]
+      },
+      {
+        "id": "R05V090-E04_famine",
+        "variant": "E04_famine",
+        "start": 8235,
+        "end": 8567,
+        "cue": "famine",
+        "sourceSeconds": 345.29712500000005,
+        "reason": "Clearly label the crisis comparison, once"
+      },
+      {
+        "id": "R05V095-E13_power_relation",
+        "variant": "E13_power_relation",
+        "start": 8732,
+        "end": 8862,
+        "cue": "wages could rise",
+        "sourceSeconds": 365.977125,
+        "reason": "Compare directions without inventing measured ratios",
+        "cardDelays": [
+          0,
+          29,
+          80,
+          0
+        ],
+        "arrowDelays": [
+          0,
+          29
+        ]
+      },
+      {
+        "id": "R05V099-E13_shortfall",
+        "variant": "E13_shortfall",
+        "start": 9010,
+        "end": 9092,
+        "cue": "what you can bring home",
+        "sourceSeconds": 377.577125,
+        "reason": "Give the comparison the whole clause, not only its last words"
+      },
+      {
+        "id": "R05V100-E14_not_offered",
+        "variant": "E14_not_offered",
+        "start": 9213,
+        "end": 9446,
+        "cue": "holding them back",
+        "sourceSeconds": 386.017125,
+        "reason": "Distinguish grain present from grain offered for sale"
+      },
+      {
+        "id": "R05V108-E16_portable",
+        "variant": "E16_portable",
+        "start": 9910,
+        "end": 10066,
+        "cue": "belongings",
+        "sourceSeconds": 415.077125,
+        "reason": "Contrast portable goods with support left behind",
+        "cardDelays": [
+          0,
+          42
+        ]
+      },
+      {
+        "id": "R05V111-E17_location_services",
+        "variant": "E17_location_services",
+        "start": 10233,
+        "end": 10416,
+        "cue": "Walter Hull",
+        "sourceSeconds": 428.53712500000006,
+        "reason": "Keep this separate recorded case identifiable"
+      },
+      {
+        "id": "R05V116-E18_conditions",
+        "variant": "E18_conditions",
+        "start": 10778,
+        "end": 11019,
+        "cue": "next meal",
+        "sourceSeconds": 451.25712500000003,
+        "reason": "Ask the practical support question only when narration reaches it",
+        "cardDelays": [
+          0,
+          132
+        ]
+      },
+      {
+        "id": "R05V122-E19_limited_right",
+        "variant": "E19_limited_right",
+        "start": 11312,
+        "end": 11479,
+        "cue": "Hugh Cross",
+        "sourceSeconds": 473.497125,
+        "reason": "Show what the legal victory actually covered",
+        "cardDelays": [
+          0,
+          63
+        ]
+      },
+      {
+        "id": "R05V127-E20_support",
+        "variant": "E20_support",
+        "start": 11835,
+        "end": 12036,
+        "cue": "support in return",
+        "sourceSeconds": 495.29712500000005,
+        "reason": "Explain the exchange of tenancy and support"
+      },
+      {
+        "id": "R05V129-E04_stanton",
+        "variant": "E04_stanton",
+        "start": 12056,
+        "end": 12276,
+        "cue": "Stanton",
+        "sourceSeconds": 504.477125,
+        "reason": "Locate the later-life agreement"
+      },
+      {
+        "id": "R05V130-E20_support",
+        "variant": "E20_support",
+        "start": 12297,
+        "end": 12422,
+        "cue": "responsibilities",
+        "sourceSeconds": 514.5171250000001,
+        "reason": "Relate the successor's work to future tenancy"
+      }
+    ],
+    "definitions": {
+      "E01_intro": {
+        "cards": [
+          {
+            "x": 75,
+            "y": 180,
+            "width": 286,
+            "height": 101.68,
+            "lines": [
+              "Work owed"
+            ],
+            "size": 64
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E02_week": {
+        "cards": [
+          {
+            "x": 60,
+            "y": 45,
+            "width": 413,
+            "height": 137.52,
+            "lines": [
+              "Alwalton 1279",
+              "One recorded holding"
+            ],
+            "size": 48
+          },
+          {
+            "x": 1180,
+            "y": 180,
+            "width": 433,
+            "height": 101.68,
+            "lines": [
+              "3 days each week"
+            ],
+            "size": 64
+          },
+          {
+            "x": 1150,
+            "y": 290,
+            "width": 486,
+            "height": 79.28,
+            "lines": [
+              "Some holiday weeks exempt"
+            ],
+            "size": 44
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E02_autumn": {
+        "cards": [
+          {
+            "x": 60,
+            "y": 45,
+            "width": 364,
+            "height": 137.52,
+            "lines": [
+              "Alwalton 1279",
+              "Autumn obligation"
+            ],
+            "size": 48
+          },
+          {
+            "x": 1330,
+            "y": 180,
+            "width": 295,
+            "height": 108.4,
+            "lines": [
+              "2 workers"
+            ],
+            "size": 70
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E03_one_hugh": {
+        "cards": [
+          {
+            "x": 1210,
+            "y": 240,
+            "width": 388,
+            "height": 103.92,
+            "lines": [
+              "Only one Hugh"
+            ],
+            "size": 66
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E04_reconstruction": {
+        "cards": [
+          {
+            "x": 50,
+            "y": 40,
+            "width": 433,
+            "height": 135.28,
+            "lines": [
+              "Medieval England",
+              "One reconstructed life"
+            ],
+            "size": 47
+          }
+        ],
+        "arrows": [],
+        "raw": "",
+        "particles": []
+      },
+      "E05_shared_space": {
+        "cards": [
+          {
+            "x": 50,
+            "y": 50,
+            "width": 467,
+            "height": 86,
+            "lines": [
+              "One room, several uses"
+            ],
+            "size": 50
+          },
+          {
+            "x": 230,
+            "y": 860,
+            "width": 126,
+            "height": 86,
+            "lines": [
+              "Play"
+            ],
+            "size": 50
+          },
+          {
+            "x": 800,
+            "y": 860,
+            "width": 281,
+            "height": 86,
+            "lines": [
+              "Prepare food"
+            ],
+            "size": 50
+          },
+          {
+            "x": 1450,
+            "y": 860,
+            "width": 145,
+            "height": 86,
+            "lines": [
+              "Sleep"
+            ],
+            "size": 50
+          }
+        ],
+        "arrows": [],
+        "raw": "",
+        "particles": []
+      },
+      "E07_crop_states": {
+        "cards": [
+          {
+            "x": 70,
+            "y": 35,
+            "width": 375,
+            "height": 92.72,
+            "lines": [
+              "Prepare and sow"
+            ],
+            "size": 56
+          },
+          {
+            "x": 1200,
+            "y": 35,
+            "width": 394,
+            "height": 92.72,
+            "lines": [
+              "Grow and harvest"
+            ],
+            "size": 56
+          },
+          {
+            "x": 70,
+            "y": 890,
+            "width": 474,
+            "height": 83.76,
+            "lines": [
+              "The crop changes the job"
+            ],
+            "size": 48
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 560,
+            "y1": 95,
+            "x2": 1170,
+            "y2": 95,
+            "color": "#203e52"
+          }
+        ],
+        "raw": ""
+      },
+      "E08_resources_status": {
+        "cards": [
+          {
+            "x": 60,
+            "y": 45,
+            "width": 634,
+            "height": 90.48,
+            "lines": [
+              "Wealth and freedom can differ"
+            ],
+            "size": 54
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E01_effort_recipients": {
+        "cards": [
+          {
+            "x": 803,
+            "y": 690,
+            "width": 239,
+            "height": 90.48,
+            "lines": [
+              "Your work"
+            ],
+            "size": 54
+          },
+          {
+            "x": 130,
+            "y": 890,
+            "width": 247,
+            "height": 90.48,
+            "lines": [
+              "Work owed"
+            ],
+            "size": 54
+          },
+          {
+            "x": 1260,
+            "y": 890,
+            "width": 338,
+            "height": 90.48,
+            "lines": [
+              "Your household"
+            ],
+            "size": 54
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 850,
+            "y1": 800,
+            "x2": 410,
+            "y2": 875,
+            "color": "#203e52"
+          },
+          {
+            "x1": 1090,
+            "y1": 800,
+            "x2": 1450,
+            "y2": 875,
+            "color": "#203e52"
+          }
+        ],
+        "raw": ""
+      },
+      "E04_diet": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 835,
+            "width": 571,
+            "height": 137.52,
+            "lines": [
+              "West Cotton",
+              "Pot evidence, not a daily menu"
+            ],
+            "size": 48
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E09_before": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 35,
+            "width": 657,
+            "height": 83.76,
+            "lines": [
+              "Illustration, not measured amounts"
+            ],
+            "size": 48
+          },
+          {
+            "x": 820,
+            "y": 942.28,
+            "width": 140,
+            "height": 92.72,
+            "lines": [
+              "Seed"
+            ],
+            "size": 56
+          },
+          {
+            "x": 1300,
+            "y": 942.28,
+            "width": 137,
+            "height": 92.72,
+            "lines": [
+              "Food"
+            ],
+            "size": 56
+          }
+        ],
+        "arrows": [],
+        "raw": "<ellipse id=\"actual_g000\" cx=\"898.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g001\" cx=\"920.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g002\" cx=\"942.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g003\" cx=\"964.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g004\" cx=\"986.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g005\" cx=\"1008.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g006\" cx=\"1030.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g007\" cx=\"1052.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g008\" cx=\"1074.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g009\" cx=\"1096.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g010\" cx=\"905.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g011\" cx=\"927.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g012\" cx=\"949.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g013\" cx=\"971.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g014\" cx=\"993.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g015\" cx=\"1015.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g016\" cx=\"1037.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g017\" cx=\"1059.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g018\" cx=\"1081.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g019\" cx=\"1103.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g020\" cx=\"898.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g021\" cx=\"920.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g022\" cx=\"942.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g023\" cx=\"964.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g024\" cx=\"986.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g025\" cx=\"1008.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g026\" cx=\"1030.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g027\" cx=\"1052.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g028\" cx=\"1074.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g029\" cx=\"1096.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g030\" cx=\"905.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g031\" cx=\"927.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g032\" cx=\"949.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g033\" cx=\"971.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g034\" cx=\"993.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g035\" cx=\"1015.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g036\" cx=\"1037.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g037\" cx=\"1059.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g038\" cx=\"1081.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g039\" cx=\"1103.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g040\" cx=\"898.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g041\" cx=\"920.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g042\" cx=\"942.0\" cy=\"685\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g043\" cx=\"964.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g044\" cx=\"986.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g045\" cx=\"1008.0\" cy=\"685\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g046\" cx=\"1030.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g047\" cx=\"1052.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g048\" cx=\"1074.0\" cy=\"685\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g049\" cx=\"1096.0\" cy=\"683\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g050\" cx=\"905.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g051\" cx=\"927.0\" cy=\"697\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g052\" cx=\"949.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g053\" cx=\"971.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g054\" cx=\"993.0\" cy=\"697\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g055\" cx=\"1015.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g056\" cx=\"1037.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g057\" cx=\"1059.0\" cy=\"697\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g058\" cx=\"1081.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g059\" cx=\"1103.0\" cy=\"695\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g060\" cx=\"1378.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g061\" cx=\"1400.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g062\" cx=\"1422.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g063\" cx=\"1444.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g064\" cx=\"1466.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g065\" cx=\"1488.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g066\" cx=\"1510.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g067\" cx=\"1532.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g068\" cx=\"1554.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g069\" cx=\"1576.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g070\" cx=\"1385.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g071\" cx=\"1407.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g072\" cx=\"1429.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g073\" cx=\"1451.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g074\" cx=\"1473.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g075\" cx=\"1495.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g076\" cx=\"1517.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g077\" cx=\"1539.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g078\" cx=\"1561.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g079\" cx=\"1583.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" />",
+        "particles": []
+      },
+      "E10_hugh_produce": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 40,
+            "width": 436,
+            "height": 88.24,
+            "lines": [
+              "Hugh's recorded dues"
+            ],
+            "size": 52
+          },
+          {
+            "x": 55,
+            "y": 175,
+            "width": 391,
+            "height": 146.48,
+            "lines": [
+              "Each year",
+              "3 hens + 1 rooster"
+            ],
+            "size": 52
+          },
+          {
+            "x": 55,
+            "y": 365,
+            "width": 225,
+            "height": 146.48,
+            "lines": [
+              "At Easter",
+              "5 eggs"
+            ],
+            "size": 52
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E11_abbot_claims": {
+        "cards": [
+          {
+            "x": 90,
+            "y": 90,
+            "width": 399,
+            "height": 88.24,
+            "lines": [
+              "Holding and tenant"
+            ],
+            "size": 52
+          },
+          {
+            "x": 1180,
+            "y": 90,
+            "width": 472,
+            "height": 88.24,
+            "lines": [
+              "Abbot of Peterborough"
+            ],
+            "size": 52
+          },
+          {
+            "x": 330,
+            "y": 850,
+            "width": 522,
+            "height": 81.52,
+            "lines": [
+              "A lord could also be an abbot"
+            ],
+            "size": 46
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 760,
+            "y1": 150,
+            "x2": 1160,
+            "y2": 150,
+            "color": "#203e52"
+          }
+        ],
+        "raw": "",
+        "particles": []
+      },
+      "E09_transfer": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 35,
+            "width": 657,
+            "height": 83.76,
+            "lines": [
+              "Illustration, not measured amounts"
+            ],
+            "size": 48
+          },
+          {
+            "x": 820,
+            "y": 942.28,
+            "width": 140,
+            "height": 92.72,
+            "lines": [
+              "Seed"
+            ],
+            "size": 56
+          },
+          {
+            "x": 1300,
+            "y": 942.28,
+            "width": 137,
+            "height": 92.72,
+            "lines": [
+              "Food"
+            ],
+            "size": 56
+          },
+          {
+            "x": 1000,
+            "y": 250,
+            "width": 341,
+            "height": 79.28,
+            "lines": [
+              "Seed used for food"
+            ],
+            "size": 44
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 1120,
+            "y1": 490,
+            "x2": 1380,
+            "y2": 490,
+            "color": "#203e52"
+          }
+        ],
+        "raw": "<ellipse id=\"actual_g000\" cx=\"898.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g001\" cx=\"920.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g002\" cx=\"942.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g003\" cx=\"964.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g004\" cx=\"986.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g005\" cx=\"1008.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g006\" cx=\"1030.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g007\" cx=\"1052.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g008\" cx=\"1074.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g009\" cx=\"1096.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g010\" cx=\"905.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g011\" cx=\"927.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g012\" cx=\"949.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g013\" cx=\"971.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g014\" cx=\"993.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g015\" cx=\"1015.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g016\" cx=\"1037.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g017\" cx=\"1059.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g018\" cx=\"1081.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g019\" cx=\"1103.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g020\" cx=\"898.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g021\" cx=\"920.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g022\" cx=\"942.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g023\" cx=\"964.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g024\" cx=\"986.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g025\" cx=\"1008.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g026\" cx=\"1030.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g027\" cx=\"1052.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g028\" cx=\"1074.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g029\" cx=\"1096.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g030\" cx=\"905.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g031\" cx=\"927.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g032\" cx=\"949.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g033\" cx=\"971.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g034\" cx=\"993.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g035\" cx=\"1015.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g036\" cx=\"1037.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g037\" cx=\"1059.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g038\" cx=\"1081.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g039\" cx=\"1103.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g060\" cx=\"1378.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g061\" cx=\"1400.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g062\" cx=\"1422.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g063\" cx=\"1444.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g064\" cx=\"1466.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g065\" cx=\"1488.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g066\" cx=\"1510.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g067\" cx=\"1532.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g068\" cx=\"1554.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g069\" cx=\"1576.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g070\" cx=\"1385.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g071\" cx=\"1407.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g072\" cx=\"1429.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g073\" cx=\"1451.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g074\" cx=\"1473.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g075\" cx=\"1495.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g076\" cx=\"1517.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g077\" cx=\"1539.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g078\" cx=\"1561.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g079\" cx=\"1583.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" />",
+        "particles": [
+          {
+            "x1": 898,
+            "y1": 683,
+            "x2": 1378,
+            "y2": 661
+          },
+          {
+            "x1": 920,
+            "y1": 683,
+            "x2": 1400,
+            "y2": 659
+          },
+          {
+            "x1": 942,
+            "y1": 685,
+            "x2": 1422,
+            "y2": 659
+          },
+          {
+            "x1": 964,
+            "y1": 683,
+            "x2": 1444,
+            "y2": 661
+          },
+          {
+            "x1": 986,
+            "y1": 683,
+            "x2": 1466,
+            "y2": 659
+          },
+          {
+            "x1": 1008,
+            "y1": 685,
+            "x2": 1488,
+            "y2": 659
+          },
+          {
+            "x1": 1030,
+            "y1": 683,
+            "x2": 1510,
+            "y2": 661
+          },
+          {
+            "x1": 1052,
+            "y1": 683,
+            "x2": 1532,
+            "y2": 659
+          },
+          {
+            "x1": 1074,
+            "y1": 685,
+            "x2": 1554,
+            "y2": 659
+          },
+          {
+            "x1": 1096,
+            "y1": 683,
+            "x2": 1576,
+            "y2": 661
+          },
+          {
+            "x1": 905,
+            "y1": 695,
+            "x2": 1385,
+            "y2": 671
+          },
+          {
+            "x1": 927,
+            "y1": 697,
+            "x2": 1407,
+            "y2": 671
+          },
+          {
+            "x1": 949,
+            "y1": 695,
+            "x2": 1429,
+            "y2": 673
+          },
+          {
+            "x1": 971,
+            "y1": 695,
+            "x2": 1451,
+            "y2": 671
+          },
+          {
+            "x1": 993,
+            "y1": 697,
+            "x2": 1473,
+            "y2": 671
+          },
+          {
+            "x1": 1015,
+            "y1": 695,
+            "x2": 1495,
+            "y2": 673
+          },
+          {
+            "x1": 1037,
+            "y1": 695,
+            "x2": 1517,
+            "y2": 671
+          },
+          {
+            "x1": 1059,
+            "y1": 697,
+            "x2": 1539,
+            "y2": 671
+          },
+          {
+            "x1": 1081,
+            "y1": 695,
+            "x2": 1561,
+            "y2": 673
+          },
+          {
+            "x1": 1103,
+            "y1": 695,
+            "x2": 1583,
+            "y2": 671
+          }
+        ]
+      },
+      "E09_after": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 35,
+            "width": 657,
+            "height": 83.76,
+            "lines": [
+              "Illustration, not measured amounts"
+            ],
+            "size": 48
+          },
+          {
+            "x": 820,
+            "y": 942.28,
+            "width": 140,
+            "height": 92.72,
+            "lines": [
+              "Seed"
+            ],
+            "size": 56
+          },
+          {
+            "x": 1300,
+            "y": 942.28,
+            "width": 137,
+            "height": 92.72,
+            "lines": [
+              "Food"
+            ],
+            "size": 56
+          },
+          {
+            "x": 700,
+            "y": 840,
+            "width": 399,
+            "height": 79.28,
+            "lines": [
+              "Replace before sowing"
+            ],
+            "size": 44
+          }
+        ],
+        "arrows": [],
+        "raw": "<ellipse id=\"actual_g000\" cx=\"898.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g001\" cx=\"920.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g002\" cx=\"942.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g003\" cx=\"964.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g004\" cx=\"986.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g005\" cx=\"1008.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g006\" cx=\"1030.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g007\" cx=\"1052.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g008\" cx=\"1074.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g009\" cx=\"1096.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g010\" cx=\"905.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g011\" cx=\"927.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g012\" cx=\"949.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g013\" cx=\"971.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g014\" cx=\"993.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g015\" cx=\"1015.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g016\" cx=\"1037.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g017\" cx=\"1059.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g018\" cx=\"1081.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g019\" cx=\"1103.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g020\" cx=\"898.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g021\" cx=\"920.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g022\" cx=\"942.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g023\" cx=\"964.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g024\" cx=\"986.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g025\" cx=\"1008.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g026\" cx=\"1030.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g027\" cx=\"1052.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g028\" cx=\"1074.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g029\" cx=\"1096.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g030\" cx=\"905.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g031\" cx=\"927.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g032\" cx=\"949.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g033\" cx=\"971.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g034\" cx=\"993.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g035\" cx=\"1015.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g036\" cx=\"1037.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g037\" cx=\"1059.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g038\" cx=\"1081.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g039\" cx=\"1103.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g060\" cx=\"1378.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g061\" cx=\"1400.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g062\" cx=\"1422.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g063\" cx=\"1444.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g064\" cx=\"1466.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g065\" cx=\"1488.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g066\" cx=\"1510.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g067\" cx=\"1532.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g068\" cx=\"1554.0\" cy=\"635\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g069\" cx=\"1576.0\" cy=\"637\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g070\" cx=\"1385.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g071\" cx=\"1407.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g072\" cx=\"1429.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g073\" cx=\"1451.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g074\" cx=\"1473.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g075\" cx=\"1495.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g076\" cx=\"1517.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g077\" cx=\"1539.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g078\" cx=\"1561.0\" cy=\"649\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g079\" cx=\"1583.0\" cy=\"647\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g040\" cx=\"1378.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g041\" cx=\"1400.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g042\" cx=\"1422.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g043\" cx=\"1444.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g044\" cx=\"1466.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g045\" cx=\"1488.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g046\" cx=\"1510.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g047\" cx=\"1532.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g048\" cx=\"1554.0\" cy=\"659\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g049\" cx=\"1576.0\" cy=\"661\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g050\" cx=\"1385.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g051\" cx=\"1407.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g052\" cx=\"1429.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g053\" cx=\"1451.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g054\" cx=\"1473.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g055\" cx=\"1495.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g056\" cx=\"1517.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g057\" cx=\"1539.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g058\" cx=\"1561.0\" cy=\"673\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g059\" cx=\"1583.0\" cy=\"671\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" />",
+        "particles": []
+      },
+      "E12_sale_inputs": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 35,
+            "width": 552,
+            "height": 86,
+            "lines": [
+              "Pay for the next batch first"
+            ],
+            "size": 50
+          },
+          {
+            "x": 100,
+            "y": 850,
+            "width": 212,
+            "height": 90.48,
+            "lines": [
+              "Received"
+            ],
+            "size": 54
+          },
+          {
+            "x": 730,
+            "y": 850,
+            "width": 170,
+            "height": 90.48,
+            "lines": [
+              "Inputs"
+            ],
+            "size": 54
+          },
+          {
+            "x": 1390,
+            "y": 850,
+            "width": 251,
+            "height": 90.48,
+            "lines": [
+              "Remainder"
+            ],
+            "size": 54
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 560,
+            "y1": 910,
+            "x2": 710,
+            "y2": 910,
+            "color": "#203e52"
+          },
+          {
+            "x1": 1200,
+            "y1": 910,
+            "x2": 1370,
+            "y2": 910,
+            "color": "#203e52"
+          }
+        ],
+        "raw": "",
+        "particles": []
+      },
+      "E04_famine": {
+        "cards": [
+          {
+            "x": 50,
+            "y": 40,
+            "width": 445,
+            "height": 135.28,
+            "lines": [
+              "Famine 1315 and 1316",
+              "A crisis, not every year"
+            ],
+            "size": 47
+          }
+        ],
+        "arrows": [],
+        "raw": "",
+        "particles": []
+      },
+      "E13_power_relation": {
+        "cards": [
+          {
+            "x": 1060,
+            "y": 140,
+            "width": 302,
+            "height": 94.96,
+            "lines": [
+              "Pay can rise"
+            ],
+            "size": 58
+          },
+          {
+            "x": 1060,
+            "y": 390,
+            "width": 301,
+            "height": 159.92,
+            "lines": [
+              "Grain prices",
+              "rise faster"
+            ],
+            "size": 58
+          },
+          {
+            "x": 1060,
+            "y": 730,
+            "width": 328,
+            "height": 173.36,
+            "lines": [
+              "More money",
+              "Less grain"
+            ],
+            "size": 64
+          },
+          {
+            "x": 1060,
+            "y": 960.2,
+            "width": 392,
+            "height": 74.8,
+            "lines": [
+              "Illustrative relationship"
+            ],
+            "size": 40
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 1790,
+            "y1": 300,
+            "x2": 1790,
+            "y2": 165,
+            "color": "#203e52"
+          },
+          {
+            "x1": 1790,
+            "y1": 590,
+            "x2": 1790,
+            "y2": 455,
+            "color": "#8d3429"
+          }
+        ],
+        "raw": "<rect x=\"940\" y=\"0\" width=\"980\" height=\"1080\" fill=\"#fff5df\"/>"
+      },
+      "E13_shortfall": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 35,
+            "width": 452,
+            "height": 83.76,
+            "lines": [
+              "Illustrative comparison"
+            ],
+            "size": 48
+          },
+          {
+            "x": 700,
+            "y": 815,
+            "width": 306,
+            "height": 87.12,
+            "lines": [
+              "Brought home"
+            ],
+            "size": 51
+          },
+          {
+            "x": 1400,
+            "y": 750,
+            "width": 175,
+            "height": 87.12,
+            "lines": [
+              "Needed"
+            ],
+            "size": 51
+          },
+          {
+            "x": 1420,
+            "y": 145,
+            "width": 231,
+            "height": 84.88,
+            "lines": [
+              "Still short"
+            ],
+            "size": 49
+          }
+        ],
+        "arrows": [],
+        "raw": "<ellipse id=\"actual_g000\" cx=\"882.5999999999999\" cy=\"518.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g001\" cx=\"900.5999999999999\" cy=\"516.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g002\" cx=\"918.5999999999999\" cy=\"516.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g003\" cx=\"936.5999999999999\" cy=\"518.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g004\" cx=\"954.5999999999999\" cy=\"516.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g005\" cx=\"889.5999999999999\" cy=\"525.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g006\" cx=\"907.5999999999999\" cy=\"527.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g007\" cx=\"925.5999999999999\" cy=\"525.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g008\" cx=\"943.5999999999999\" cy=\"525.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g009\" cx=\"961.5999999999999\" cy=\"527.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g010\" cx=\"882.5999999999999\" cy=\"534.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g011\" cx=\"900.5999999999999\" cy=\"534.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g012\" cx=\"918.5999999999999\" cy=\"536.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g013\" cx=\"936.5999999999999\" cy=\"534.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g014\" cx=\"954.5999999999999\" cy=\"534.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g015\" cx=\"889.5999999999999\" cy=\"545.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g016\" cx=\"907.5999999999999\" cy=\"543.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g017\" cx=\"925.5999999999999\" cy=\"543.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g018\" cx=\"943.5999999999999\" cy=\"545.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"actual_g019\" cx=\"961.5999999999999\" cy=\"543.24\" rx=\"11\" ry=\"6\" fill=\"#efd079\" stroke=\"#694b22\" stroke-width=\"2\" /><ellipse id=\"goal_g000\" cx=\"1490.3999999999999\" cy=\"596.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g001\" cx=\"1508.3999999999999\" cy=\"594.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g002\" cx=\"1526.3999999999999\" cy=\"594.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g003\" cx=\"1544.3999999999999\" cy=\"596.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g004\" cx=\"1562.3999999999999\" cy=\"594.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g005\" cx=\"1580.3999999999999\" cy=\"594.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g006\" cx=\"1598.3999999999999\" cy=\"596.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g007\" cx=\"1616.3999999999999\" cy=\"594.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g008\" cx=\"1634.3999999999999\" cy=\"594.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g009\" cx=\"1652.3999999999999\" cy=\"596.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g010\" cx=\"1497.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g011\" cx=\"1515.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g012\" cx=\"1533.3999999999999\" cy=\"605.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g013\" cx=\"1551.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g014\" cx=\"1569.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g015\" cx=\"1587.3999999999999\" cy=\"605.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g016\" cx=\"1605.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g017\" cx=\"1623.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g018\" cx=\"1641.3999999999999\" cy=\"605.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g019\" cx=\"1659.3999999999999\" cy=\"603.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g020\" cx=\"1490.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g021\" cx=\"1508.3999999999999\" cy=\"614.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g022\" cx=\"1526.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g023\" cx=\"1544.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g024\" cx=\"1562.3999999999999\" cy=\"614.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g025\" cx=\"1580.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g026\" cx=\"1598.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g027\" cx=\"1616.3999999999999\" cy=\"614.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g028\" cx=\"1634.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g029\" cx=\"1652.3999999999999\" cy=\"612.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g030\" cx=\"1497.3999999999999\" cy=\"623.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g031\" cx=\"1515.3999999999999\" cy=\"621.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g032\" cx=\"1533.3999999999999\" cy=\"621.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g033\" cx=\"1551.3999999999999\" cy=\"623.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g034\" cx=\"1569.3999999999999\" cy=\"621.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g035\" cx=\"1587.3999999999999\" cy=\"621.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g036\" cx=\"1605.3999999999999\" cy=\"623.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g037\" cx=\"1623.3999999999999\" cy=\"621.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g038\" cx=\"1641.3999999999999\" cy=\"621.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" /><ellipse id=\"goal_g039\" cx=\"1659.3999999999999\" cy=\"623.0\" rx=\"11\" ry=\"6\" fill=\"none\" stroke=\"#d8c4a0\" stroke-width=\"2\" />",
+        "particles": []
+      },
+      "E14_not_offered": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 35,
+            "width": 375,
+            "height": 128.56,
+            "lines": [
+              "April 1316",
+              "The king's complaint"
+            ],
+            "size": 44
+          },
+          {
+            "x": 1030,
+            "y": 810,
+            "width": 385,
+            "height": 133.04,
+            "lines": [
+              "Grain in store",
+              "Not offered for sale"
+            ],
+            "size": 46
+          }
+        ],
+        "arrows": [],
+        "raw": "",
+        "particles": []
+      },
+      "E16_portable": {
+        "cards": [
+          {
+            "x": 60,
+            "y": 820,
+            "width": 520,
+            "height": 150.96,
+            "lines": [
+              "Can carry",
+              "Belongings in the bundle"
+            ],
+            "size": 54
+          },
+          {
+            "x": 60,
+            "y": 40,
+            "width": 555,
+            "height": 142,
+            "lines": [
+              "Left behind",
+              "Home, crop, people you know"
+            ],
+            "size": 50
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E17_location_services": {
+        "cards": [
+          {
+            "x": 65,
+            "y": 55,
+            "width": 309,
+            "height": 97.2,
+            "lines": [
+              "New address"
+            ],
+            "size": 60
+          },
+          {
+            "x": 1180,
+            "y": 55,
+            "width": 446,
+            "height": 97.2,
+            "lines": [
+              "Services still owed"
+            ],
+            "size": 60
+          },
+          {
+            "x": 65,
+            "y": 855,
+            "width": 456,
+            "height": 133.04,
+            "lines": [
+              "Walter Hull",
+              "Payment and guarantors"
+            ],
+            "size": 46
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 760,
+            "y1": 105,
+            "x2": 1130,
+            "y2": 105,
+            "color": "#203e52"
+          }
+        ],
+        "raw": ""
+      },
+      "E18_conditions": {
+        "cards": [
+          {
+            "x": 55,
+            "y": 40,
+            "width": 523,
+            "height": 89.36,
+            "lines": [
+              "Work or support waiting?"
+            ],
+            "size": 53
+          },
+          {
+            "x": 1100,
+            "y": 800,
+            "width": 531,
+            "height": 142,
+            "lines": [
+              "Without support",
+              "The next meal is uncertain"
+            ],
+            "size": 50
+          }
+        ],
+        "arrows": [],
+        "raw": "",
+        "particles": []
+      },
+      "E19_limited_right": {
+        "cards": [
+          {
+            "x": 680,
+            "y": 35,
+            "width": 446,
+            "height": 142,
+            "lines": [
+              "Hugh Cross",
+              "A limited claim upheld"
+            ],
+            "size": 50
+          },
+          {
+            "x": 1010,
+            "y": 850,
+            "width": 521,
+            "height": 137.52,
+            "lines": [
+              "Bank and hedge",
+              "Other obligations remained"
+            ],
+            "size": 48
+          }
+        ],
+        "arrows": [],
+        "raw": ""
+      },
+      "E20_support": {
+        "cards": [
+          {
+            "x": 90,
+            "y": 90,
+            "width": 500,
+            "height": 88.24,
+            "lines": [
+              "Land and future tenancy"
+            ],
+            "size": 52
+          },
+          {
+            "x": 1180,
+            "y": 90,
+            "width": 524,
+            "height": 88.24,
+            "lines": [
+              "Support and shared goods"
+            ],
+            "size": 52
+          },
+          {
+            "x": 330,
+            "y": 850,
+            "width": 504,
+            "height": 81.52,
+            "lines": [
+              "Terms varied by agreement"
+            ],
+            "size": 46
+          }
+        ],
+        "arrows": [
+          {
+            "x1": 760,
+            "y1": 150,
+            "x2": 1160,
+            "y2": 150,
+            "color": "#203e52"
+          }
+        ],
+        "raw": "",
+        "particles": []
+      },
+      "E04_stanton": {
+        "cards": [
+          {
+            "x": 50,
+            "y": 40,
+            "width": 422,
+            "height": 135.28,
+            "lines": [
+              "Stanton 1341",
+              "A separate agreement"
+            ],
+            "size": 47
+          }
+        ],
+        "arrows": [],
+        "raw": "",
+        "particles": []
+      }
+    },
+    "sfx": [
+      {
+        "start": 509,
+        "file": "medieval/video003/current/audio/wood.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "A single dry beat lands the one-Hugh reaction",
+        "beat": "R05V006",
+        "cue": "only one Hugh"
+      },
+      {
+        "start": 1857,
+        "file": "medieval/video003/current/audio/brush.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Toy moves away so the same room can be reused",
+        "beat": "R05V020",
+        "cue": "moves out"
+      },
+      {
+        "start": 3585,
+        "file": "medieval/video003/current/audio/wood.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Bundle contacts the ground",
+        "beat": "R05V040",
+        "cue": "put it down"
+      },
+      {
+        "start": 6130,
+        "file": "medieval/video003/current/audio/brush.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Paperwork is the established chicken callback",
+        "beat": "R05V067",
+        "cue": "paperwork"
+      },
+      {
+        "start": 6593,
+        "file": "medieval/video003/current/audio/brush.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Seed changes its use, not an arbitrary transition",
+        "beat": "R05V071",
+        "cue": "grain kept for sowing"
+      },
+      {
+        "start": 7020,
+        "file": "medieval/video003/current/audio/ceramic.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "A short ceramic-like click lands the pot joke",
+        "beat": "R05V075",
+        "cue": "pottery supply"
+      },
+      {
+        "start": 7471,
+        "file": "medieval/video003/current/audio/coin.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Coin contact at the transaction",
+        "beat": "R05V081",
+        "cue": "receive money"
+      },
+      {
+        "start": 9834,
+        "file": "medieval/video003/current/audio/brush.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Cloth bundle is being folded",
+        "beat": "R05V107",
+        "cue": "Fold"
+      },
+      {
+        "start": 11312,
+        "file": "medieval/video003/current/audio/brush.wav",
+        "duration": 7,
+        "volume": 0.85,
+        "reason": "Paper texture marks the arrival of a recorded-case card",
+        "beat": "R05V122",
+        "cue": "Hugh Cross"
+      }
+    ]
+  }
+}

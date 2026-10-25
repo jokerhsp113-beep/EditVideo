@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "status": "draft",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "profile": "biy-science",
+  "audio": [],
+  "review": {
+    "visual": "pending",
+    "audio": "not-applicable",
+    "notes": [
+      "Illustrative motion study. Not a scientifically verified final; no narration is supplied."
+    ]
+  },
+  "id": "Evidence",
+  "title": "Evidence and uncertainty kept distinct",
+  "durationFrames": 300,
+  "intent": "Show a readable evidence/caveat layout without inventing a study, a statistic or scientific certainty.",
+  "scenes": [
+    {
+      "id": "evidence",
+      "purpose": "evidence",
+      "takeaway": "A visual explanation and evidence for a real-world effect are different things.",
+      "start": {
+        "frame": 0
+      },
+      "durationFrames": 300,
+      "holdReason": "This is a reading scene; avoid periodic pulses and let the viewer read both statements.",
+      "layers": [
+        {
+          "id": "brand",
+          "kind": "text",
+          "text": "BUILT INTO YOU",
+          "x": 360,
+          "y": 104,
+          "width": 400,
+          "height": 50,
+          "fontSize": 26,
+          "fill": "#167A73",
+          "align": "left",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "rule",
+          "kind": "rect",
+          "x": 960,
+          "y": 154,
+          "width": 1600,
+          "height": 2,
+          "fill": "#D1DAD8",
+          "z": 0
+        },
+        {
+          "id": "schematic",
+          "kind": "text",
+          "text": "Conceptual schematic · not to scale",
+          "x": 435,
+          "y": 967,
+          "width": 550,
+          "height": 40,
+          "fontSize": 24,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 600,
+          "z": 10
+        },
+        {
+          "id": "eyebrow",
+          "kind": "text",
+          "text": "03 / EVIDENCE",
+          "x": 460,
+          "y": 213,
+          "width": 600,
+          "height": 44,
+          "fontSize": 28,
+          "fill": "#526873",
+          "align": "left",
+          "weight": 600,
+          "z": 10
+        },
+        {
+          "id": "headline",
+          "kind": "text",
+          "text": "KEEP THE CAVEAT.",
+          "x": 960,
+          "y": 317,
+          "width": 1600,
+          "height": 120,
+          "fontSize": 72,
+          "fill": "#172A35",
+          "align": "center",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "known-card",
+          "kind": "rect",
+          "x": 520,
+          "y": 651,
+          "width": 720,
+          "height": 420,
+          "fill": "#FFFDF8",
+          "z": 0,
+          "radius": 24,
+          "stroke": "#D1DAD8",
+          "strokeWidth": 2
+        },
+        {
+          "id": "unknown-card",
+          "kind": "rect",
+          "x": 1400,
+          "y": 651,
+          "width": 720,
+          "height": 420,
+          "fill": "#FFFDF8",
+          "z": 0,
+          "radius": 24,
+          "stroke": "#D1DAD8",
+          "strokeWidth": 2
+        },
+        {
+          "id": "known-icon",
+          "kind": "image",
+          "assetId": "pro-editor/evidence.svg",
+          "x": 282,
+          "y": 535,
+          "width": 100,
+          "height": 100,
+          "z": 3
+        },
+        {
+          "id": "unknown-icon",
+          "kind": "image",
+          "assetId": "pro-editor/uncertainty.svg",
+          "x": 1162,
+          "y": 535,
+          "width": 100,
+          "height": 100,
+          "z": 3
+        },
+        {
+          "id": "known-label",
+          "kind": "text",
+          "text": "WHAT IS SHOWN",
+          "x": 577,
+          "y": 539,
+          "width": 430,
+          "height": 54,
+          "fontSize": 30,
+          "fill": "#167A73",
+          "align": "left",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "unknown-label",
+          "kind": "text",
+          "text": "WHAT IS NOT SHOWN",
+          "x": 1457,
+          "y": 539,
+          "width": 430,
+          "height": 54,
+          "fontSize": 30,
+          "fill": "#C8614E",
+          "align": "left",
+          "weight": 700,
+          "z": 10
+        },
+        {
+          "id": "known-body",
+          "kind": "text",
+          "text": "A simplified mechanism\ncan make an idea\nunderstandable.",
+          "x": 520,
+          "y": 704,
+          "width": 574,
+          "height": 186,
+          "fontSize": 40,
+          "fill": "#172A35",
+          "align": "left",
+          "weight": 500,
+          "z": 10
+        },
+        {
+          "id": "unknown-body",
+          "kind": "text",
+          "text": "It does not establish\nhow large the effect is\nin real people.",
+          "x": 1400,
+          "y": 704,
+          "width": 574,
+          "height": 186,
+          "fontSize": 40,
+          "fill": "#172A35",
+          "align": "left",
+          "weight": 500,
+          "z": 10
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

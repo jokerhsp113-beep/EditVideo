@@ -1,0 +1,133 @@
+{
+  "episode": {
+    "shots": [
+      {
+        "background": "#F4EDE1",
+        "fromFrame": 0,
+        "id": "native-grid",
+        "layers": [
+          {
+            "nativeId": "N_PAPER",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 330,
+            "z": 0,
+            "width": 600,
+            "kind": "native",
+            "y": 190.0,
+            "id": "N_PAPER",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_SUN",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 960,
+            "z": 1,
+            "width": 600,
+            "kind": "native",
+            "y": 190.0,
+            "id": "N_SUN",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_SCOPE",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 1590,
+            "z": 2,
+            "width": 600,
+            "kind": "native",
+            "y": 190.0,
+            "id": "N_SCOPE",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_RELATION",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 330,
+            "z": 3,
+            "width": 600,
+            "kind": "native",
+            "y": 520.0,
+            "id": "N_RELATION",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_HOUSE",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 960,
+            "z": 4,
+            "width": 600,
+            "kind": "native",
+            "y": 520.0,
+            "id": "N_HOUSE",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_LIGHT_FX",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 1590,
+            "z": 5,
+            "width": 600,
+            "kind": "native",
+            "y": 520.0,
+            "id": "N_LIGHT_FX",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_RULE",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 330,
+            "z": 6,
+            "width": 600,
+            "kind": "native",
+            "y": 850.0,
+            "id": "N_RULE",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_RECAP",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 960,
+            "z": 7,
+            "width": 600,
+            "kind": "native",
+            "y": 850.0,
+            "id": "N_RECAP",
+            "height": 300,
+            "color": "#3A302B"
+          },
+          {
+            "nativeId": "N_SEAT",
+            "text": "REST|WORK|SOURCE SCOPE",
+            "x": 1590,
+            "z": 8,
+            "width": 600,
+            "kind": "native",
+            "y": 850.0,
+            "id": "N_SEAT",
+            "height": 300,
+            "color": "#3A302B"
+          }
+        ]
+      }
+    ],
+    "audio": [],
+    "planVersion": "2",
+    "version": "1",
+    "fps": 30,
+    "words": [],
+    "durationInFrames": 30,
+    "timingBasis": "estimated",
+    "id": "video004-native-proof",
+    "assets": [],
+    "height": 1080,
+    "scriptVersion": "V06",
+    "width": 1920
+  }
+}

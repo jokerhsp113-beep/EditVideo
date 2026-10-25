@@ -1,0 +1,54 @@
+{
+  "id": "biy-science",
+  "version": 2,
+  "background": "#F6F4EF",
+  "ink": "#172A35",
+  "muted": "#526873",
+  "teal": "#167A73",
+  "tealSoft": "#D8EAE4",
+  "coral": "#C8614E",
+  "coralSoft": "#F2DED6",
+  "line": "#D1DAD8",
+  "fontFamily": "\"BIY Hand\", \"BIY Symbols\", \"BIY Symbols Extended\", \"BIY Math\", sans-serif",
+  "safe": {
+    "x": 96,
+    "top": 72,
+    "bottom": 84
+  },
+  "headlineSize": 76,
+  "bodySize": 40,
+  "captionSize": 42,
+  "motion": {
+    "defaultEntrance": "none",
+    "defaultCamera": "locked",
+    "allowAutomaticPulse": false
+  },
+  "editorial": {
+    "staticHoldNeedsReason": true,
+    "preserveScientificCaveats": true,
+    "styleApproval": "pending"
+  },
+  "typography": {
+    "family": "Patrick Hand",
+    "file": "fonts/PatrickHand-Regular.ttf",
+    "weight": 400,
+    "syntheticWeight": false,
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "symbolFallback": "fonts/NotoSans-Regular.ttf",
+    "extendedSymbolFallback": "fonts/NotoSansSymbols2-Regular.ttf",
+    "mathFallback": "fonts/NotoSansMath-Regular.ttf"
+  },
+  "annotation": {
+    "linecap": "round",
+    "linejoin": "round",
+    "dashRatio": [
+      1.6,
+      2.2
+    ],
+    "motion": "deterministic draw-on",
+    "noDecorativeShadow": true
+  }
+}
